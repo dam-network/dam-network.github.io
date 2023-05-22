@@ -1,0 +1,21 @@
+# Setup
+title:               Discrete and Algorithmic Mathematics
+tagline:             'Red de Matemática Discreta y Algorítmica'
+description:         'Wbsite hosting info about the Discrete and Algorithmic Mathematics Spanish network'
+url:                 "/"
+baseurl:             '/'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Pedro A. García Sánchez
+  url:               https://www.ugr.es/local/pedro
+
+# Gems
+plugins:
+  - jekyll-paginate
+#gems: [jekyll-paginate]
+
+# Custom vars
+version:             1.1.0

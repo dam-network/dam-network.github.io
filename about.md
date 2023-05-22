@@ -1,4 +1,11 @@
-# Discrete and algorithmic mathematics Spanish network
+---
+layout: page
+title: About
+---
+
+<!--<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>-->
 
 Discrete and algorithmic mathematics is an area of mathematics that studies combinatorial and geometric discrete structures, in particular graphs and networks, finite geometries, discrete geometrical structures and combinatorial aspects in algebra and number theory, including their computational and algorithmic aspects, which arise from the natural connection of discrete mathematics with computer science. The tools coming from analytic, topological, algebraic, geometric and probabilistic methods as well as its wide range of applications in computer science, information theory, coding theory, statistics, physics, biology and social sciences makes discrete mathematics a genuine interdisciplinary area both within mathematics and in science and technology.
 
