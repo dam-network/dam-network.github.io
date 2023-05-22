@@ -2,7 +2,7 @@
 title:               Discrete and Algorithmic Mathematics
 tagline:             'Red de Matemática Discreta y Algorítmica'
 description:         'Wbsite hosting info about the Discrete and Algorithmic Mathematics Spanish network'
-url:                 "/"
+url:                 "dam-network.github.io"
 baseurl:             '/'
 paginate:            5
 permalink:           pretty

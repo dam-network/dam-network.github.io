@@ -1,0 +1,49 @@
+<svg width="2096" height="2908" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <metadata id="metadata8">image/svg+xml</metadata>
+ <defs id="defs6">
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath18">
+   <path d="m-38.02555,781.23573l595.276,0l0,-841.89l-595.276,0l0,841.89z" id="path16"/>
+  </clipPath>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath70">
+   <path d="m0,841.89l595.276,0l0,-841.89l-595.276,0l0,841.89z" id="path68"/>
+  </clipPath>
+  <linearGradient x1="0" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" id="linearGradient40">
+   <stop stop-color="#ffffff" offset="0" id="stop36"/>
+   <stop stop-color="#073b8a" offset="1" id="stop38"/>
+  </linearGradient>
+  <linearGradient x1="0.00001" y1="0.50001" x2="1.00001" y2="0.50001" spreadMethod="pad" id="linearGradient60">
+   <stop stop-color="#ffffff" offset="0" id="stop56"/>
+   <stop stop-color="#073b8a" offset="1" id="stop58"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <g stroke="null" transform="matrix(33.2072 0 0 -38.0877 -7573.15 15353.5)" id="g12">
+    <g stroke="null" id="g14" clip-path="url(#clipPath18)">
+     <g stroke="null" id="g20">
+      <path stroke="null" fill="#053a8b" fill-rule="nonzero" d="m283.59405,326.87704c0,-0.858 -6.793,4.955 -12.273,8.928c0,0 12.548,23.5 3.472,67.258c0,0 16.33,-4.998 16.229,-5.784c-0.6,-4.599 -7.41,-26.792 -7.428,-70.402" id="path22"/>
+     </g>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(33.2072 0 0 -38.0877 -7573.15 15353.5)" id="g24">
+    <g stroke="null" id="g26">
+     <g stroke="null" id="g32">
+      <g stroke="null" id="g34">
+       <path stroke="null" fill="url(#linearGradient40)" d="m254.60945,344.84173c4.279,-1.482 15.354,-2.923 27.799,-3.506l0,0c0,0 -18.013,1.898 -25.379,6.74l0,0c-31.855,20.925 6.086,50.517 6.086,50.517l0,0c0,0 -62.024,-35.203 -8.506,-53.751" id="path42"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(33.2072 0 0 -38.0877 -7573.15 15353.5)" id="g44">
+    <g stroke="null" id="g46">
+     <g stroke="null" id="g52">
+      <g stroke="null" id="g54">
+       <path stroke="null" fill="url(#linearGradient60)" d="m265.72045,390.06073c-3.171,-15.617 -39.415,-25.254 -37.525,-25.133l0,0c1.76,0.112 39.291,6.351 42.91,23.027l0,0c2.155,9.932 -12.701,11.172 -12.701,11.172l0,0c0,0 8.815,-1.692 7.316,-9.066" id="path62"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
