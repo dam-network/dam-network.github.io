@@ -7,6 +7,7 @@ title: Research groups
 
 </p>-->
 
+### Representantes de cada nodo, con afiliación y grupo al que pertenecen
 
 - [Pablo Candela](https://verso.mat.uam.es/~pablo.candela/), Universidad Autónoma de Madrid, [Harmonic Analysis, Combinatorics and Arithmetics](https://matematicas.uam.es/~fernando.chamizo/grant/overview.html)
 
