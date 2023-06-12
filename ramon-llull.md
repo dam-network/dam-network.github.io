@@ -11,9 +11,9 @@ The awardee will give a prize talk at the conference. Travel within Europe and a
 
 The topics of the prize cover all areas related to Discrete Mathematics, including but not limited to
 
+- Coding Theory and Cryptography
 - Combinatorial Number Theory
 - Combinatorics
-- Coding Theory and Cryptography
 - Discrete and Computational Geometry
 - Discrete Optimization
 - Graph Theory
