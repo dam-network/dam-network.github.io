@@ -53,3 +53,5 @@ The deadline for the first edition of the Prize is **31 of January, 2024**.
 
 - G. Hägele and F. Pukelsheim (2001). "Llull's writings on electoral systems". Studia Lulliana. 41: 3–38. Archived from the original on 2006-02-07.
 </span>
+
+![alt text](./Images/gapcomb.jpeg)
