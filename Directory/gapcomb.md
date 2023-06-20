@@ -1,6 +1,5 @@
 ---
 layout: page
-title: GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics
 ---
 
 # [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
@@ -52,7 +51,7 @@ MSCA-RISE-2020-101007705 -- Research and Innovation Staff Exchange (Horizon 2020
 
 ## Selected Publications 
 
- <span style="font-size:1em;">
+
 
 F. Joos, G. Perarnau, D. Rautenbach and B. Reed. How to determine if a random graph with a fixed degree sequence has a giant component. Probability Theory and Related Fields, 170(1):263-310 (2018). Proceedings version at FOCS 2016.
 
@@ -71,4 +70,3 @@ O. Giménez, M. Noy, Asymptotic enumeration and limit laws for planar graphs, Jo
 J. Pfeifle, G.M. Ziegler, Many triangulated 3-spheres, Mathematische Annalen 330(4):829-837 (2004).
 
 
-</span>
