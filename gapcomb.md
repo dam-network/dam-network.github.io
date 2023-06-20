@@ -4,7 +4,7 @@ layout: page
 
 # [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
 
-![alt text](./gapcomb.jpeg)
+![image](/Directory/gapcomb.jpeg)
 
 
 ## Research Interests
@@ -31,9 +31,9 @@ Sofiya Burova, Jordi Castellvi, Miquel Ortega, Tabriz Popatia, Robin Simoens, Ri
 
 PID2021-126851NB-I00 -- Geometric Methods in Group Theory. PI: E. Ventura. 2022-25.
 
-PID2020-113082GB-I00 -- CONTREWA: Combinatorics: new trends and real-world applications. PI: S. Ball, G. Perarnau. 2021-24
+PID2020-113082GB-I00 -- CONTREWA: Combinatorics: new trends and real-world applications. PI: S. Ball, G. Perarnau. 2021-24.
 
-RED2022-134947-T -- [Red de Matemática Discreta y Algorítmica](asdf). Coordinator: G. Perarnau. 2023-25
+RED2022-134947-T -- [Red de Matemática Discreta y Algorítmica](asdf). Coordinator: G. Perarnau. 2023-25.
 
 MSCA-RISE-2020-101007705 -- Research and Innovation Staff Exchange (Horizon 2020), [RandNET: Randomness and learning in networks](https://randnet.upc.edu/). PI: M. Noy. 2022-26.
 
@@ -51,7 +51,7 @@ MSCA-RISE-2020-101007705 -- Research and Innovation Staff Exchange (Horizon 2020
 
 ## Selected Publications 
 
- <span style="font-size:1em;">
+
 
 F. Joos, G. Perarnau, D. Rautenbach and B. Reed. How to determine if a random graph with a fixed degree sequence has a giant component. Probability Theory and Related Fields, 170(1):263-310 (2018). Proceedings version at FOCS 2016.
 
@@ -70,4 +70,3 @@ O. Giménez, M. Noy, Asymptotic enumeration and limit laws for planar graphs, Jo
 J. Pfeifle, G.M. Ziegler, Many triangulated 3-spheres, Mathematische Annalen 330(4):829-837 (2004).
 
 
-</span>
