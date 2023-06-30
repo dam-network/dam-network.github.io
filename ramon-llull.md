@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ramon Llull Prize in Discrete Mathematics
+title: Ramon Llull Prize
 ---
 
-The Ramon Llull Prize in Discrete Mathematics is an academic award for outstanding doctoral thesis in Discrete Mathematics. It is awarded every two years by the Spanish Red de Matemática Discreta y Algorítmica (MDA). The prize winner is announced during the biennial edition of the Discrete Mathematics Days (DMD). Next edition of DMD will be held in July 3-5 2024 in Alcalá de Henares: 
+The **Ramon Llull Prize in Discrete Mathematics** is an academic award for outstanding doctoral thesis in Discrete Mathematics. It is awarded every two years by the Spanish Red de Matemática Discreta y Algorítmica (MDA). The prize winner is announced during the biennial edition of the Discrete Mathematics Days (DMD). Next edition of DMD will be held in July 3-5 2024 in Alcalá de Henares: 
 
 https://dmd2024.web.uah.es/
 

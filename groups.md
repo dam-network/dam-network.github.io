@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Research groups
+title: Nodes of the network
 ---
 
 <!--<p class="message">
 
 </p>-->
 
-### Representantes de cada nodo, con afiliación y grupo al que pertenecen
+### Node coordinators, with affiliations and research group
 
 - [Pablo Candela](https://verso.mat.uam.es/~pablo.candela/), Universidad Autónoma de Madrid, [Harmonic Analysis, Combinatorics and Arithmetics](https://matematicas.uam.es/~fernando.chamizo/grant/overview.html)
 
@@ -25,4 +25,4 @@ title: Research groups
 
 - [Francisco Santos](https://personales.unican.es/santosf/), Universidad de Cantabria, [Geometria Diferencial y Discreta](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=709)
 
-- [Guillem Perarnau](https://web.mat.upc.edu/guillem.perarnau/) (**coordinator**), Universitat Politècnica de Catalunya, [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
+- [Guillem Perarnau](https://web.mat.upc.edu/guillem.perarnau/) (**coordinator principal**), Universitat Politècnica de Catalunya, [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
