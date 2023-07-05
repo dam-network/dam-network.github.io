@@ -5,4 +5,6 @@ title: Research Groups Directory
 
 This webpage will contain a list of research groups in Discrete Mathematics and related areas that are based in Spain.
 
-Example: [GAPCOMB](/directory/gapcomb)
+At the moment it is under construction.
+
+Here we provide two examples: [GAPCOMB](/directory/gapcomb), [FQM](/directory/fqm-343).
