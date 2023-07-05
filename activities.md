@@ -16,11 +16,11 @@ The Santander Workshop on Geometric and Algebraic Combinatorics will have a hybr
 
 ## 2023
 
-**[Encuentro andaluz de Matemática Discreta 2024](https://xiiieamd.uca.es/)**, July 5-7, 2023.
+**[Encuentro andaluz de Matemática Discreta 2024](https://xiiieamd.uca.es/)**, Cádiz, July 5-7, 2023.
 
 The 13th edition of the Encuentro Andaluz de Matemática Discreta takes place in Cádiz, organized by the Departments of Mathemtaics and Statistics and OR. 
 
-**[XX Spanish Meeting on Computational Geometry](https://egc23.web.uah.es/)**, Santiago Compostela,  July 3-5, 2023
+**[XX Spanish Meeting on Computational Geometry](https://egc23.web.uah.es/)**, Santiago de Compostela,  July 3-5, 2023
 
 The XX Spanish Meeting on Computational Geometry took place from July 3 to 5, 2023, at Universidad de Santiago de Compostela, Santiago de Compostela, Spain. The core of this international conference is composed by the most current issues in the field of Discrete and Computational Geometry, both in its theoretical and applied aspects. The EGC series began in 1990. 
 
