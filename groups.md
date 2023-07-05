@@ -25,4 +25,4 @@ title: Nodes of the network
 
 - [Francisco Santos](https://personales.unican.es/santosf/), Universidad de Cantabria, [Geometria Diferencial y Discreta](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=709)
 
-- [Guillem Perarnau](https://web.mat.upc.edu/guillem.perarnau/) (**principal coordinator**), Universitat Politècnica de Catalunya, [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
+- [Guillem Perarnau](https://web.mat.upc.edu/guillem.perarnau/) (**coordinator**), Universitat Politècnica de Catalunya, [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
