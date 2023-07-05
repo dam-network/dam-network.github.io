@@ -7,4 +7,4 @@ This webpage will contain a list of research groups in Discrete Mathematics and 
 
 At the moment it is under construction.
 
-Here we provide two examples: [GAPCOMB](/directory-groups/gapcomb), [FQM](/directory-groups/fqm-343).
+Here we provide two examples: [Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb), [Semigrupos conmutativos](/directory-groups/fqm-343).
