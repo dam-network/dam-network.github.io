@@ -4,7 +4,7 @@ layout: page
 
 # [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
 
-![image](/Directory/gapcomb.jpeg)
+![image](/directory-groups/gapcomb.jpeg)
 
 
 ## Research Interests
