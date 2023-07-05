@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 ---
 
 # [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
