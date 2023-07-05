@@ -14,13 +14,13 @@ Convex polytopes, triangulations, tropical geometry, lattice polytopes, symmetry
 ## Members
 
 ### Faculty
-[Francisco Santos](https://personales.unican.es/santosf) (coordinator),
-[Fernando Etayo Gordejuela](https://personales.unican.es/etayof),
-[Nuria Corral Pérez](https://personales.unican.es/corralp),
-[Mario Fioravanti](https://personales.unican.es/fioravam),
-[Francisco Criado Gallart](https://www.cunef.edu/claustro/criado-gallart-francisco/),
-Jorge Olarte Parra,
-Mónica Blanco Gómez. 
+[Francisco Santos](https://personales.unican.es/santosf) (Universidad de Cantabria, coordinator),
+[Fernando Etayo Gordejuela](https://personales.unican.es/etayof) (U. de Cantabria),
+[Nuria Corral Pérez](https://personales.unican.es/corralp) (U. de Cantabria),
+[Mario Fioravanti](https://personales.unican.es/fioravam) (U. de Cantabria),
+[Francisco Criado Gallart](https://www.cunef.edu/claustro/criado-gallart-francisco/) (CUNEF Universidad),
+Jorge Olarte Parra (CUNEF Universidad),
+Mónica Blanco Gómez (U. de Cantabria). 
 
 
 ### Postdoctoral Researchers
