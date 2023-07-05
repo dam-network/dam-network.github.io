@@ -35,17 +35,18 @@ The deadline for the first edition of the Prize is **31 of January, 2024**.
 ## Who was Ramon Llull?
 
 **Ramon Llull** (1232-1316) was a medieval philosopher born in Mallorca in 1232. Professor at the University of Paris, indefatigable traveler, he wrote more than 200 books on religion, phylosophy, science, moral and social order. He introduced a method named *Ars combinatoria*, a cosmogony integrating science, philosophy and religion in a common combinatorial framework, a complex devise synthesized in his Combinatorial Wheel, which intended to unify all knowledge and solve all problems, creating a vast network that connected men with God. Apart from his contribution to Combinatorics, Llull is considered to be the inventor of Condorcet voting method, 500 years before it was introduced by the Marquis of Condorcet. The Lullian Art had a notable influence on the development of Mathematics, in particular in the work of Leibniz on formal logic *Dissertio de Arte Combinatoria*.  
-<br />
-<table>
-<th>  
-<img src="Images/RLL2.png" alt="isolated" width="350"/>
-</th>
-<th>
-<img src="Images/RLL1.png" alt="isolated" width="350"/>
-</th>
+
+<table style="border:0px;">
+<tr>
+<td style="border:0px;background:white">  
+<img src="Images/RLL2.png" alt="isolated" width="100%"/>
+</td>
+<td style="border:0px;background:white">
+<img src="Images/RLL1.png" alt="isolated" width="100%"/>
+</td>
+</tr>
 </table>
 
-<br />
 
 ### References
 
