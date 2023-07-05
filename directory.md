@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Directory Research Groups
+title: Research Groups Directory
 ---
 
 This webpage will contain a list of research groups in Discrete Mathematics and related areas that are based in Spain.
