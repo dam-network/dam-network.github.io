@@ -51,6 +51,15 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.page-content {
+    flex: 1;
+}
+
 
 /*
  * Wrapper
@@ -62,8 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .wrap {
   position: relative;
-  width: 100%;
-}
+  width: 100%;}
 
 
 /*
