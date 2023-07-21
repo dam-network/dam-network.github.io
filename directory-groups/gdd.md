@@ -22,10 +22,6 @@ Convex polytopes, triangulations, tropical geometry, lattice polytopes, symmetry
 Jorge Olarte Parra (CUNEF Universidad),
 Mónica Blanco Gómez (U. de Cantabria). 
 
-
-### Postdoctoral Researchers
-
-
 ### PhD Students
 Luis Crespo Ruiz, David Senovilla, Pablo Gómez Nicolás.
 

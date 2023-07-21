@@ -31,9 +31,10 @@ Sofiya Burova, Jordi Castellvi, Miquel Ortega, Tabriz Popatia, Robin Simoens, Ri
 
 ## Links of interest
 
+[GAPCOMB](https://gapcomb.upc.edu/en/), webpage of the GAPCOMB research group. <br />
 [LIMDA Seminar](https://gapcomb.upc.edu/en/seminar-en/forthcoming-seminars), weekly on Thursdays at 16:10, streamed online. <br />
 [Reading Group](https://gapcomb.upc.edu/en/seminar-en/reading-group), on hot topics in Modern Combinatorics.<br />
-[GAPCOMB Workshop](https://gapcomb.upc.edu/en/seminar-en/master-seminar-on-code-theory), annual group meeting.<br />
+[GAPCOMB Workshop](https://gapcomb.upc.edu/en/seminar-en/4th-gapcomb-workshop), annual group meeting.<br />
 [Outreach](https://gapcomb.upc.edu/en/outreach) activities within the group.
 
 
