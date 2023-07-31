@@ -7,13 +7,15 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 
 
-- [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb)
+- [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb).
 
-- [GDD: Geometría Diferencial y Discreta](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=709)
+- [GDD: Geometría Diferencial y Discreta](/directory-groups/gdd).
+
+- [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164).
 
 - [Semigrupos conmutativos](/directory-groups/fqm-343).
 
-- [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](/directory-groups/singacom)
+- [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](/directory-groups/singacom).
 
 
 
