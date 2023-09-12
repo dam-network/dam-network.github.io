@@ -19,7 +19,7 @@ title: Nodes of the network
 
 - [David Orden](https://ordend.web.uah.es), Universidad de Alcalá, TOPPING - Theory and applications of point configurations and graphs
 
-- [Arnau Padrol](https://webusers.imj-prg.fr/~arnau.padrol/), Universitat de Barcelona, CUB - Grup de recerca en combinatòria de la UB
+- [Arnau Padrol](https://webusers.imj-prg.fr/~arnau.padrol/), Universitat de Barcelona, [CUB - Grup de recerca en combinatòria de la UB](https://www.ub.edu/comb/)
 
 - [Diego Ruano](https://www.singacom.uva.es/~ruano/), Universidad de Valladolid, [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](http://www.singacom.uva.es/EN/index.php)
 
