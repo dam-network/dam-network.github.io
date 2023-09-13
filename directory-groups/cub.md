@@ -23,8 +23,8 @@ Chiara Mantovani, Eva Philippe, Germain Poullot, Gil Puig i Surroca.
 
 ## Links of interest
 
-[CUB] (https://www.ub.edu/comb/), webpage of the research group. <br />
-[Three talks in combinatorics] (https://pageperso.lis-lab.fr/~kolja.knauer/3TiC/3TiC.html), recurring seminar series.
+[CUB](https://www.ub.edu/comb/), webpage of the research group. <br />
+[Three talks in combinatorics](https://pageperso.lis-lab.fr/~kolja.knauer/3TiC/3TiC.html), recurring seminar series.
 
 
 
