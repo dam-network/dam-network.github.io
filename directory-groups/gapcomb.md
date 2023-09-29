@@ -5,6 +5,8 @@ title: ""
 
 # [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](https://gapcomb.upc.edu/en)
 
+# Universitat Politècnica de Catalunya
+
 ![image](/directory-groups/gapcomb.jpeg)
 
 
