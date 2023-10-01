@@ -15,6 +15,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164).
 
+- [Research Group on Discrete Mathematics](/directory-groups/rgdm).
+
 - [Semigrupos conmutativos](/directory-groups/fqm-343).
 
 - [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](/directory-groups/singacom).
