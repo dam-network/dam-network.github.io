@@ -3,17 +3,6 @@ layout: page
 title: ""
 ---
 
-Research Interests
-
-
-Members
-
-Faculty:  
-
-Links of interest
-
-
-
 
 # [CCSG: Combinatorics, Coding and Security Group](https://ccsg.uab.cat/)
 
