@@ -22,8 +22,7 @@ Coding Theory, Mathematics of Privacy, Secret Sharing Schemes, Algebraic and Enu
 
 ### External
 
-Alonso S. Castellanos (Universidade Federal de Uberlândia), Kwankyu Lee (Chosun University
-), [Michael E. O'Sullivan](https://mosullivan.sdsu.edu/) (San Diego State University), [Luciane Quoos](https://sites.google.com/im.ufrj.br/lucianequoos/) (Universidade Federal do Rio de Janeiro), [Klara Stokes](https://www.umu.se/en/staff/klara-stokes/) (Umea University)
+Alonso S. Castellanos (Universidade Federal de Uberlândia), Kwankyu Lee (Chosun University), [Michael E. O'Sullivan](https://mosullivan.sdsu.edu/) (San Diego State University), [Luciane Quoos](https://sites.google.com/im.ufrj.br/lucianequoos/) (Universidade Federal do Rio de Janeiro), [Klara Stokes](https://www.umu.se/en/staff/klara-stokes/) (Umea University)
 
 ## Links of interest
 
