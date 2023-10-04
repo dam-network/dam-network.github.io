@@ -17,7 +17,7 @@ title: Nodes of the network
 
 - [Gábor Lugosi](https://www.econ.upf.edu/~lugosi/), Universitat Pompeu Fabra, [Statistics@UPF](https://sites.google.com/view/stats-upf/)
 
-- [David Orden](https://ordend.web.uah.es), Universidad de Alcalá, TOPPING - Theory and applications of point configurations and graphs
+- [David Orden](https://ordend.web.uah.es), Universidad de Alcalá, [NetIS - Networks and Intelligent Systems](directory-groups/netis/)
 
 - [Arnau Padrol](https://webusers.imj-prg.fr/~arnau.padrol/), Universitat de Barcelona, [CUB - Grup de recerca en combinatòria de la UB](https://www.ub.edu/comb/)
 
