@@ -13,7 +13,7 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [CODICO: Códigos, diseños, criptografía y optimización](/directory-groups/fqm-016)
 
-- [COPRICA: Codis, Privadesa i Combinatòria Algebraica](https://crises-deim.urv.cat/~mbras/coprica)
+- [COPRICA: Codis, Privadesa i Combinatòria Algebraica](/directory-groups/coprica)
 
 - [CUB: Combinatorics at UB](/directory-groups/cub).
 
