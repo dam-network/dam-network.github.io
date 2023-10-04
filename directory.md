@@ -9,6 +9,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [CCSG: Combinatorics, Coding and Security Group](/directory-groups/ccsg)
 
+- [CODICO: Códigos, diseños, criptografía y optimización](/directory-groups/fqm-016)
+
 - [CUB: Combinatorics at UB](/directory-groups/cub).
 
 - [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb).
