@@ -31,5 +31,5 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](/directory-groups/singacom).
 
-
+- [Statistics@UPC](/directory-groups/stats_upf)
 
