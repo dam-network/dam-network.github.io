@@ -7,7 +7,7 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [ARCOMAR: Análisis armónico, combinatoria y aritmética](/directory-groups/arcomar)
 
-- [Combinatoria y optimización: aplicación de modelos matemáticos discretos](/directory-groups/fqm-371).
+- [Combinatoria y optimización: aplicación de modelos matemáticos discretos](/directory-groups/fqm-371)
 
 - [CCSG: Combinatorics, Coding and Security Group](/directory-groups/ccsg)
 
@@ -15,21 +15,23 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [COPRICA: Codis, Privadesa i Combinatòria Algebraica](/directory-groups/coprica)
 
-- [CUB: Combinatorics at UB](/directory-groups/cub).
+- [CUB: Combinatorics at UB](/directory-groups/cub)
 
-- [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb).
+- [DCCG: Discrete, Combinatorial and Computational Geometry](/directory-groups/dccg)
 
-- [GDD: Geometría Diferencial y Discreta](/directory-groups/gdd).
+- [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb)
 
-- [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164).
+- [GDD: Geometría Diferencial y Discreta](/directory-groups/gdd)
 
-- [NetIS: Networks and Intelligent Systems](/directory-groups/netis).
+- [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164)
 
-- [Research Group on Discrete Mathematics](/directory-groups/rgdm).
+- [NetIS: Networks and Intelligent Systems](/directory-groups/netis)
 
-- [Semigrupos conmutativos](/directory-groups/fqm-343).
+- [Research Group on Discrete Mathematics](/directory-groups/rgdm)
 
-- [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](/directory-groups/singacom).
+- [Semigrupos conmutativos](/directory-groups/fqm-343)
+
+- [SINGACOM: SINGularities, Algebraic Geometry, COmmutative Algebra, COding, COMbinatorics, COMputation and Optimization](/directory-groups/singacom)
 
 - [Statistics@UPF](/directory-groups/stats-upf)
 
