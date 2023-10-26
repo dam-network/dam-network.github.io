@@ -26,7 +26,7 @@ Computational geometry and its applications (especially geometric algorithms for
 
 ### PhD Students
 
-Andrea de las Heras, Guillermo Esteban
+Andrea de las Heras, [Guillermo Esteban](https://guillermoesteban.web.uah.es/)
 
 ## Links of interest
 
