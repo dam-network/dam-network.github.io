@@ -27,6 +27,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [GDD: Geometría Diferencial y Discreta](/directory-groups/gdd)
 
+- [Invariantes en Teoría de Grafos y Optimización](/directory-groups/fqm-240)
+
 - [MAPHTE: Matrix Analysis and Discrete Potential Theory](/directory-groups/maphte)
 
 - [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164)
