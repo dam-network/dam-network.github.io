@@ -5,8 +5,6 @@ title: Activities
 
 ## 2024
 
-
-
 **[Discrete Mathematics Days 2024](https://dmd2024.web.uah.es/)**, Alcalá de Henares, July 3-5, 2024.\
 The Discrete Mathematics Days (DMD 2024) will be held on July 3-5, 2024, at the Universidad de Alcalá, in Alcalá de Henares (Spain). The main focus of this international conference is on current topics in Discrete Mathematics. Known as Discrete Mathematics Days since 2016, this conference inherits the tradition of the Jornadas de Matemática Discreta y Algorítmica (JMDA), the Spanish biennial meeting on Discrete Mathematics started in 1998. The program consists consist of four plenary talks, a number of shorter contributed talks in two parallel sessions, and a poster session. The plenary speakers are:
 [Julia Böttcher](https://www.lse.ac.uk/Mathematics/people/Julia-Boettcher) (London School of Economics), [Irit Dinur](https://www.wisdom.weizmann.ac.il/~dinuri/) (Weizmann Institute), [Arnau Padrol](https://www.ub.edu/comb/arnaupadrol/) (Universitat de Barcelona) and [Alex Scott](https://people.maths.ox.ac.uk/scott/) (University of Oxford). The [Ramon Llull prize on Discrete Mathematics](/ramon-llull) will be awarded during the conference.
