@@ -45,3 +45,6 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [Statistics@UPF](/directory-groups/stats-upf)
 
+There are a number of researchers in Discrete and Algorithmic Mathematics in Spain not affiliated to any research group on the topic.
+
+- [Other researchers](/directory-groups/other)
