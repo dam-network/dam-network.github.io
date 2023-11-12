@@ -15,7 +15,7 @@ Computational geometry and its applications (especially geometric algorithms for
 
 ## Members
 
-[Carmen Hernando](https://futur.upc.edu/MariaDelCarmenHernandoMartin), [Clemens Huemer](https://futur.upc.edu/ClemensHuemer), [Mercè Mora](https://futur.upc.edu/MerceMoraGine), [Irene Parada](https://ireneparada.com/), [Carlos Seara](https://web.mat.upc.edu/carlos.seara/), [Rodrigo I. Silveira](https://dccg.upc.edu/people/rodrigo/).
+[Carmen Hernando](https://futur.upc.edu/MariaDelCarmenHernandoMartin), [Clemens Huemer](https://futur.upc.edu/ClemensHuemer), [Mercè Mora](https://futur.upc.edu/MerceMoraGine), [Irene Parada](https://ireneparada.com/), [Carlos Seara](https://web.mat.upc.edu/carlos.seara/), [Rodrigo I. Silveira](https://dccg.upc.edu/people/rodrigo/), [Javier Tegel](https://iuma.unizar.es/es/personal/tejel-altarriba-javier) (U. Zaragoza).
 
 ### Faculty
 

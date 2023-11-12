@@ -25,6 +25,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb)
 
+- [GASIULL: Geometría Algebraica: singularidades e invariantes](/directory-groups/gasiull)
+
 - [GDD: Geometría Diferencial y Discreta](/directory-groups/gdd)
 
 - [Invariantes en Teoría de Grafos y Optimización](/directory-groups/fqm-240)
