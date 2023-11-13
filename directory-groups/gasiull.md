@@ -24,6 +24,11 @@ Algebraic Geometry, Singularity Theory, Valuations, Convex Geometry, Toric Geome
 
 [Luis José Santana Sánchez](https://portalciencia.ull.es/investigadores/118135/detalle) (secureCAT Postdoc Fellow).
 
+### PhD Students
+
+Sara Asensio Ferrero, Mario González Sánchez
+
+
 ## Links of interest
 
 [GASIULL](https://gasiull.webs.ull.es/): webpage of the research group.
