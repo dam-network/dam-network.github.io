@@ -22,6 +22,10 @@ Postdoctoral researchers: Francisco Marín Sola
 PhD Students: Lidia Gordo Malagón
 
 
+[Webpage](https://www.um.es/geometria/
+) of the Convex and Differential Geometry group at UM.
+
+
 ### [Maria Luz Puertas González](https://brujula.ual.es/authors/767.html),  Universidad de Almería
 Research Interests: 
 
@@ -35,9 +39,12 @@ PhD Students:
 
 
 ### [Jesus Yepes Nicolas](https://webs.um.es/jesus.yepes/), Universidad de Murcia
-Research Interests: Convex Geometry, Classical and Modern Brunn-Minkowski Theory, Convex Geometric Analysis, Functional Inequalities, Measure Theory.
+Research Interests: (classical and modern) convex geometry; discrete geometry; convex geometric analysis; links between convexity and measure theory; geometry of numbers..
 
 Postdoctoral researchers: Francisco Marín Sola
 
 PhD Students: Lidia Gordo Malagón
+
+[Webpage](https://www.um.es/geometria/
+) of the Convex and Differential Geometry group at UM.
 
