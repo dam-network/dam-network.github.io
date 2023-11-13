@@ -26,7 +26,7 @@ Algebraic Geometry, Singularity Theory, Valuations, Convex Geometry, Toric Geome
 
 ### PhD Students
 
-Sara Asensio Ferrero, Mario González Sánchez
+Sara Asensio Ferrero (U. Valladolid), Mario González Sánchez (U. Valladolid)
 
 
 ## Links of interest
