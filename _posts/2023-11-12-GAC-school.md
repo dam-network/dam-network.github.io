@@ -3,7 +3,7 @@ layout: post
 title: 
 ---
 
-The Santander Workshop on Geometric and Algebraic Combinatorics will take place at Universidad de Cantabria in Santander (Spain), in January 15-19, 2024, with its format consisting of two mini courses, eight invited talks, plus short talks and posters contributed from participants.
+The [Santander Workshop on Geometric and Algebraic Combinatorics](https://gacsantander2024.unican.es/) will take place at Universidad de Cantabria in Santander (Spain), in January 15-19, 2024, with its format consisting of two mini courses, eight invited talks, plus short talks and posters contributed from participants.
 
 ### Minicourses (3 hours each):
 - Eran Nevo: "Algebraic shifting: variations and connections"
@@ -33,3 +33,10 @@ We have some slots for 30 minute talks contributed by participants, plus a poste
 For details on how to register/apply please visit our website 
 
 https://gacsantander2024.unican.es/
+
+### Organising committee 
+- Mónica Blanco Gómez, Universidad de Cantabria
+- Arnau Padrol, Universitat de Barcelona
+- Julian Pfeifle, Universitat Politècnica de Catalunya
+- Vincent Pilaud, CNRS & LIX, École Polytechnique
+- Francisco Santos, Universidad de Cantabria
