@@ -35,6 +35,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164)
 
+- [Metaheuristic Algorithms to solve problems in graphs](directory-groups/maspg)
+
 - [NetIS: Networks and Intelligent Systems](/directory-groups/netis)
 
 - [Research Group on Discrete Mathematics](/directory-groups/rgdm)
