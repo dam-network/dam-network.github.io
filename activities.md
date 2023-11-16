@@ -5,6 +5,12 @@ title: Activities
 
 ## 2024
 
+
+**[Combinatorial Designs and Codes (CODESCO’24)](https://gestioneventos.us.es/codesco24)**, Sevilla, July 8-12, 2024.\
+The goal of the conference is to bring together researchers interested in combinatorial design theory, coding theory, graph theory, algebraic combinatorics and finite geometry, with particular emphasis on establishing new synergies among them, and new applications to other fields and to the real world, including artificial intelligence, communication networks, cryptography and machine learning. The conference is a satellite event of the [9th European Congress of Mathematics](https://www.ecm2024sevilla.com).
+ 
+
+
 **[Discrete Mathematics Days 2024](https://dmd2024.web.uah.es/)**, Alcalá de Henares, July 3-5, 2024.\
 The Discrete Mathematics Days (DMD 2024) will be held on July 3-5, 2024, at the Universidad de Alcalá, in Alcalá de Henares (Spain). The main focus of this international conference is on current topics in Discrete Mathematics. Known as Discrete Mathematics Days since 2016, this conference inherits the tradition of the Jornadas de Matemática Discreta y Algorítmica (JMDA), the Spanish biennial meeting on Discrete Mathematics started in 1998. The program consists consist of four plenary talks, a number of shorter contributed talks in two parallel sessions, and a poster session. The plenary speakers are:
 [Julia Böttcher](https://www.lse.ac.uk/Mathematics/people/Julia-Boettcher) (London School of Economics), [Irit Dinur](https://www.wisdom.weizmann.ac.il/~dinuri/) (Weizmann Institute), [Arnau Padrol](https://www.ub.edu/comb/arnaupadrol/) (Universitat de Barcelona) and [Alex Scott](https://people.maths.ox.ac.uk/scott/) (University of Oxford). The [Ramon Llull prize on Discrete Mathematics](/ramon-llull) will be awarded during the conference.
