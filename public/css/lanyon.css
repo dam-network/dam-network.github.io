@@ -85,7 +85,7 @@ body {
 }
 @media (min-width: 38em) {
   .container {
-    max-width: 32rem;
+    max-width: 28rem;
   }
 }
 @media (min-width: 56em) {
