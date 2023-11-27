@@ -20,7 +20,8 @@ Convex polytopes, triangulations, tropical geometry, lattice polytopes, symmetry
 [Mario Fioravanti](https://personales.unican.es/fioravam) (U. de Cantabria),
 [Francisco Criado Gallart](https://www.cunef.edu/claustro/criado-gallart-francisco/) (CUNEF Universidad),
 [Jorge Olarte Parra](https://sites.google.com/view/jaolarte/home) (CUNEF Universidad),
-[Mónica Blanco Gómez](https://web.unican.es/departamentos/matesco/miembros-del-departamento/personal-docente-e-investigador/profesor?pi=7B9A15AFBBFB0D2D&a=2023) (U. de Cantabria). 
+[Mónica Blanco Gómez](https://web.unican.es/departamentos/matesco/miembros-del-departamento/personal-docente-e-investigador/profesor?pi=7B9A15AFBBFB0D2D&a=2023) (U. de Cantabria),
+[Óscar Iglesias Valiño](https://scholar.google.es/citations?user=nT_2Y40AAAAJ&hl=es) (U. da Coruña).
 
 ### PhD Students
 Luis Crespo Ruiz, David Senovilla, Pablo Gómez Nicolás.
