@@ -8,6 +8,9 @@ title: ""
 
 # Universitat Autònoma de Barcelona
 
+![image](/directory-groups/ccsg.jpg)
+
+
 ## Research Interests
 
 Information coding (Error-correcting codes, Completely Regular Codes, Perfect Codes, Z<sub>2</sub>Z<sub>4</sub>-linear Codes, network coding);
