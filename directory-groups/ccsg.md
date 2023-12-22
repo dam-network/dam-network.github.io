@@ -25,7 +25,7 @@ Magma software system (algorithms for nonlinear codes, algorithms for Z<sub>2</s
 
 
 ### PhD Students
-Dipak K. Bhunia, Adrián Torres-Martín.
+Dipak K. Bhunia, Sergi Sánchez Aragón, Adrián Torres-Martín.
 
 
 ## Links of interest
