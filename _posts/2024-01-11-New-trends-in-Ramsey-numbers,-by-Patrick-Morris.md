@@ -24,10 +24,10 @@ In September 2025, the workshop *Finite geometry and Ramsey theory* will joint t
 **References**
 
 <a id="1">[1]</a> 
-M. Campos, S. Griffiths, R. Morris and J. Sahasrabudhe. An exponential improvement for diagonal Ramsey. arXiv preprint arXiv:2303.09521. 2023.
+M. Campos, S. Griffiths, R. Morris and J. Sahasrabudhe. An exponential improvement for diagonal Ramsey. [arXiv preprint, arXiv:2303.09521](https://arxiv.org/abs/2303.09521). 2023.
 
 <a id="2">[2]</a>
-S. Matheus, J. Verstraëte. The asymptotics of r(4,t). Accepted to Annals of Mathematics. arXiv:2306.04007, 2023.
+S. Matheus, J. Verstraëte. The asymptotics of r(4,t). Accepted to Annals of Mathematics. [arXiv preprint, arXiv:2306.04007](https://arxiv.org/abs/2303.09521), 2023.
 
 ---
 
