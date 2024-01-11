@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The paper of the month (January 2024). *Geometry, randomness and Ramsey theory*, by Patrick Morris (U. Politécnica Catalunya)
+title:  Geometry, randomness and Ramsey theory, by Patrick Morris (U. Politècnica Catalunya)
 ---
 
 
