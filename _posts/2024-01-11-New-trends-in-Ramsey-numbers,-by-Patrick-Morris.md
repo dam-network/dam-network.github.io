@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Geometry, randomness and Ramsey theory, by Patrick Morris (U. Politècnica Catalunya)
+title:  Geometry, randomness and Ramsey theory, by Patrick Morris
+author: try
 ---
 
 
