@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Geometry, randomness and Ramsey theory, by [Patrick Morris](asdf)
+title:  Geometry, randomness and Ramsey theory, by Patrick Morris
 ---
 
 
@@ -19,9 +19,17 @@ Despite solving the correct exponent of growth of $r(4,t)$ (answering a longstan
 
 In September 2025, the workshop *Finite geometry and Ramsey theory* will joint the experts in this area at the [Banff International Research Station](https://www.birs.ca/). Simeon Ball and Patrick Morris, participants of the MDA network, are among the coorganizers of the event.
 
-## References
+---
+
+**References**
+
 <a id="1">[1]</a> 
 M. Campos, S. Griffiths, R. Morris and J. Sahasrabudhe. An exponential improvement for diagonal Ramsey. arXiv preprint arXiv:2303.09521. 2023.
 
 <a id="2">[2]</a>
 S. Matheus, J. Verstraëte. The asymptotics of r(4,t). Accepted to Annals of Mathematics. arXiv:2306.04007, 2023.
+
+---
+
+
+The author of this post, [Patrick Morris](https://sites.google.com/site/patrickmorriscombinatorics), is a Marie Curie postdoctoral fellow at Universitat Politècnica de Catalunya working on Extremal and Probabilistic Combinatorics.
