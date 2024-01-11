@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recent trends I: Geometry, randomness and Ramsey theory.
+title: 'Recent trends I: Geometry, randomness and Ramsey theory.'
 ---
 
 
