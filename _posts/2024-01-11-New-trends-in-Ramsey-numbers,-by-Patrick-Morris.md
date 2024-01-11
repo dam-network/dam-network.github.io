@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  Geometry, randomness and Ramsey theory, by Patrick Morris
-author: try
+title:  Geometry, randomness and Ramsey theory, by [Patrick Morris](asdf)
 ---
 
 
