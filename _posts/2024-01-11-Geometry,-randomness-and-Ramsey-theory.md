@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Geometry, randomness and Ramsey theory, by Patrick Morris
+title: Recent trends I: Geometry, randomness and Ramsey theory.
 ---
 
 
