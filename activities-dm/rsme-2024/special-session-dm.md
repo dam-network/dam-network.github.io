@@ -11,11 +11,11 @@ h1 {
 }
 h2 {
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -26,23 +26,10 @@ body, td {
    font-size: 0.9rem;
 }
 
-.container {
-  max-width: 54rem;
-}
-@media (min-width: 38em) {
-  .container {
-    max-width: 34rem;
-  }
-}
-@media (min-width: 56em) {
-  .container {
-    max-width: 54rem;
-  }
-}
 
 </style>
 
-# Sesión Especial 4 Matemática Discreta y Algorítmica
+# Sesión Especial 4: Matemática Discreta y Algorítmica
 
 ##  Organizadores
 - Delia Garijo (Universidad de Sevilla)
@@ -56,7 +43,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
 
 ### Lunes, 22 de enero de 2024
 
-- Pedro A. García Sánchez (Universidad de Granada), Factorizaciones en extensiones de ideales de monoides libres conmutativos [transparencias]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-pedro.pdf %})
+- Pedro A. García Sánchez (Universidad de Granada), Factorizaciones en extensiones de ideales de monoides libres conmutativos [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-pedro.pdf %}) [[arXiv]](https://arxiv.org/abs/2311.06901)
     <details>
     <summary>Resumen</summary>
     <p>En esta charla estudiaremos submonoides de $(\mathbb{N}^{(I)},+)$, con $I$ un conjunto de enteros, que cumplen (1)  la suma de dos huecos es o bien un hueco o un átomo o la suma de dos átomos, y (2) la suma de un hueco y un átomo es un átomo o la suma de dos átomos.  Todos estos monoides son de la forma $\{0\}\cup (X+\mathbb{N}^{(I)})$, con $X\subseteq \mathbb{N}^{(I)}$.</p>
@@ -164,7 +151,6 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <details>
     <summary>Resumen</summary>
     <p>Growing random structures are ever more present in our lives, be it in information technologies, social networks, epidemiology, genomics etc. Propagation phenomena can be modelled by randomly growing graphs and in particular, recursive trees. These random models account for the growth over time of a network resulting from an attachment or spreading process. However, the history of this process is often hidden and only a snapshot of the network is observed in the present-day. Retrieving information from the past of the network can shed light on the origin of an infection or a fake news, and explain the current network structure. In this talk I will present methods estimating the order of arrival of the vertices in a recursive tree. Specifically, we study two fundamental random recursive tree models: the uniform attachment model and the linear preferential attachment model. I will start by presenting an order estimator based on the Jordan centrality measure and defining a parametric family of risk measures to quantify the quality of the ordering procedure. Then, I will establish a minimax lower bound for this problem based on the shape exchangeability of these recursive trees, and demonstrate that the proposed estimator is near-optimal. Finally, I will also consider alternative ordering procedures based on degree centrality, spectral method and a peeling strategy and conclude by displaying numerical evidences that the Jordan ordering is the best performer for our measure of error.</p>
-    <br><br>
     </details>
 
 - Francisco Santos (Universidad de Cantabria), Towards a realization of the k-associahedron?
@@ -186,3 +172,46 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
+- Pablo Candela (Universidad Autónoma de Madrid),  Nilespacios finitos y aplicaciones recientes
+    <details>
+    <summary>Resumen</summary>
+    <p>El análisis de las normas de Gowers es uno de los temas más activos de la combinatoria aritmética desde finales de los años 1990, gracias especialmente a las nuevas extensiones que ofrece del análisis de Fourier discreto. Recientemente, este tema recibió un nuevo impulso basado en interesantes preguntas y conjeturas de Jamneshan, Shalom y Tao. Una de estas cuestiones concierne a las normas de Gowers en el ámbito discreto de grupos abelianos finitos con exponente acotado [1, Question 1.9]. Hablaremos de avances recientes en esta dirección (en colaboración con González-Sánchez y Szegedy), que la conectan con una nueva rama de la teoría de los nilespacios. Aprovecharemos para ofrecer una breve introducción a esta joven teoría, y en particular a los nilespacios finitos, que abren nuevas direcciones de investigación en matemática discreta.</p>
+
+    <strong>Referencias</strong>
+    <br>
+    [1] A. Jamneshan, O. Shalom, T. Tao, The structure of totally disconnected Host--Kra--Ziegler factors, and the inverse theorem for the $U^k$ Gowers uniformity norms on finite abelian groups of bounded torsion, preprint (2023). [arXiv:2303.04860](https://arxiv.org/pdf/2303.04860.pdf)
+    <br><br>
+    </details>
+
+-  Mariana Rosas-Ribeiro (Universitat Rovira i Virgili),  Infinite chains in the tree of numerical semigroups
+    <details>
+    <summary>Resumen</summary>
+    <p>A numerical semigroup is a submonoid of the additive monoid $\mathbb{N}$ with finite complement in $\mathbb{N}$. The cardinality of the complement of a numerical semigroup is its genus and its smallest non-zero element is the multiplicity. For a given positive integer $g$, there is a limited amount of numerical semigroups that have genus $g$. There is no formula for the number $n_g$ of numerical semigroups of genus $g$, but in 2008 Bras-Amorós [1] conjectured that as $g$ grows $n_g$ grows Fibonacci-like. One of the tools to study the growth of this $n_g$ sequence is the tree of numerical semigroups, that organizes all the numerical semigroups in such a way that each level $g$ of the tree is formed by the numerical semigroups of genus $g$. In this tree there are nodes that have infinite descendants. In [2], the authors characterize these nodes (numerical semigroups) using the greatest common divisor of the first elements of the numerical semigroup. The collection formed by a numerical semigroup and its infinitely many descendants, if applicable, is an infinite chain. In this talk we show that at each level of the tree there are more nodes which are not in an infinite chain than the other way around. Furthermore, we find a self-replicating behavior in the subtrees formed by numerical semigroups with fixed multiplicity $m$. With this, we can determine the number of numerical semigroups that have infinitely many descendants, genus $g$ and multiplicity $m\leq7$.</p>
+
+    <strong>Referencias</strong>
+    <br>
+    [1]  M. Bras-Amorós (2008). Fibonacci-like behavior of the number of numerical semigroups of a given genus. Semigroup Forum, 76, pp. 379-384.
+	<br>
+    [2] M. Bras-Amorós, S. Bulygin (2009). Towards a better understanding of the semigroup tree. Semigroup Forum, 79, 561-574.
+    <br>
+
+    <strong>Agradecimientos</strong>
+    The first author was supported by the Catalan government under grant 2021 FISDUR 00189. Both authors were supported by the Spanish government under grant PID2021-124928NB-I00, and by the Catalan government under grant 2021 SGR 00115.
+    <br><br>
+    </details>
+
+-  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica
+    <details>
+    <summary>Resumen</summary>
+    <p>En la charla se dará una breve descripción del grupo de investigación <em>Combinatoria Geométrica, Algebraica  y Probabilística</em> (GAPCOMB) de la  Universidad Politécnica de Cataluña.
+    A continuación se presentará un trabajo en curso sobre sistemas  de votaciones que utiliza funciones generadoras y métodos analíticos, en colaboración con Emma Caizerges, Fran\c{c}ois Durand, élie de Panafieu (Nokia Bell Labs, France) y Vlady Ravelomanana (Université Paris-Cité).</p>
+
+    <p>Consideramos un sistema de votación con $m$ electores y $n$ candidatos. Cada elector ordena de forma estricta sus preferencias de  los $n$ candidatos. Se dice que el candidato $C$ es un ganador de Condorcet [1] si la mayoría de electores (suponemos $n$ impar para evitar empates) prefiere $C$ a cualquier otro candidato. Suponiendo que cada elector elige el orden de los candidatos de forma aleatoria e  independiente, un problema ampliamente estudiado es la probabilidad $p_m$ de que haya un ganador de Condorcet cuando $n\to \infty$. Claramente $p_2=1$. Se sabe que $p_3 = \frac{3}{4}+ \frac{3}{2\pi } \arcsin(1/3) \approx 0.9123$ y que $p_m \to 0$ cuando $m \to \infty$.</p>
+
+    <p>En este trabajo codificamos las preferencias de los electores mediante una función generadora racional $F(x_1,\dots,x_{m-1})$. La probabilidad  de que exista un ganador de Condorcet se pude expresar en términos del coeficiente de $x_1^{n/2}x_2^{n/2}\cdots x_{m-1}^{n/2}$ en $F(x_1,\dots,x_{m-1})$. Utilizando métodos analíticos se puede estimar dicha probabilidad con precisión. Esto proporciona un nuevo  método para estudiar este y otros problemas de sistemas de votaciones.</p>
+
+    <strong>Referencias</strong>
+    <br>
+    [1] W. Gehrlein (2006). Condorcet's Paradox. Springer.
+    <br><br>
+    </details>
