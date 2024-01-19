@@ -67,42 +67,122 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <p>Este trabajo es una continuación de [1], y está dedicado a su autor.</p>
     <strong>Referencias</strong>
     <br>
-    [1] N. Baeth, Complement-Finite Ideals. In: JL. Chabert, M. Fontana, S. Frisch, S. Glaz, K.~Johnson, (eds) Algebraic, Number Theoretic, and Topological Aspects of Ring Theory. Springer, Cham, (2023).
+    [1] N. Baeth, Complement-Finite Ideals. In: JL. Chabert, M. Fontana, S. Frisch, S. Glaz, K. Johnson, (eds) Algebraic, Number Theoretic, and Topological Aspects of Ring Theory. Springer, Cham, (2023).
     <br>
-    [2] A. Geroldinger, F. Halter-Koch, Non--unique factorizations. Algebraic, combinatorial and analytic theory. Pure and Applied Mathematics (Boca Raton), 278. Chapman & Hall/CRC, Boca Raton, FL, (2006).
+    [2] A. Geroldinger, F. Halter-Koch, Non-unique factorizations. Algebraic, combinatorial and analytic theory. Pure and Applied Mathematics (Boca Raton), 278. Chapman & Hall/CRC, Boca Raton, FL, (2006).
+    <br>
+    <strong>Agradecimientos</strong>
+    <br>
+    Esta investigación se ha llevado a cabo con la financiación del grupo FQM–343 y del Proyecto de Excelencia ProyExcel_00868 de la Junta de Andalucía, el proyecto PID2022-138906NB-C21 financiado por MCIN/AEI/10.13039/501100011033 y fondos FEDER, además de por el MICINN, a través del “Programa Severo Ochoa y María de Maeztu para Centros y Unidades de Excelencia” (CEX2020-001105-M) y la RED2022-134947-T, financiada por la Agencia Estatal de Investigación.
+    <br>
+    <br>
     </details>
 
 - Kolja Knauer (Universitat de Barcelona), Colorear grafos de Cayley
     <details>
-        <summary>Resumen</summary>
-        <p>Un grafo de Cayley $\mathrm{Cay}(G,C)$ de un grupo finito $G$ is <em>minimal</em> si $C$ es un conjunto generador de $G$ minimal por inclusion. En los setentas Babai [1] discute por primera vez el problema de determinar el número cromático de un grafo de Cayley minimal y propone una conjetura fuerte que implicaría que todos estos grafos tienen numero cromático acotado por una constante global. En este trabajo mostramos que esta conjetura fuerte es falsa. Sin embargo también mostramos que todo grafo minimal de un grupo nilpotente o dihedral generalizado tiene numero cromático a lo mucho tres. También encontramos grafos minimales de Cayley con numero cromático cuatro y mostramos que eso es lo mas alto posible hasta orden $215$. Nótese que veinte años más tarde el mismo Babai [2] propuso otra conjetura fuerte que implica que existen familias de grafos minimales de Cayley con numero cromático no acotado. Esta sigue abierta.</p>
-        <p><strong>Referencias</strong></p>
-        <p>[1] L. Babai, Chromatic number and subgraphs of Cayley graphs, Theor. Appl. Graphs, Proc. Kalamazoo 1976, Lect. Notes Math. 642, 10-22 (1978), 1978.</p>
-        <p>[2] L. Babai, Automorphism groups, isomorphism, reconstruction, in Handbook of combinatorics. Vol. 1-2, Amsterdam: Elsevier (North-Holland); Cambridge, MA: MIT Press, 1995, pp. 1447-1540.</p>
+    <summary>Resumen</summary>
+    <p>Un grafo de Cayley $\mathrm{Cay}(G,C)$ de un grupo finito $G$ is <em>minimal</em> si $C$ es un conjunto generador de $G$ minimal por inclusion. En los setentas Babai [1] discute por primera vez el problema de determinar el número cromático de un grafo de Cayley minimal y propone una conjetura fuerte que implicaría que todos estos grafos tienen numero cromático acotado por una constante global. En este trabajo mostramos que esta conjetura fuerte es falsa. Sin embargo también mostramos que todo grafo minimal de un grupo nilpotente o dihedral generalizado tiene numero cromático a lo mucho tres. También encontramos grafos minimales de Cayley con numero cromático cuatro y mostramos que eso es lo mas alto posible hasta orden $215$. Nótese que veinte años más tarde el mismo Babai [2] propuso otra conjetura fuerte que implica que existen familias de grafos minimales de Cayley con numero cromático no acotado. Esta sigue abierta.</p>
+    <strong>Referencias</strong>
+    <br>
+    [1] L. Babai, Chromatic number and subgraphs of Cayley graphs, Theor. Appl. Graphs, Proc. Kalamazoo 1976, Lect. Notes Math. 642, 10-22 (1978), 1978.
+    <br>
+    [2] L. Babai, Automorphism groups, isomorphism, reconstruction, in Handbook of combinatorics. Vol. 1-2, Amsterdam: Elsevier (North-Holland); Cambridge, MA: MIT Press, 1995, pp. 1447-1540.
+    <br><br>
     </details>
 
 - Julio José Moyano Ferna ́ndez (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas
     <details>
-        <summary>Resumen</summary>
-        <p>Algunos de los invariantes usados en la clasificación topológica de las singularidades de curvas planas poseen una naturaleza combinatoria; ejemplos de ello son el semigrupo de valores o la serie de Poincaré asociados a la singularidad (ver e.g. [4] y los trabajos allí referenciados).</p>
+    <summary>Resumen</summary>
+    <p>Algunos de los invariantes usados en la clasificación topológica de las singularidades de curvas planas poseen una naturaleza combinatoria; ejemplos de ello son el semigrupo de valores o la serie de Poincaré asociados a la singularidad (ver e.g. [4] y los trabajos allí referenciados).</p>
 
-        <p>Esta conferencia tiene como objetivo presentar a la comunidad de <em>Matemática discreta y algorítmica</em> ambos objetos combinatorios, además de los resultados más interesantes o novedosos concernientes a los mismos dentro de la teoría de singularidades de curvas planas: destacaremos la relación de la serie de Poincaré con la función zeta de Stöhr en un contexto de singularidades de curvas definidas sobre cuerpos finitos, demostrada por Delgado y el autor [3], su coincidencia con el polinomio de Alexander en el caso de curvas complejas (resultado debido a Campillo, Delgado y Gusein-Zade [2]), así como los avances recientes del autor con P. Almirón [1] analizando la naturaleza de esta igualdad.</p>
-        <p><strong>Referencias</strong></p>
-         <p>[1] P. Almirón, J.J. Moyano Fernández (2023). The intrinsic topological nature of the Poincaré series of a plane curve singularity. Preprint, arXiv:2302.12079v2.</p>
-        <p>[2] A. Campillo, F. Delgado, S.M. Gusein-Zade (2003). The Alexander polynomial of a plane curve singularity via the ring of functions on it. Duke Math. J. 117(1), 125-156.</p>
-        <p>[3] F. Delgado, J.J. Moyano Fernández (2009). On the relation between the generalized Poincaré series and the Stöhr zeta function. Proc. Am. Math. Soc. 137(1), 51-59.</p>
-        <p>[4] J.J. Moyano Fernández (2022). Generalized Poincaré series for plane curva singularities. In: C. Galindo et al., $p$-adic Analysis, Arithmetic and Singularities. Contemp. Math., vol. 778, 25-69. </p>
+    <p>Esta conferencia tiene como objetivo presentar a la comunidad de <em>Matemática discreta y algorítmica</em> ambos objetos combinatorios, además de los resultados más interesantes o novedosos concernientes a los mismos dentro de la teoría de singularidades de curvas planas: destacaremos la relación de la serie de Poincaré con la función zeta de Stöhr en un contexto de singularidades de curvas definidas sobre cuerpos finitos, demostrada por Delgado y el autor [3], su coincidencia con el polinomio de Alexander en el caso de curvas complejas (resultado debido a Campillo, Delgado y Gusein-Zade [2]), así como los avances recientes del autor con P. Almirón [1] analizando la naturaleza de esta igualdad.</p>
+    <strong>Referencias</strong>
+    <br>
+    [1] P. Almirón, J.J. Moyano Fernández (2023). The intrinsic topological nature of the Poincaré series of a plane curve singularity. Preprint, arXiv:2302.12079v2.
+    <br>
+    [2] A. Campillo, F. Delgado, S.M. Gusein-Zade (2003). The Alexander polynomial of a plane curve singularity via the ring of functions on it. Duke Math. J. 117(1), 125-156.
+    <br>
+    [3] F. Delgado, J.J. Moyano Fernández (2009). On the relation between the generalized Poincaré series and the Stöhr zeta function. Proc. Am. Math. Soc. 137(1), 51-59.
+    <br>
+    [4] J.J. Moyano Fernández (2022). Generalized Poincaré series for plane curva singularities. In: C. Galindo et al., $p$-adic Analysis, Arithmetic and Singularities. Contemp. Math., vol. 778, 25-69.
+    <br><br>
     </details>
 
 - Delia Garijo (Universidad de Sevilla), Diámetro continuo en grafos
     <details>
-        <summary>Resumen</summary>
-        <p>Los <em>problemas de aumento</em> en grafos han sido ampliamente estudiados para medidas relacionadas con distancias, como el diámetro o la dilación. El objetivo en estos problemas es añadir un conjunto mínimo de aristas al grafo (o de mínimo peso) de forma que se satisfaga una condición establecida sobre el parámetro en estudio, por ejemplo, la disminución del diámetro del grafo resultante con respecto al original.
-        Si se considera el lugar geométrico de la realización de un grafo en algún espacio euclídeo, surge la posibilidad de permitir que los extremos de las aristas insertadas sean, no ya vértices, sino puntos cualesquiera que estén sobre las aristas del grafo. Se pasa por tanto de considerar un número finito de distancias (entre pares de vértices) a tratar con un número infinito (entre pares de puntos de dicho lugar geométrico). Este salto de lo que llamamos la <em>versión discreta</em> del problema a la <em>versión continua</em> ha despertado mucho interés en los últimos años, no solo en problemas de aumento, sino en diversos tipos de problemas de grafos.</p>
+    <summary>Resumen</summary>
+    <p>Los <em>problemas de aumento</em> en grafos han sido ampliamente estudiados para medidas relacionadas con distancias, como el diámetro o la dilación. El objetivo en estos problemas es añadir un conjunto mínimo de aristas al grafo (o de mínimo peso) de forma que se satisfaga una condición establecida sobre el parámetro en estudio, por ejemplo, la disminución del diámetro del grafo resultante con respecto al original.
+    Si se considera el lugar geométrico de la realización de un grafo en algún espacio euclídeo, surge la posibilidad de permitir que los extremos de las aristas insertadas sean, no ya vértices, sino puntos cualesquiera que estén sobre las aristas del grafo. Se pasa por tanto de considerar un número finito de distancias (entre pares de vértices) a tratar con un número infinito (entre pares de puntos de dicho lugar geométrico). Este salto de lo que llamamos la <em>versión discreta</em> del problema a la <em>versión continua</em> ha despertado mucho interés en los últimos años, no solo en problemas de aumento, sino en diversos tipos de problemas de grafos.</p>
 
-        <p>En esta charla nos centraremos en la versión continua de problemas relacionados con el diámetro del grafo. Ilustraremos elementos que hacen muy difícil este salto "del discreto al continuo" y que provocan que los avances en esta línea de investigación estén siendo muy lentos. También plantearemos diversas cuestiones que serían interesantes de aproximar.</p>
+    <p>En esta charla nos centraremos en la versión continua de problemas relacionados con el diámetro del grafo. Ilustraremos elementos que hacen muy difícil este salto "del discreto al continuo" y que provocan que los avances en esta línea de investigación estén siendo muy lentos. También plantearemos diversas cuestiones que serían interesantes de aproximar.</p>
 
-        <p>Esta charla se enmarca en una serie de trabajos con distintos coautores: J. Cáceres (U. Almería), Fabian Klute (UPC), Alberto Márquez (U. Sevilla), Irene Parada (UPC), Rodrigo Silveira (UPC).</p>
-        <p><strong>Agradecimientos</strong></p>
-         <p>Financiado por MICINN a través del proyecto PID2019-104129GB-I00/MCIN/AEI/10.13039/501100011033.</p>
+    <p>Esta charla se enmarca en una serie de trabajos con distintos coautores: J. Cáceres (U. Almería), Fabian Klute (UPC), Alberto Márquez (U. Sevilla), Irene Parada (UPC), Rodrigo Silveira (UPC).</p>
+    <strong>Agradecimientos</strong>
+    <br>
+    Financiado por MICINN a través del proyecto PID2019-104129GB-I00/MCIN/AEI/10.13039/501100011033.
+    <br><br>
     </details>
+
+### Martes, 23 de enero de 2024
+
+- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities
+    <details>
+    <summary>Resumen</summary>
+    <p>The well-known Brunn-Minkowski inequality states that for a pair of convex bodies (i.e., non-empty compact and convex sets) $K,L\subset{\Bbb R}^n$, the functional $\mathrm{vol}\bigl((1-\lambda)K+\lambda L\bigr)^{1/n}$ is concave in $\lambda\in(0,1)$, where $\mathrm{vol}(\,\cdot)$ represents the volume (Lebesgue measure) and $+$ is the Minkowski (vectorial) addition.</p>
+
+    <p>The $L_p$ version (for $p\geq 1$) of the Brunn-Minkowski inequality was originally proven by Firey in the 60's in the setting of convex bodies containing the origin, and was recently extended to arbitrary non-empty compact sets by Lutwak, Yang and Zhang in 2012. It asserts that for non-empty compact sets $K,L\subset{\Bbb R}^n$ and $\lambda\in(0,1)$,
+    \[
+    \mathrm{vol}\bigl((1-\lambda)\cdot K +_p \lambda\cdot L\bigr)^{p/n}\geq(1-\lambda)\mathrm{vol}(K)^{p/n}+\lambda\mathrm{vol}(L)^{p/n}.
+    \]
+    When $p=0$ (or even $0<p<1$), the conjectured log-Brunn-Minkowski inequality for centrally symmetric convex bodies, namely, $\mathrm{vol}\bigl((1-\lambda)\cdot K+_0\lambda\cdot L\bigr) \geq\mathrm{vol}(K)^{1-\lambda}\mathrm{vol}(L)^\lambda$, is known to be true only in the plane
+    and for particular families of sets.</p>
+
+    <p>Nowadays there is a growing interest in getting discrete counterparts of classical inequalities, i.e., discrete analogues in which, either convex bodies and volume are replaced by finite sets of points and cardinality $|\,\cdot|$, respectively, or just the volume is replaced by the so-called {\it lattice-point enumerator} $\mathrm{G}(\,\cdot)$, which is defined as $\mathrm{G}(M)=|M\cap\mathbb{Z}^n|$. Of course, the Brunn-Minkowski inequality is one of the first results to be considered in this discrete setting. In this talk we will discuss discrete analogues of the above-mentioned results in the setting of the lattice point enumerator.</p>
+
+    <strong>Referencias</strong>
+    <br>
+    [1] D. Iglesias, J. Yepes Nicolás, A. Zvavitch (2020).  Brunn-Minkowski type inequalities for the lattice point enumerator. Adv. Math. 370, 107193.
+    <br>
+    [2] M. A. Hernández Cifre, E. Lucas, J. Yepes Nicolás (2022). On discrete $L_p$ Brunn-Minkowski type inequalities. RACSAM 116, Article 164.
+    <br>
+    [3] M. A. Hernández Cifre, E. Lucas (2022). On discrete log-Brunn-Minkowski type inequalities. SIAM J. Discrete Math. 36, 1748-1760.
+    <br><br>
+    </details>
+
+- Maria Bras-Amorós (Universitat Rovira i Virgili), Numerical semigroups within the COPRICA research group
+    <details>
+    <summary>Resumen</summary>
+    <p>A numerical semigroup is a subset of the positive integers $\mathbb{N}$ together with $0$, closed under addition, and with a finite complement in $\mathbb{N}\cup\{0\}$. The number of gaps is its genus. Numerical semigroups arise in algebraic geometry, coding theory, privacy models, and in musical analysis. It is one of the main topics of the research group COPRICA at Universitat Rovira i Virgili. We will explain some classical problems on which we contributed or are currently working related to numerical semigroups and their counting by genus.</p>
+
+    <strong>Agradecimientos</strong>
+    <br>
+    This work is supported by the grant PID2021-124928NB-I00 and 2021SGR00115.
+    <br><br>
+    </details>
+
+- Simon Briend (Universitat Pompeu Fabra), Estimating Adam's genealogy
+    <details>
+    <summary>Resumen</summary>
+    <p>Growing random structures are ever more present in our lives, be it in information technologies, social networks, epidemiology, genomics etc. Propagation phenomena can be modelled by randomly growing graphs and in particular, recursive trees. These random models account for the growth over time of a network resulting from an attachment or spreading process. However, the history of this process is often hidden and only a snapshot of the network is observed in the present-day. Retrieving information from the past of the network can shed light on the origin of an infection or a fake news, and explain the current network structure. In this talk I will present methods estimating the order of arrival of the vertices in a recursive tree. Specifically, we study two fundamental random recursive tree models: the uniform attachment model and the linear preferential attachment model. I will start by presenting an order estimator based on the Jordan centrality measure and defining a parametric family of risk measures to quantify the quality of the ordering procedure. Then, I will establish a minimax lower bound for this problem based on the shape exchangeability of these recursive trees, and demonstrate that the proposed estimator is near-optimal. Finally, I will also consider alternative ordering procedures based on degree centrality, spectral method and a peeling strategy and conclude by displaying numerical evidences that the Jordan ordering is the best performer for our measure of error.</p>
+    <br><br>
+    </details>
+
+- Francisco Santos (Universidad de Cantabria), Towards a realization of the k-associahedron?
+    <details>
+    <summary>Resumen</summary>
+    <p>A subset of  $k+1$ diagonals of the $n$-gon is called a $(k+1)$-crossing if thyy all mutually cross, and a general subset is called $(k+1)$-crossing free if it does not contain a $k$-crossing.  $(k+1)$-crossing free subsets form a simplicial complex that we call the $k$-associahedron and denote $Ass_k(n)$ since for $k=1$ one recovers the (simplicial) associahedron. The $k$-associahedron is known to be a shellable sphere and conjectured to be polytopal [2] . It is also a subword complex in the root system of the $A$ and, moreover, every (spherical) subword complex is a link in some $k$-associahedron. In particular, polytopality of $k$-associahedra would imply the same for spherical subword complexes (in type $A$), a question asked by Knutson and Miller [3] .</p>
+
+    <p>The dimension of the $k$-associahedron  coincides with that of any abstract rigidity matrix of dimension $2k$ on $n$ elements. This made Pilaud and Santos [4] conjecture that $k$-triangulations are generically isostatic graphs in dimension $2k$, in the usual bar-and-joint rigidity theory, as a step towards the construction of the $k$-associahedron via the corresponding rigidity matrix. We explore this possibility [1] .</p>
+
+    <strong>Referencias</strong>
+    <br>
+    [1]Luis Crespo Ruiz, Francisco Santos. Multitriangulations and tropical Pfaffians. Preprint, 29 pages, March 2022. arXiv:2203.04633
+    <br>
+    [2] Jakob Jonsson, Generalized triangulations and diagonal-free subsets of stack polyominoes, J. Comb. Theory Ser. A 112(1), 117-142 (2005).
+
+    [3] Allen Knutson and Ezra Miller. Subword complexes in Coxeter groups. Adv. Math., 184(1) (2004), 161-176.
+
+    [4] Vincent Pilaud, Francisco Santos, Multitriangulations as Complexes of Star Polygons, Discrete Comput. Geom. 41 (2009), 284-317.
+    <br><br>
+    </details>
+
