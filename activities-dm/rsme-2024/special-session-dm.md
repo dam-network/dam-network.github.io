@@ -42,7 +42,10 @@ body, td {
 
 </style>
 
-# Sesión Especial 4: Matemática Discreta y Algorítmica
+# Sesión Especial 4: [Matemática Discreta y Algorítmica](https://2024.bienalrsme.com/sites/default/files/S4%20MatDiscretaAlgoritmica.pdf)
+[Congreso Bienal de la Real Sociedad Matemática Española](https://2024.bienalrsme.com/)
+
+Del 22 al 26 de enero de 2024
 
 ##  Organizadores
 - Delia Garijo (Universidad de Sevilla)
