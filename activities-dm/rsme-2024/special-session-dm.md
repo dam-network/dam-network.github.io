@@ -95,7 +95,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Julio José Moyano Ferna ́ndez (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-julio.pdf %})
+- Julio José Moyano Fernández (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-julio.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Algunos de los invariantes usados en la clasificación topológica de las singularidades de curvas planas poseen una naturaleza combinatoria; ejemplos de ello son el semigrupo de valores o la serie de Poincaré asociados a la singularidad (ver e.g. [4] y los trabajos allí referenciados).</p>
