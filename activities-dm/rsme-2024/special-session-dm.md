@@ -55,7 +55,7 @@ Aula A 6B, edificio El Sario, UPNA
 - Francisco Santos (Universidad de Cantabria)
 
 ## Descripción
-La matemática discreta estudia estructuras combinatorias o discretas, particularmente grafos, geometrías finitas, estructuras geométricas discretas y aspectos combinatorios de estructuras algebraicas y de teoría de números, y en ella los aspectos algorítmicos tienen una relevancia particular de forma natural. La sesión propuesta está auspiciada por la recientemente creada Red de Matemática Discreta y Algorítmica, financiada por el Ministerio de Ciencia e Innovación para el periodo 2023-2025 (RED2022-134947-T), y presentará una panorámica de la investigación actual del área en España.
+La matemática discreta estudia estructuras combinatorias o discretas, particularmente grafos, geometrías finitas, estructuras geométricas discretas y aspectos combinatorios de estructuras algebraicas y de teoría de números, y en ella los aspectos algorítmicos tienen una relevancia particular de forma natural. La sesión propuesta está auspiciada por la recientemente creada [Red de Matemática Discreta y Algorítmica](https://dam-network.github.io), financiada por el Ministerio de Ciencia e Innovación para el periodo 2023-2025 (RED2022-134947-T), y presentará una panorámica de la investigación actual del área en España.
 
 ## Programa
 
