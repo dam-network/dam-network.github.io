@@ -47,6 +47,8 @@ body, td {
 
 Del 22 al 26 de enero de 2024
 
+Aula A 6B, edificio El Sario, UPNA
+
 ##  Organizadores
 - Delia Garijo (Universidad de Sevilla)
 - Marc Noy (Universidad Politécnica de Cataluña)
