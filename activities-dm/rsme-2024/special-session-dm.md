@@ -83,7 +83,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br>
     </details>
 
-- Kolja Knauer (Universitat de Barcelona), Colorear grafos de Cayley
+- Kolja Knauer (Universitat de Barcelona), Colorear grafos de Cayley [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-kolja.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Un grafo de Cayley $\mathrm{Cay}(G,C)$ de un grupo finito $G$ is <em>minimal</em> si $C$ es un conjunto generador de $G$ minimal por inclusion. En los setentas Babai [1] discute por primera vez el problema de determinar el número cromático de un grafo de Cayley minimal y propone una conjetura fuerte que implicaría que todos estos grafos tienen numero cromático acotado por una constante global. En este trabajo mostramos que esta conjetura fuerte es falsa. Sin embargo también mostramos que todo grafo minimal de un grupo nilpotente o dihedral generalizado tiene numero cromático a lo mucho tres. También encontramos grafos minimales de Cayley con numero cromático cuatro y mostramos que eso es lo mas alto posible hasta orden $215$. Nótese que veinte años más tarde el mismo Babai [2] propuso otra conjetura fuerte que implica que existen familias de grafos minimales de Cayley con numero cromático no acotado. Esta sigue abierta.</p>
@@ -95,7 +95,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Julio José Moyano Ferna ́ndez (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas
+- Julio José Moyano Ferna ́ndez (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-julio.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Algunos de los invariantes usados en la clasificación topológica de las singularidades de curvas planas poseen una naturaleza combinatoria; ejemplos de ello son el semigrupo de valores o la serie de Poincaré asociados a la singularidad (ver e.g. [4] y los trabajos allí referenciados).</p>
