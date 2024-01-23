@@ -224,7 +224,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
--  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-marc.pdf %})
+-  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/Slides-marc.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>En la charla se dará una breve descripción del grupo de investigación <em>Combinatoria Geométrica, Algebraica  y Probabilística</em> (GAPCOMB) de la  Universidad Politécnica de Cataluña.
