@@ -130,7 +130,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
 
 ### Martes, 23 de enero de 2024
 
-- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities
+- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities [[transparencias]](https://www.dropbox.com/scl/fi/0zs2jx1vvthwrxg2ih5n7/slides-mangeles.pdf?rlkey=0il6nv0y68p9xpm5zdws42e42&dl=0)
     <details>
     <summary>Resumen</summary>
     <p>The well-known Brunn-Minkowski inequality states that for a pair of convex bodies (i.e., non-empty compact and convex sets) $K,L\subset{\Bbb R}^n$, the functional $\mathrm{vol}\bigl((1-\lambda)K+\lambda L\bigr)^{1/n}$ is concave in $\lambda\in(0,1)$, where $\mathrm{vol}(\,\cdot)$ represents the volume (Lebesgue measure) and $+$ is the Minkowski (vectorial) addition.</p>
