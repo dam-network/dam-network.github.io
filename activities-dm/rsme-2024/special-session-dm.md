@@ -61,6 +61,8 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
 
 ### Lunes, 22 de enero de 2024
 
+#### Moderadora: Maria Bras-Amorós
+
 - Pedro A. García Sánchez (Universidad de Granada), Factorizaciones en extensiones de ideales de monoides libres conmutativos [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-pedro.pdf %}) [[arXiv]](https://arxiv.org/abs/2311.06901)
     <details>
     <summary>Resumen</summary>
@@ -130,6 +132,8 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
 
 ### Martes, 23 de enero de 2024
 
+#### Moderador: Pablo Candela
+
 - María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities [[transparencias]](https://www.dropbox.com/scl/fi/0zs2jx1vvthwrxg2ih5n7/slides-mangeles.pdf?rlkey=0il6nv0y68p9xpm5zdws42e42&dl=0)
     <details>
     <summary>Resumen</summary>
@@ -189,6 +193,8 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     [4] Vincent Pilaud, Francisco Santos, Multitriangulations as Complexes of Star Polygons, Discrete Comput. Geom. 41 (2009), 284-317.
     <br><br>
     </details>
+
+#### Moderador: Pedro A. García-Sánchez
 
 - Pablo Candela (Universidad Autónoma de Madrid),  Nilespacios finitos y aplicaciones recientes
     <details>
