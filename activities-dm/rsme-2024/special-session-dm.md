@@ -154,7 +154,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Maria Bras-Amorós (Universitat Rovira i Virgili), Numerical semigroups within the COPRICA research group
+- Maria Bras-Amorós (Universitat Rovira i Virgili), Numerical semigroups within the COPRICA research group [[transparencias]](http://crises-deim.urv.cat/~mbras/2024Pamplona.pdf)
     <details>
     <summary>Resumen</summary>
     <p>A numerical semigroup is a subset of the positive integers $\mathbb{N}$ together with $0$, closed under addition, and with a finite complement in $\mathbb{N}\cup\{0\}$. The number of gaps is its genus. Numerical semigroups arise in algebraic geometry, coding theory, privacy models, and in musical analysis. It is one of the main topics of the research group COPRICA at Universitat Rovira i Virgili. We will explain some classical problems on which we contributed or are currently working related to numerical semigroups and their counting by genus.</p>
