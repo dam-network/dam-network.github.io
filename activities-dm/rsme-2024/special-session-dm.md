@@ -134,8 +134,8 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
 
 #### Moderador: Pablo Candela
 
-- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities [[transparencias]](https://www.dropbox.com/scl/fi/0zs2jx1vvthwrxg2ih5n7/slides-mangeles.pdf?rlkey=0il6nv0y68p9xpm5zdws42e42&dl=0)
-    <details>
+- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-mangeles.pdf %})
+<details>
     <summary>Resumen</summary>
     <p>The well-known Brunn-Minkowski inequality states that for a pair of convex bodies (i.e., non-empty compact and convex sets) $K,L\subset{\Bbb R}^n$, the functional $\mathrm{vol}\bigl((1-\lambda)K+\lambda L\bigr)^{1/n}$ is concave in $\lambda\in(0,1)$, where $\mathrm{vol}(\,\cdot)$ represents the volume (Lebesgue measure) and $+$ is the Minkowski (vectorial) addition.</p>
 
@@ -169,13 +169,13 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Simon Briend (Universitat Pompeu Fabra), Estimating Adam's genealogy
+- Simon Briend (Universitat Pompeu Fabra), Estimating Adam's genealogy [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-simon.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Growing random structures are ever more present in our lives, be it in information technologies, social networks, epidemiology, genomics etc. Propagation phenomena can be modelled by randomly growing graphs and in particular, recursive trees. These random models account for the growth over time of a network resulting from an attachment or spreading process. However, the history of this process is often hidden and only a snapshot of the network is observed in the present-day. Retrieving information from the past of the network can shed light on the origin of an infection or a fake news, and explain the current network structure. In this talk I will present methods estimating the order of arrival of the vertices in a recursive tree. Specifically, we study two fundamental random recursive tree models: the uniform attachment model and the linear preferential attachment model. I will start by presenting an order estimator based on the Jordan centrality measure and defining a parametric family of risk measures to quantify the quality of the ordering procedure. Then, I will establish a minimax lower bound for this problem based on the shape exchangeability of these recursive trees, and demonstrate that the proposed estimator is near-optimal. Finally, I will also consider alternative ordering procedures based on degree centrality, spectral method and a peeling strategy and conclude by displaying numerical evidences that the Jordan ordering is the best performer for our measure of error.</p>
     </details>
 
-- Francisco Santos (Universidad de Cantabria), Towards a realization of the k-associahedron? [[transparencias]](https://www.dropbox.com/scl/fi/cj4cj0zjneghcavvq2qc4/slides-paco.pdf?rlkey=9xdzvth8i94gr13b83oh6o2a6&dl=0)
+- Francisco Santos (Universidad de Cantabria), Towards a realization of the k-associahedron? [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-paco.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>A subset of  $k+1$ diagonals of the $n$-gon is called a $(k+1)$-crossing if thyy all mutually cross, and a general subset is called $(k+1)$-crossing free if it does not contain a $k$-crossing.  $(k+1)$-crossing free subsets form a simplicial complex that we call the $k$-associahedron and denote $Ass_k(n)$ since for $k=1$ one recovers the (simplicial) associahedron. The $k$-associahedron is known to be a shellable sphere and conjectured to be polytopal [2] . It is also a subword complex in the root system of the $A$ and, moreover, every (spherical) subword complex is a link in some $k$-associahedron. In particular, polytopality of $k$-associahedra would imply the same for spherical subword complexes (in type $A$), a question asked by Knutson and Miller [3] .</p>
@@ -224,7 +224,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
--  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica
+-  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-marc.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>En la charla se dará una breve descripción del grupo de investigación <em>Combinatoria Geométrica, Algebraica  y Probabilística</em> (GAPCOMB) de la  Universidad Politécnica de Cataluña.
