@@ -7,10 +7,12 @@ title: 'Recent trends I: Geometry, randomness and Ramsey theory.'
 Since its inception in  the early 1900s, Ramsey theory has flourished and become a cornerstone of modern discrete mathematics (and beyond). The central question asks to determine $r(s,t)$; the minimum integer $n\in \mathbb{N}$ such that any red/blue-colouring of the edges of the complete graph $K_n$ results in either a red $K_s$ or a blue $K_t$. Very small values can be calculated but already $r(5,5)$ is beyond our computational power to determine exactly. Therefore Ramsey theorists have  focused mainly on asymptotics.  Erdős and his collaborators drove the subject forward in the 1940s, establishing bounds and posing  beautiful  open problems, many of which are known to be notoriously hard and have remained stubborn to this day.
 
 Seemingly out of nowhere, we had a landmark year for Ramsey theory in 2023. Indeed,  Campos, Griffiths, Morris and Sahasrabudhe showed that $r(t,t)\leq (4-\varepsilon)^t$ for some $\varepsilon>0$ [[1]](#1). It was known already in the 40s that 
+
 $$
 \tag{1}
 \sqrt{2}^{t+o(1)}\leq r(t,t)\leq 4^{t+o(1)}
 $$
+
 and so this may seem like a tiny improvement but it is so significant because until now people had only managed to improve lower order terms and had done so with tremendous effort, often pioneering new techniques in the process. This result last year will thus go down in history as the first exponential improvement on the initial bounds $(1)$ of Erdős and collaborators. Moreover, there was  another Ramsey theory highlight  in 2023 that shocked the community. This was the breakthrough result of Mattheus and Verstraete showing that $r(4,t)=t^{3+o(1)}$ [[2]](#2). The upper bound here follows from classical work of Erdős and Szekeres in 1935 and so it was the lower bound that was the breakthrough, that is, providing a construction with many vertices and a colouring avoiding red $K_4$'s and blue $K_t$'s. 
 
 Despite solving the correct exponent of growth of $r(4,t)$ (answering a longstanding question of Erdős), this result is also significant due to the methods used. Indeed, there has been a well-established trend of providing lower bounds for Ramsey problems using randomness. This was initiated already by Erdős, establishing the lower bound $(1)$ in 1947, one of the first instances of the hugely influential 

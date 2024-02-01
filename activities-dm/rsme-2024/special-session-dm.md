@@ -47,17 +47,21 @@ body, td {
 
 Del 22 al 26 de enero de 2024
 
+Aula A 6B, edificio El Sario, UPNA
+
 ##  Organizadores
 - Delia Garijo (Universidad de Sevilla)
 - Marc Noy (Universidad Politécnica de Cataluña)
 - Francisco Santos (Universidad de Cantabria)
 
 ## Descripción
-La matemática discreta estudia estructuras combinatorias o discretas, particularmente grafos, geometrías finitas, estructuras geométricas discretas y aspectos combinatorios de estructuras algebraicas y de teoría de números, y en ella los aspectos algorítmicos tienen una relevancia particular de forma natural. La sesión propuesta está auspiciada por la recientemente creada Red de Matemática Discreta y Algorítmica, financiada por el Ministerio de Ciencia e Innovación para el periodo 2023-2025 (RED2022-134947-T), y presentará una panorámica de la investigación actual del área en España.
+La matemática discreta estudia estructuras combinatorias o discretas, particularmente grafos, geometrías finitas, estructuras geométricas discretas y aspectos combinatorios de estructuras algebraicas y de teoría de números, y en ella los aspectos algorítmicos tienen una relevancia particular de forma natural. La sesión propuesta está auspiciada por la recientemente creada [Red de Matemática Discreta y Algorítmica](https://dam-network.github.io), financiada por el Ministerio de Ciencia e Innovación para el periodo 2023-2025 (RED2022-134947-T), y presentará una panorámica de la investigación actual del área en España.
 
 ## Programa
 
 ### Lunes, 22 de enero de 2024
+
+#### Moderadora: Maria Bras-Amorós
 
 - Pedro A. García Sánchez (Universidad de Granada), Factorizaciones en extensiones de ideales de monoides libres conmutativos [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-pedro.pdf %}) [[arXiv]](https://arxiv.org/abs/2311.06901)
     <details>
@@ -81,7 +85,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br>
     </details>
 
-- Kolja Knauer (Universitat de Barcelona), Colorear grafos de Cayley
+- Kolja Knauer (Universitat de Barcelona), Colorear grafos de Cayley [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-kolja.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Un grafo de Cayley $\mathrm{Cay}(G,C)$ de un grupo finito $G$ is <em>minimal</em> si $C$ es un conjunto generador de $G$ minimal por inclusion. En los setentas Babai [1] discute por primera vez el problema de determinar el número cromático de un grafo de Cayley minimal y propone una conjetura fuerte que implicaría que todos estos grafos tienen numero cromático acotado por una constante global. En este trabajo mostramos que esta conjetura fuerte es falsa. Sin embargo también mostramos que todo grafo minimal de un grupo nilpotente o dihedral generalizado tiene numero cromático a lo mucho tres. También encontramos grafos minimales de Cayley con numero cromático cuatro y mostramos que eso es lo mas alto posible hasta orden $215$. Nótese que veinte años más tarde el mismo Babai [2] propuso otra conjetura fuerte que implica que existen familias de grafos minimales de Cayley con numero cromático no acotado. Esta sigue abierta.</p>
@@ -93,7 +97,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Julio José Moyano Ferna ́ndez (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas
+- Julio José Moyano Fernández (Universitat Jaume I), Algunos elementos combinatorios dentro de la teoría de singularidades de curvas planas [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-julio.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Algunos de los invariantes usados en la clasificación topológica de las singularidades de curvas planas poseen una naturaleza combinatoria; ejemplos de ello son el semigrupo de valores o la serie de Poincaré asociados a la singularidad (ver e.g. [4] y los trabajos allí referenciados).</p>
@@ -128,8 +132,10 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
 
 ### Martes, 23 de enero de 2024
 
-- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities
-    <details>
+#### Moderador: Pablo Candela
+
+- María A.Hernádez Cifre(Universidad de Murcia), On discrete Brunn-Minkowski type inequalities [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-mangeles.pdf %})
+<details>
     <summary>Resumen</summary>
     <p>The well-known Brunn-Minkowski inequality states that for a pair of convex bodies (i.e., non-empty compact and convex sets) $K,L\subset{\Bbb R}^n$, the functional $\mathrm{vol}\bigl((1-\lambda)K+\lambda L\bigr)^{1/n}$ is concave in $\lambda\in(0,1)$, where $\mathrm{vol}(\,\cdot)$ represents the volume (Lebesgue measure) and $+$ is the Minkowski (vectorial) addition.</p>
 
@@ -152,7 +158,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Maria Bras-Amorós (Universitat Rovira i Virgili), Numerical semigroups within the COPRICA research group
+- Maria Bras-Amorós (Universitat Rovira i Virgili), Numerical semigroups within the COPRICA research group [[transparencias]](http://crises-deim.urv.cat/~mbras/2024Pamplona.pdf)
     <details>
     <summary>Resumen</summary>
     <p>A numerical semigroup is a subset of the positive integers $\mathbb{N}$ together with $0$, closed under addition, and with a finite complement in $\mathbb{N}\cup\{0\}$. The number of gaps is its genus. Numerical semigroups arise in algebraic geometry, coding theory, privacy models, and in musical analysis. It is one of the main topics of the research group COPRICA at Universitat Rovira i Virgili. We will explain some classical problems on which we contributed or are currently working related to numerical semigroups and their counting by genus.</p>
@@ -163,13 +169,13 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Simon Briend (Universitat Pompeu Fabra), Estimating Adam's genealogy
+- Simon Briend (Universitat Pompeu Fabra), Estimating Adam's genealogy [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-simon.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Growing random structures are ever more present in our lives, be it in information technologies, social networks, epidemiology, genomics etc. Propagation phenomena can be modelled by randomly growing graphs and in particular, recursive trees. These random models account for the growth over time of a network resulting from an attachment or spreading process. However, the history of this process is often hidden and only a snapshot of the network is observed in the present-day. Retrieving information from the past of the network can shed light on the origin of an infection or a fake news, and explain the current network structure. In this talk I will present methods estimating the order of arrival of the vertices in a recursive tree. Specifically, we study two fundamental random recursive tree models: the uniform attachment model and the linear preferential attachment model. I will start by presenting an order estimator based on the Jordan centrality measure and defining a parametric family of risk measures to quantify the quality of the ordering procedure. Then, I will establish a minimax lower bound for this problem based on the shape exchangeability of these recursive trees, and demonstrate that the proposed estimator is near-optimal. Finally, I will also consider alternative ordering procedures based on degree centrality, spectral method and a peeling strategy and conclude by displaying numerical evidences that the Jordan ordering is the best performer for our measure of error.</p>
     </details>
 
-- Francisco Santos (Universidad de Cantabria), Towards a realization of the k-associahedron?
+- Francisco Santos (Universidad de Cantabria), Towards a realization of the k-associahedron? [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-paco.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>A subset of  $k+1$ diagonals of the $n$-gon is called a $(k+1)$-crossing if thyy all mutually cross, and a general subset is called $(k+1)$-crossing free if it does not contain a $k$-crossing.  $(k+1)$-crossing free subsets form a simplicial complex that we call the $k$-associahedron and denote $Ass_k(n)$ since for $k=1$ one recovers the (simplicial) associahedron. The $k$-associahedron is known to be a shellable sphere and conjectured to be polytopal [2] . It is also a subword complex in the root system of the $A$ and, moreover, every (spherical) subword complex is a link in some $k$-associahedron. In particular, polytopality of $k$-associahedra would imply the same for spherical subword complexes (in type $A$), a question asked by Knutson and Miller [3] .</p>
@@ -188,6 +194,8 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
+#### Moderador: Pedro A. García-Sánchez
+
 - Pablo Candela (Universidad Autónoma de Madrid),  Nilespacios finitos y aplicaciones recientes
     <details>
     <summary>Resumen</summary>
@@ -199,7 +207,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
--  Mariana Rosas-Ribeiro (Universitat Rovira i Virgili),  Infinite chains in the tree of numerical semigroups
+-  Mariana Rosas-Ribeiro (Universitat Rovira i Virgili),  Infinite chains in the tree of numerical semigroups [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-mariana.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>A numerical semigroup is a submonoid of the additive monoid $\mathbb{N}$ with finite complement in $\mathbb{N}$. The cardinality of the complement of a numerical semigroup is its genus and its smallest non-zero element is the multiplicity. For a given positive integer $g$, there is a limited amount of numerical semigroups that have genus $g$. There is no formula for the number $n_g$ of numerical semigroups of genus $g$, but in 2008 Bras-Amorós [1] conjectured that as $g$ grows $n_g$ grows Fibonacci-like. One of the tools to study the growth of this $n_g$ sequence is the tree of numerical semigroups, that organizes all the numerical semigroups in such a way that each level $g$ of the tree is formed by the numerical semigroups of genus $g$. In this tree there are nodes that have infinite descendants. In [2], the authors characterize these nodes (numerical semigroups) using the greatest common divisor of the first elements of the numerical semigroup. The collection formed by a numerical semigroup and its infinitely many descendants, if applicable, is an infinite chain. In this talk we show that at each level of the tree there are more nodes which are not in an infinite chain than the other way around. Furthermore, we find a self-replicating behavior in the subtrees formed by numerical semigroups with fixed multiplicity $m$. With this, we can determine the number of numerical semigroups that have infinitely many descendants, genus $g$ and multiplicity $m\leq7$.</p>
@@ -216,7 +224,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
--  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica
+-  Marc Noy (Universidad Politécnica de Cataluña), Grupo GAPCOMB de la UPC. Sistemas de votaciones y combinatoria analítica [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/Slides-marc.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>En la charla se dará una breve descripción del grupo de investigación <em>Combinatoria Geométrica, Algebraica  y Probabilística</em> (GAPCOMB) de la  Universidad Politécnica de Cataluña.
