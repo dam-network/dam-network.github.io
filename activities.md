@@ -9,6 +9,8 @@ title: Activities
 **[Combinatorial Designs and Codes (CODESCO’24)](https://gestioneventos.us.es/codesco24)**, Sevilla, July 8-12, 2024.\
 The goal of the conference is to bring together researchers interested in combinatorial design theory, coding theory, graph theory, algebraic combinatorics and finite geometry, with particular emphasis on establishing new synergies among them, and new applications to other fields and to the real world, including artificial intelligence, communication networks, cryptography and machine learning. The conference is a satellite event of the [9th European Congress of Mathematics](https://www.ecm2024sevilla.com).
  
+**[International Meeting on Numerical Semigroups 2024 (IMNS2024)](https://imns2024.uca.es/)**, Jerez de la Frontera, 8-12 July, 2024.\
+This is the eighth meeting of a series that started in 2008, with the aim of gathering researchers working on numerical semigroups, or related subjects, from different points of view: Factorization Theory, Algebraic Geometry,Combinatorics, Commutative Algebra, Coding Theory, Number Theory, Semigroup Theory. This is a satellite event of the [9th European Congress of Mathematics](https://www.ecm2024sevilla.com).
 
 
 **[Discrete Mathematics Days 2024](https://dmd2024.web.uah.es/)**, Alcalá de Henares, July 3-5, 2024.\
