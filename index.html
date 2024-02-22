@@ -36,8 +36,11 @@ body {
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.abstract }} <a href="{{ post.url | absolute_url }}">...continue reading.</a>
+    {% if post.abstract!="" %}
+     {{ post.abstract }} <a href="{{ post.url | absolute_url }}">...continue reading.</a>
+    {% else %}
+    {{ post.content }}
+    {% endif %}
   </div>
   {% endfor %}
 </div>
