@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-<div class="container">
+<div class="post">
   <p>
   
   Discrete and algorithmic mathematics is an area that studies combinatorial and discrete structures, in particular graphs and networks, finite geometries, discrete geometric structures and combinatorial aspects in algebra and number theory. 
@@ -37,7 +37,7 @@ body {
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.abstract }} <a href="{{ post.url | absolute_url }}">...continue reading.</a>
   </div>
   {% endfor %}
 </div>
