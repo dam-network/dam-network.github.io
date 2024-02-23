@@ -94,6 +94,11 @@ body {
   }
 }
 
+@media (min-width: 74em) {
+  .container {
+    max-width: 44rem;
+  }
+}
 
 /*
  * Masthead
