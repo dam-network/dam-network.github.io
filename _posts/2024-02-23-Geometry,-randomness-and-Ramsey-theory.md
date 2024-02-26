@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Recent trends I: Geometry, randomness and Ramsey theory.'
-abstract: Since its inception in  the early 1900s, Ramsey theory has flourished and become a cornerstone of modern discrete mathematics (and beyond). The central question asks to determine $r(s,t)$; the minimum integer $n\in \mathbb{N}$ such that any red/blue-colouring of the edges of the complete graph $K_n$ results in either a red $K_s$ or a blue $K_t$. Very small values can be calculated but already $r(5,5)$ is beyond our computational power to determine exactly. Therefore Ramsey theorists have  focused mainly on asymptotics.  Erdős and his collaborators drove the subject forward in the 1940s, establishing bounds and posing  beautiful  open problems, many of which are known to be notoriously hard and have remained stubborn to this day.
+title: 'Recent trends I: Geometry, randomness and Ramsey theory'
+abstract: Since its inception in  the early 1900s, Ramsey theory has flourished and become a cornerstone of modern discrete mathematics (and beyond). The central question asks to determine $r(s,t)$; the minimum integer $n\in \mathbb{N}$ such that any red/blue-colouring of the edges of the complete graph $K_n$ results in either a red $K_s$ or a blue $K_t$
+tag: 'Trend'
 ---
 
 

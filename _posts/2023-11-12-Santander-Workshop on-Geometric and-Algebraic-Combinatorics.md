@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-abstract: The Santander Workshop on Geometric and Algebraic Combinatorics will take place at Universidad de Cantabria in Santander (Spain), in January 15-19, 2024, with its format consisting of two mini courses, eight invited talks, plus short talks and posters contributed from participants.
+abstract: The Santander Workshop on Geometric and Algebraic Combinatorics will take place at Universidad de Cantabria in Santander (Spain), in January 15-19, 2024, with its format consisting of two mini courses, eight invited talks, plus short talks and posters contributed from participants
 ---
 
 The [Santander Workshop on Geometric and Algebraic Combinatorics](https://gacsantander2024.unican.es/) will take place at Universidad de Cantabria in Santander (Spain), in January 15-19, 2024, with its format consisting of two mini courses, eight invited talks, plus short talks and posters contributed from participants.
