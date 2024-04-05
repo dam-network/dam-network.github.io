@@ -35,7 +35,7 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [Matemática Discreta: Teoría de Grafos y Geometría Computacional](/directory-groups/fqm-164)  (Universidad de Sevilla)
 
-- [Metaheuristic Algorithms to solve problems in graphs](directory-groups/maspg) (Universidad Pablo de Olavide)
+- [Metaheuristic Algorithms to solve problems in graphs](/directory-groups/maspg) (Universidad Pablo de Olavide)
 
 - [NetIS: Networks and Intelligent Systems](/directory-groups/netis) (Universidad de Alcalá)
 
