@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-{% for post in site.posts reversed %}
+{% for post in site.posts %}
 {% if post.tag=='Trend' %}
 ### <a href="{{ post.url }}">{{ post.title }}</a>
 {{post.abstract}} (<a href="{{ post.url }}">read more</a>)
