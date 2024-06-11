@@ -40,6 +40,9 @@ The Santander Workshop on Geometric and Algebraic Combinatorics will have a hybr
 
 ## 2023
 
+**[Barcelona Math Days](https://scm.iec.cat/congres/bmd-2023/)**, Barcelona, November 2-3,2023.
+Special Session devoted to [Discrete Mathematics](https://scm.iec.cat/sessions/s3-logica/) in the third edition of the trienal conference of the Societat Catalana de Matemàtiques. Kolja Knauer (UB) is organising the session, and the speakers are: Felipe Rincón (Queen Mary), Vincent Pilaud (UB), Fiona Skerman (Uppsala U.),  Amanda Montejano (U. Nacional Autónoma de México), Alexandra Wesolek (Technische U. BerlIn) and Ignacio García Marco (U. De la Laguna).
+
 **[Encuentro andaluz de Matemática Discreta 2024](https://xiiieamd.uca.es/)**, Cádiz, July 5-7, 2023.\
 The 13th edition of the Encuentro Andaluz de Matemática Discreta takes place in Cádiz, organized by the Departments of Mathemtaics and Statistics and OR. 
 
