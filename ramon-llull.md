@@ -34,6 +34,7 @@ The deadline for the first edition of the Prize is **31 of January, 2024**.
 
 
 ## Awardees
+<a name="awardees"></a>
 
 The list of the prize winners is the following.
 
