@@ -56,3 +56,32 @@ The deadline for the first edition of the Prize is **31 of January, 2024**.
 - Martin Gardner, Logic Machines and Diagrams, 2nd edition, University of Chicago Press, 1982
 
 - G. Hägele and F. Pukelsheim (2001). "Llull's writings on electoral systems". Studia Lulliana. 41: 3–38. Archived from the original on 2006-02-07.
+
+## Awardees
+
+The list of the prize winners is the following.
+
+
+
+<table style="border:0px;">
+<tr>
+<td style="border:0px;background:white">  
+<img src="Images/AED.png" alt="isolated" width="100%"/>
+</td>
+<td style="border:0px;background:white">
+
+<p>1st Edition</p>
+
+<p> Jury: <a href="https://www.econ.upf.edu/~lugosi/">Gábor Lugosi</a> (UPF-ICREA, chair), <a href="https://www-sop.inria.fr/members/Frederic.Havet/">Frédéric Havet</a> (CRNS-INRIA, Sophia Antipolis), <a href="https://people.maths.ox.ac.uk/keevash/">Peter Keevash</a> (Oxford)</p>
+
+**<a href="https://sites.google.com/view/alberto-espuny-diaz/">Alberto Espuny Díaz (University of Heidelberg)</a>**
+
+<p>
+The 1st Ramon Llull Prize in Discrete Mathematics is awarded to Alberto Espuny Díaz for his PhD dissertation "Hamiltonicity problems in random graphs".
+The thesis contains several excellent results, most notably the solution of a 40-year old conjecture of Bollobás regarding the threshold for the existence of a Hamilton cycle in the percolated hypercube, a truly outstanding achievement.
+</p>
+
+<a href="RamonLlullPrize_announcement.pdf">Slides of the ceremony.<a>
+</td>
+</tr>
+</table>
