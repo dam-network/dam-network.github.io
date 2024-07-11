@@ -74,7 +74,7 @@ The list of the prize winners is the following.
 
 <p> Jury: <a href="https://www.econ.upf.edu/~lugosi/">Gábor Lugosi</a> (UPF-ICREA, chair), <a href="https://www-sop.inria.fr/members/Frederic.Havet/">Frédéric Havet</a> (CRNS-INRIA, Sophia Antipolis), <a href="https://people.maths.ox.ac.uk/keevash/">Peter Keevash</a> (Oxford)</p>
 
-<b><a href="https://sites.google.com/view/alberto-espuny-diaz/">Alberto Espuny Díaz</b> (University of Heidelberg)</a>
+<b><a href="https://sites.google.com/view/alberto-espuny-diaz/">Alberto Espuny Díaz (University of Heidelberg)</a></b>
 
 <p>
 The 1st Ramon Llull Prize in Discrete Mathematics is awarded to Alberto Espuny Díaz for his PhD dissertation "Hamiltonicity problems in random graphs".
