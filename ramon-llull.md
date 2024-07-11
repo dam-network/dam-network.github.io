@@ -66,7 +66,7 @@ The list of the prize winners is the following.
 <table style="border:0px;">
 <tr>
 <td style="border:0px;background:white">  
-<img src="Images/AED.png" alt="isolated" width="400%"/>
+<img src="Images/AED.png" alt="isolated" width="1000%"/>
 </td>
 <td style="border:0px;background:white">
 
