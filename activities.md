@@ -8,6 +8,10 @@ title: Activities
 **[New trends in arithmetic combinatorics and related fields](https://www.birs.ca/events/2025/5-day-workshops/25w5331)**, Instituto de Matemáticas de la Universidad de Granada, Granada, June 1-5, 2025.\
 Arithmetic combinatorics has kept developing and diversifying its topics to the present day. In particular, the last five years, and especially 2023, have seen outstanding advances. This workshop will bring together many world-leading researchers who are working at the cutting edge of these latest developments across several fields.
 
+**[The 8th Workshop on Design Theory, Hadamard Matrices and Applications (Hadamard 2025)](https://gestioneventos.us.es/hadamard2025)**, Sevilla, 26-30 May, 2025.\
+The purpose of the workshop is to bring together researchers and students interested in design theory, especially as it relates to Hadamard matrices and their applications, as well as in related areas in coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics and computer security. The audiences would learn about the latest developments in these areas, discuss the latest findings, take stock of what remains to be done on classical problems and explore different visions for setting the direction for future work. Hadamard 2025 is the eighth in a series of conferences.
+
+
 **[XIV Encuentro Andaluz de Matemática Discreta](https://www2.ual.es/14camd/)**, Universidad de Almería, January 22-24, 2025.\
 The Department of Mathematics of the University of Almeria, the research group TIC 146 Supercomputación-Algoritmos (SAL) and the Center for Development and Transfer of Mathematical Research to Industry (CDTIME), organize the XIV Andalusian Meeting of Discrete Mathematics, a space to bring together different research groups from Andalusia, Spain and the rest of the world working in the field of Discrete Mathematics.
 
