@@ -35,9 +35,6 @@ PhD Students:
 
 
 
-
-
-
 ### [Jesus Yepes Nicolas](https://webs.um.es/jesus.yepes/), Universidad de Murcia
 Research Interests: (classical and modern) convex geometry; discrete geometry; convex geometric analysis; links between convexity and measure theory; geometry of numbers..
 
@@ -45,6 +42,8 @@ Postdoctoral researchers: Francisco Marín Sola
 
 PhD Students: Lidia Gordo Malagón
 
-[Webpage](https://www.um.es/geometria/
-) of the Convex and Differential Geometry group at UM.
+[Webpage](https://www.um.es/geometria/) of the Convex and Differential Geometry group at UM.
 
+### [María Ángeles Moreno Frías](https://produccioncientifica.uca.es/investigadores/113036/detalle), Universidad de Cádiz
+
+Research Interests: Graph algebras, numerical semigroups
