@@ -18,17 +18,17 @@ Convex polytopes, finite geometries, matroids, random graphs, free groups, finit
 
 ### Faculty
 [Simeon Ball](https://mat-web.upc.edu/people/simeon.michael.ball/) (coordinator),
-[Pep Burillo](https://mat-web.upc.edu/people/pep.burillo/main_en.php), [Jordi Delgado](https://jdrmaths.wixsite.com/jdelgado), [Anna de Mier](https://mat-web.upc.edu/people/anna.de.mier/), [Marc Noy](https://web.mat.upc.edu/marc.noy/), [Guillem Perarnau](https://web.mat.upc.edu/guillem.perarnau/), [Julian Pfeifle](https://mat.upc.edu/en/people/julian.pfeifle/), [Clément Requilé](https://requile.github.io/), [Juanjo Rué](https://mat-web.upc.edu/people/juan.jose.rue/), [Oriol Serra](https://mat-web.upc.edu/people/oriol.serra/),  [Lluis Vena](https://web.mat.upc.edu/lluis.vena/), [Enric Ventura](http://www-eupm.upc.es/~ventura/). 
+[Pep Burillo](https://mat-web.upc.edu/people/pep.burillo/main_en.php), [Jordi Delgado](https://jdrmaths.wixsite.com/jdelgado), [Richard Lang](https://www.richard-lang.com/about) (Ramón y Cajal), [Anna de Mier](https://mat-web.upc.edu/people/anna.de.mier/), [Marc Noy](https://web.mat.upc.edu/marc.noy/), [Guillem Perarnau](https://web.mat.upc.edu/guillem.perarnau/), [Julian Pfeifle](https://mat.upc.edu/en/people/julian.pfeifle/), [Clément Requilé](https://requile.github.io/), [Juanjo Rué](https://mat-web.upc.edu/people/juan.jose.rue/), [Oriol Serra](https://mat-web.upc.edu/people/oriol.serra/),  [Lluis Vena](https://web.mat.upc.edu/lluis.vena/), [Enric Ventura](http://www-eupm.upc.es/~ventura/). 
 
 
 ### Postdoctoral Researchers
 
-[Patrick Morris](https://sites.google.com/site/patrickmorriscombinatorics) (Marie Curie Postdoctoral Fellow), [Tassio Naia dos Santos](https://www.ime.usp.br/~tassio/) (Maria de Maeztu Fellow), Mallika Roy (Margarita Salas Fellow).
+[Patrick Morris](https://sites.google.com/site/patrickmorriscombinatorics) (Marie Curie Postdoctoral Fellow), [Tassio Naia dos Santos](https://www.ime.usp.br/~tassio/) (Maria de Maeztu Fellow).
 
 
 ### PhD Students
 
-Sofiya Burova, Jordi Castellvi, Miquel Ortega, Tabriz Popatia, Robin Simoens, Ricard Vilar. 
+Sofiya Burova, Jordi Castellvi, Richard Coll, Miquel Ortega, Tabriz Popatia, Xavier Povill, Robin Simoens, Ricard Vilar. 
 
 
 ## Links of interest
