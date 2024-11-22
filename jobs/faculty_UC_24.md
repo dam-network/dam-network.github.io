@@ -9,7 +9,7 @@ La Universidad de Cantabria acaba de convocar una plaza de Profesor Ayudante Doc
 
 Más información en:
 
-https://web.unican.es/unidades/serviciopdiretribuciones/convocatorias/detalle-pdi?c=4537&t=1
+[https://web.unican.es/unidades/serviciopdiretribuciones/convocatorias/detalle-pdi?c=4537&t=1](https://web.unican.es/unidades/serviciopdiretribuciones/convocatorias/detalle-pdi?c=4537&t=1)
 
 Un saludo, 
 

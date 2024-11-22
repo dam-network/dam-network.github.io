@@ -14,3 +14,6 @@ title: ""
 *Perfil del candidato*: Since the research focus of the PhD position is on geometric graph algorithms, a strong background in discrete mathematics or theoretical computer science is ideal.
 
 *Deadline*: **25th November 2024**
+
+
+*Link*: [https://rdi.upc.edu/ca/financament/carrera-investigadora/r1/ajuts-formacio-de-doctors-2024](https://rdi.upc.edu/ca/financament/carrera-investigadora/r1/ajuts-formacio-de-doctors-2024)

@@ -3,25 +3,16 @@ layout: page
 title: ""
 ---
 
-**3-Year Postdoctoral Position in Coding Theory and Algebraic Techniques for Cryptography at the University of La Laguna**
+**Plaza predoctoral en la Universidad Politècnica de Catalunya en Combinatoria**
 
-We are seeking candidates for a three-year postdoctoral position as part of the ATALAYA project (Coding Theory and Algebraic Techniques for Cryptography, Data Storage, and Information), affiliated with the Institute of Mathematics and Applications of the University of La Laguna (IMAULL).
+*Nombre del proyecto:* COntemporary COmbinatorics and Applications (COCOA)
 
-*Expected Start Date:* February 2025
-*Duration*: 3 years
-*Salary*: €32,658.60 gross/year, divided into 12 monthly payments
-*Modality*: Full-time, on-site contract
-*Teaching Load*: Possibility of teaching duties (maximum 100 hours/year)
-*Requirement*: Specialization in Algebra, specifically Coding Theory and Cryptography
-*Lead Researchers*: Irene Márquez Corbella (PI), Ignacio García Marco (co-PI)
+*Breve descripción:* Combinatorics is a broad discipline in the forefront of modern mathematics extending its influence across many other scientific fields. This proposal explores a wide variety of its applications, both of purely mathematical nature and delving into the realm of complex systems such as the world-wide web, sociology, telecommunication, and quantum computation. Approaches to combinatorial problems are inherently diverse, encompassing algebraic, analytic, geometric and probabilistic tools. The combined expertise of the team in these methods is the identity mark of our research group and will allow us to address open problems and new trends in the area.
 
-The ATALAYA project provides a research environment focused on theoretical challenges and practical applications in Coding Theory, Cryptography, and Data Storage.
+*IP(s):* Simeon Ball (simeon.michael.ball@upc.edu) y Guillem Perarnau (guillem.perarnau@upc.edu)
 
-*Application Deadline*: **December 5, 2024**
+*Perfil del candidato:* We are looking for motivated candidates with a strong background in combinatorics, who would like to work on its interactions with geometry, analysis, number theory or probability.
 
-For more details, please refer to the official call for applications via [this link](https://www.ull.es/portal/convocatorias/convocatoria/programa-talentum-investigacion-aplicada-ull-antonio-gonzalez-financiado-por-el-cabildo-de-tenerife-contratacion-personal-investigador/).
-For any questions or clarifications, feel free to contact us directly at:
+*Deadline*: **25th November 2024**
 
-Irene Márquez Corbella: imarquec@ull.edu.es
-
-Ignacio García Marco: iggarcia@ull.edu.es
+*Link*: [https://rdi.upc.edu/ca/financament/carrera-investigadora/r1/ajuts-formacio-de-doctors-2024](https://rdi.upc.edu/ca/financament/carrera-investigadora/r1/ajuts-formacio-de-doctors-2024)
