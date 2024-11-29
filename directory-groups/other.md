@@ -9,6 +9,9 @@ title: ""
 ### [José Cáceres González](https://brujula.ual.es/authors/117.html), Universidad de Almería
 Research Interests: Domination and localization on graphs.
 
+### Irene Gil ###, Universidad CEU San Pablo
+Research Interests: Extremal and probabilistic combinatorics and Graph Theory.
+
 ### [Bernardo González Merino](https://sites.google.com/site/homepagebernardogonzalezmerino/home), Universidad de Murcia
 Research Interests: Convex Geometry, Asymptotic Geometric Analysis, Discrete Geometry, Geometry of Numbers, Polynomial Optimization.
 
