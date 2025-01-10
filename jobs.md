@@ -13,6 +13,8 @@ title: Job oppotunities
 
 - [3-Year Postdoctoral Position in Coding Theory and Algebraic Techniques for Cryptography at the University of La Laguna](/jobs/postdoc_ULL_24.md) (deadline 05/12/24)
 
+- [3-Year Joint Postdoctoral Position at Universitat Politècnica Catalunya and Freie Universität Berlin](/jobs/postdoc_UPC-FU_25.md) (deadline 27/01/25)
+
 **PhD Scholarships**
 
 - [Plaza predoctoral en la Universidad Politècnica de Catalunya en Geometría Computacional](/jobs/phd_UPC1_24.md) (deadline 25/11/24)
