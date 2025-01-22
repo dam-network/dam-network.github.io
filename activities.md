@@ -20,7 +20,6 @@ The Department of Mathematics of the University of Almeria, the research group T
 
 
 **[VII Congreso de Jóvenes Investigadores de la RSME](https://jovenes2025.rsme.es/)**, Bilbao, January 13-17, 2025.\
-
 Special Session devoted to Computational Geometry and Graph Theory within the VII Congreso de Jóvenes Investigadores de la RSME 2025. The invited speakers of the session are: Sofiya Burova (UPC), Jordi Castellví (UPC), Guillermo Esteban (UAH), Andrea de las Heras (UPC),  Fabian Klute (UPC), Tassio Naia dos Santos (UPC), Nicolau Oliver (U. Svizzera Italiana), Camila Zárate (U. Birmingham). The session is organised by Alberto Espuny-Díaz (Heidelberg), Irene Gil (Warwick) and Irene Parada (UPC). See [here](https://jovenes2025.rsme.es/pdf/gazteakRSME2025_paralelaOT01.pdf) the program of the session.
 
 
