@@ -18,6 +18,12 @@ The Barcelona Discrete Mathematics Meeting (BDMM) is a new initiative organized 
 **[XIV Encuentro Andaluz de Matemática Discreta](https://www2.ual.es/14camd/)**, Universidad de Almería, January 22-24, 2025.\
 The Department of Mathematics of the University of Almeria, the research group TIC 146 Supercomputación-Algoritmos (SAL) and the Center for Development and Transfer of Mathematical Research to Industry (CDTIME), organize the XIV Andalusian Meeting of Discrete Mathematics, a space to bring together different research groups from Andalusia, Spain and the rest of the world working in the field of Discrete Mathematics.
 
+
+**[VII Congreso de Jóvenes Investigadores de la RSME](https://jovenes2025.rsme.es/)**, Bilbao, January 13-17, 2025.\
+
+Special Session devoted to Computational Geometry and Graph Theory within the VII Congreso de Jóvenes Investigadores de la RSME 2025. The invited speakers of the session are: Sofiya Burova (UPC), Jordi Castellví (UPC), Guillermo Esteban (UAH), Andrea de las Heras (UPC),  Fabian Klute (UPC), Tassio Naia dos Santos (UPC), Nicolau Oliver (U. Svizzera Italiana), Camila Zárate (U. Birmingham). The session is organised by Alberto Espuny-Díaz (Heidelberg), Irene Gil (Warwick) and Irene Parada (UPC).
+
+
 ## 2024
 
 **[BGSMath Advanced Course: Threshold phenomena in random structures]()**, Centre de Recerca Matemàtica - Universitat Politècnica de Catalunya, Barcelona, November 11-22, 2024.\
