@@ -20,3 +20,5 @@ title: Job oppotunities
 - [Plaza predoctoral en la Universidad Politècnica de Catalunya en Geometría Computacional](/jobs/phd_UPC1_24.md) (deadline 25/11/24)
 
 - [Plaza predoctoral en la Universidad Politècnica de Catalunya en Combinatoria](/jobs/phd_UPC1_24.md) (deadline 25/11/24)
+
+- [PhD position on Coding Theory in Universitat Autònoma de Barcelona](/jobs/phd_UAB_25.md)  (deadline 31/01/25, at 14:00)
