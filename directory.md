@@ -4,6 +4,14 @@ title: Research Groups Directory
 ---
 
 This webpage contains a non-exhaustive a list of research groups in Discrete Mathematics and related areas that are based in Spain, and is continuously under construction. If you are member of a group or you are a researcher in Spain, in a related area related and would like to appear in this directory, please send an email to guillem.perarnau@upc.edu.
+
+
+![image](/directory-groups/mapa_DAM.png)
+
+
+
+
+
 - [A&IT: Algebra and Information Theory](/directory-groups/fqm-379) (Universidad de Granada)
 
 - [ALBCOM: Algorithms, Bioinformatics, Complexity and Formal Methods](/directory-groups/albcom) (Universitat Politècnica de Catalunya)
