@@ -5,6 +5,12 @@ title: Activities
 
 ## 2025
 
+**[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025\
+We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28).
+Applications are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
+This program is a Maria de Maeztu Focused Research Activity, jointly supported by CRM, IMUB, and MICINN.
+
+
 **[New trends in arithmetic combinatorics and related fields](https://www.birs.ca/events/2025/5-day-workshops/25w5331)**, Instituto de Matemáticas de la Universidad de Granada, Granada, June 1-5, 2025.\
 Arithmetic combinatorics has kept developing and diversifying its topics to the present day. In particular, the last five years, and especially 2023, have seen outstanding advances. This workshop will bring together many world-leading researchers who are working at the cutting edge of these latest developments across several fields.
 
