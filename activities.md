@@ -11,6 +11,11 @@ title: Activities
 We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28). Application are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
 This program is a Maria de Maeztu Focused Research Activity, jointly supported by CRM, IMUB, and MICINN.
 
+**[International Meeting on Commutative Monoids 2025](https://imcm2025.uca.es/)**, Universidad de La Laguna, Tenerife, July 14-16 2025.\
+The recent results on commutative monoids will be discussed. The registration form is not yet available. If you are interested in submitting a talk, please email us at “monoidsproject@uca.es”.
+
+
+
 **[XXI Spanish Meeting on Computational Geometry](https://egc2025.unican.es/)**, Santander, June 30 - July 2, 2025.\
 The XXI Spanish Meeting on Computational Geometry will take place at Universidad de Cantabria (Spain), June 30th to July 2nd, 2025. The topics of this international conference include the current issues in the field of Discrete and Computational Geometry, both in its theoretical and applied aspects. The expected participation includes researchers from the area or from closer disciplines, undergraduates, master students or doctoral students, and professionals from companies and institutions whose work involves the use of geometric algorithms. The EGC (Encuentros de Geometría Computational) have a history span of 35 years, with Santander being where its first edition took place in 1990, and this being the fourth time our city hosts the meeting. [See this link](https://egc2025.unican.es/35-years-of-egc/).
 
