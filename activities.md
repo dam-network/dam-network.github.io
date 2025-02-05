@@ -7,7 +7,8 @@ title: Activities
 
 
 
-**[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025.\ We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28). Application are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
+**[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025.\
+We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28). Application are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
 This program is a Maria de Maeztu Focused Research Activity, jointly supported by CRM, IMUB, and MICINN.
 
 **[XXI Spanish Meeting on Computational Geometry](https://egc2025.unican.es/)**, Santander, June 30 - July 2, 2025.\
