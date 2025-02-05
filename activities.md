@@ -5,10 +5,13 @@ title: Activities
 
 ## 2025
 
-**[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025\
-We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28).
-Applications are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
+
+
+**[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025.\ We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28). Application are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
 This program is a Maria de Maeztu Focused Research Activity, jointly supported by CRM, IMUB, and MICINN.
+
+**[XXI Spanish Meeting on Computational Geometry](https://egc2025.unican.es/)**, Santander, June 30 - July 2, 2025.\
+The XXI Spanish Meeting on Computational Geometry will take place at Universidad de Cantabria (Spain), June 30th to July 2nd, 2025. The topics of this international conference include the current issues in the field of Discrete and Computational Geometry, both in its theoretical and applied aspects. The expected participation includes researchers from the area or from closer disciplines, undergraduates, master students or doctoral students, and professionals from companies and institutions whose work involves the use of geometric algorithms. The EGC (Encuentros de Geometría Computational) have a history span of 35 years, with Santander being where its first edition took place in 1990, and this being the fourth time our city hosts the meeting. [See this link](https://egc2025.unican.es/35-years-of-egc/).
 
 
 **[New trends in arithmetic combinatorics and related fields](https://www.birs.ca/events/2025/5-day-workshops/25w5331)**, Instituto de Matemáticas de la Universidad de Granada, Granada, June 1-5, 2025.\
