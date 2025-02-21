@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job oppotunities
+title: Job opportunities
 ---
 
 **Faculty**
