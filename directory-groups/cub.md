@@ -15,7 +15,7 @@ Geometric and Algebraic Combinatorics
 ## Members
 
 ### Faculty
-[Kolja Knauer](https://pageperso.lis-lab.fr/~kolja.knauer/), [Arnau Padrol](https://www.ub.edu/comb/arnaupadrol/) (node coordinator), [Vincent Pilaud](https://www.lix.polytechnique.fr/Labo/Vincent.Pilaud/) (starting December 2023).
+[Kolja Knauer](https://pageperso.lis-lab.fr/~kolja.knauer/), [Arnau Padrol](https://www.ub.edu/comb/arnaupadrol/) (node coordinator), [Vincent Pilaud](https://www.lix.polytechnique.fr/Labo/Vincent.Pilaud/).
 
 
 ### PhD Students
