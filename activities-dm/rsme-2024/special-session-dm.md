@@ -115,7 +115,7 @@ La matemática discreta estudia estructuras combinatorias o discretas, particula
     <br><br>
     </details>
 
-- Delia Garijo (Universidad de Sevilla), Diámetro continuo en grafos
+- Delia Garijo (Universidad de Sevilla), Diámetro continuo en grafos [[transparencias]]({{ site.baseurl }}{% link /activities-dm/rsme-2024/slides-delia.pdf %})
     <details>
     <summary>Resumen</summary>
     <p>Los <em>problemas de aumento</em> en grafos han sido ampliamente estudiados para medidas relacionadas con distancias, como el diámetro o la dilación. El objetivo en estos problemas es añadir un conjunto mínimo de aristas al grafo (o de mínimo peso) de forma que se satisfaga una condición establecida sobre el parámetro en estudio, por ejemplo, la disminución del diámetro del grafo resultante con respecto al original.
