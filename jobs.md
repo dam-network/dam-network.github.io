@@ -10,6 +10,9 @@ title: Job opportunities
 
 - [Tenure-track research position in Algebra and Geometry at CMUP, University of Porto, Portugal.](/jobs/faculty_UP_24) (deadline 20/11/24)
 
+- [Ayudante Doctor position in Algebra at the University of La Laguna](/jobs/faculty_ULL_25) (deadline 07/04/25)
+
+
 
 **Postdoctoral Fellowships**
 
