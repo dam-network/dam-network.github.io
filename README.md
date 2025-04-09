@@ -9,6 +9,6 @@ The main objectives of the Network are to foster cooperation among the existing 
 Discrete Mathematics, Graph Theory, Discrete Geometry, Computational Geometry, Analytic Combinatorics, Algebraic Combinatorics, Combinatorial Number Theory, Random Discrete Structures, Combinatorial Group Theory, Numerical Semigroups
 
 
-## Project number
+## Project numbers
 
-RED2022-134947-T
+RED2022-134947-T, RED2024-153572-T
