@@ -26,6 +26,9 @@ Arithmetic combinatorics has kept developing and diversifying its topics to the 
 **[The 8th Workshop on Design Theory, Hadamard Matrices and Applications (Hadamard 2025)](https://gestioneventos.us.es/hadamard2025)**, Sevilla, May 26-30, 2025.\
 The purpose of the workshop is to bring together researchers and students interested in design theory, especially as it relates to Hadamard matrices and their applications, as well as in related areas in coding theory, association schemes, sequences, finite geometry, difference sets, quantum information theory, theoretical physics and computer security. The audiences would learn about the latest developments in these areas, discuss the latest findings, take stock of what remains to be done on classical problems and explore different visions for setting the direction for future work. Hadamard 2025 is the eighth in a series of conferences.
 
+**[Workshop on secret sharing schemes](https://proyectohermesincibe.org/wsss/)**, Tarragona, May 12-14, 2025.
+The focus of the workshop will be the foundations and applications of secret sharing schemes, and there will be introductory and advanced sessions. The workshop is aimed for researchers and students in cryptography and information theory, in general. The workshop will start just after [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/) (Madrid, May 4-8 2025). 
+
 **[Barcelona Discrete Mathematics Meeting 2025](https://www.crm.cat/barcelona-discrete-mathematics-meeting-2025/)**, Centre de Recerca Matemàtica, January 30, 2025.
 \
 The Barcelona Discrete Mathematics Meeting (BDMM) is a new initiative organized by members of seven research groups in Barcelona working in different areas of Discrete Mathematics. The aim is to bring together these different groups in the area and host a day of talks with both internal and external speakers to learn more about each others research interests and foster future collaboration between the groups.
