@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Richard Montgomery receives the ECM Prize 2024
+title: Recent trends VII: Richard Montgomery receives the ECM Prize 2024
 abstract: Richard Montgomery was one of the ten recipients of the prestigious European Mathematical Society (EMS) prize, given in during the ninth European Congress of Mathematics, in Sevilla.
 tag: 'Trend'
 ---
@@ -44,7 +44,7 @@ Keevash's proof of the existence of designs.
 
 Another major contribution of Montgomery is, incidentally, the
 development of a particular type absorption technique, known
-as \emph{distributive absorption} (see, e.g., [[3](#montgomery2024transversals), Section 5]). Absorption, roughly speaking,
+as *distributive absorption* (see, e.g., [[3](#montgomery2024transversals), Section 5]). Absorption, roughly speaking,
 is a general name given to strategies for decomposing a large
 object $O$: firstly, one reserves a small substructure
 of $O$ that has some flexibility in it; on a second step, the
