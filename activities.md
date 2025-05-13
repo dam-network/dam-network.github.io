@@ -2,6 +2,12 @@
 layout: page
 title: Activities
 ---
+## 2026
+
+
+**[Discrete Mathematics Days 2026](https://dam-network.github.io/dmd2026/)**, Granada, 29 June - 1 July 2026.
+The conference will take place at the Faculty of Sciences of the University of Granada.
+
 
 ## 2025
 
