@@ -7,8 +7,6 @@ title: ""
 
 # Universidad de Sevilla
 
-<> ![image](/directory-groups/albcom.jpg)
-
 
 ## Research Interests
 
@@ -21,7 +19,7 @@ Geometric algorithms, classification problems and artificial intelligence.
 
 ### PhD Students
 
- [Alina Kasiuk](https://prisma.us.es/investigador/8204), [Miguel Angel Pérez Cutiño](https://orcid.org/0000-0002-8841-2565), [Fabio Rodrígez Sánchez](https://prisma.us.es/investigador/8525).
+ [Alina Kasiuk](https://prisma.us.es/investigador/8204), [Miguel Angel Pérez Cutiño](https://mpcutino.github.io/personal/), [Fabio Rodrígez Sánchez](https://prisma.us.es/investigador/8525).
 
 ## Links of interest
 
