@@ -15,7 +15,7 @@ Geometric algorithms, classification problems and artificial intelligence.
 ## Members
 
 ### Faculty
-[José Miguel Díaz Bañez](https://prisma.us.es/investigador/1044), [José Manuel Higes](https://prisma.us.es/investigador/7860), , [Vanesa Sánchez Canales](https://prisma.us.es/investigador/3886), [Inmaculada Ventura](https://prisma.us.es/investigador/4327).
+[José Miguel Díaz Bañez](https://prisma.us.es/investigador/1044), [José Manuel Higes](https://prisma.us.es/investigador/7860), [Vanesa Sánchez Canales](https://prisma.us.es/investigador/3886), [Inmaculada Ventura](https://prisma.us.es/investigador/4327).
 
 ### PhD Students
 
