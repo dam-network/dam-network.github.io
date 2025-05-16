@@ -34,6 +34,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [GAPCOMB: Geometric, Algebraic and Probabilistic Combinatorics](/directory-groups/gapcomb) (Universitat Politècnica de Catalunya)
 
+- [GALGO: Geometric Algorithms & Applications](/directory-groups/galgo) (Universidad de Sevilla)
+
 - [GASIULL: Geometría Algebraica: singularidades e invariantes](/directory-groups/gasiull) (Universidad de la Laguna)
 
 - [GDD: Geometría Diferencial y Discreta](/directory-groups/gdd) (Universidad de Cantabria)
