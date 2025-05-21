@@ -23,7 +23,7 @@ Geometric algorithms, classification problems and artificial intelligence.
 
 ## Links of interest
 
-
+[GALGO](https://grupos.us.es/galgo/index.html), webpage of the GALGO research group.
 
 
 
