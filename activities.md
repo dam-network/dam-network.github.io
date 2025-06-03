@@ -18,7 +18,8 @@ We are delighted to announce the upcoming Intensive Research Program on Combinat
 This program is a Maria de Maeztu Focused Research Activity, jointly supported by CRM, IMUB, and MICINN.
 
 **[International Meeting on Commutative Monoids 2025](https://imcm2025.uca.es/)**, Universidad de La Laguna, Tenerife, July 14-16 2025.\
-The recent results on commutative monoids will be discussed. The registration form is not yet available. If you are interested in submitting a talk, please email us at “monoidsproject@uca.es”.
+The recent results on commutative monoids will be discussed. You can register via the [following link](
+https://imcm2025.uca.es/registration-from/). If you are interested in submitting a talk, please email “monoidsproject@uca.es”. 
 
 
 
