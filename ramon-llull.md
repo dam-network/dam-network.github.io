@@ -20,7 +20,7 @@ The topics of the prize cover all areas related to Discrete Mathematics, includi
 - Theoretical Computer Science
 
 Eligibility of the candidates:
-* Candidates must have defended their doctoral thesis from 1st January 2021 to 31st December 2025.
+* Candidates must have defended their doctoral thesis from 1st January 2022 to 31st December 2025.
 * Candidates must either have defended the doctoral thesis in a Spanish university or be of Spanish nationality.
 * Candidates must have written the doctoral thesis in English.
 * Candidates must present their candidacy by sending to the President of the Jury, Prof. Gabor Lugosi at gabor.lugosi@gmail.com the following documents:
