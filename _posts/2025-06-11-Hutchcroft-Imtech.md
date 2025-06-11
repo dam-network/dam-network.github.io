@@ -86,6 +86,7 @@ local?, Probability Theory and Related Fields, vol. 149, p. 261-269,
 
 <li id="3">H. Kesten. The critical probability of bond percolation on the square lattice equals 1/2. Communications in Mathematical Physics,
 74(1):41–59, 1980.</li>
+</ol>
 
 ---
 
