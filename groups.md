@@ -9,13 +9,19 @@ title: Nodes of the network
 
 ### Node coordinators, with affiliations and research group
 
+- [Maria Bras-Amorós](https://web.mat.upc.edu/maria.bras/), Universitat Rovira i Virgili, [COPRICA: Codis, Privadesa i Combinatòria Algebraica]()
+
 - [Pablo Candela](https://verso.mat.uam.es/~pablo.candela/), Universidad Autónoma de Madrid, [Harmonic Analysis, Combinatorics and Arithmetics](https://matematicas.uam.es/~fernando.chamizo/grant/overview.html)
 
 - [Pedro García](https://www.ugr.es/local/pedro), Universidad de Granada, [Semigrupos conmutativos](https://semigrupos.ugr.es)
 
 - [Delia Garijo](https://personal.us.es/dgarijo/), Universidad de Sevilla, [Matemática Discreta: Teoria de Grafos y Geometria Computacional](https://investigacion.us.es/sisius/grupo/FQM164)
 
+- [Bernardo González Merino](https://sites.google.com/site/homepagebernardogonzalezmerino/home), Universidad de Murcia, Convex and Discrete Geometry
+
 - [Gábor Lugosi](https://www.econ.upf.edu/~lugosi/), Universitat Pompeu Fabra, [Statistics@UPF](https://sites.google.com/view/stats-upf/)
+
+- [Irene Márquez Corbella](http://www.singacom.uva.es/~iremarquez/), Universidad de la Laguna, [GASIULL](https://gasiull.webs.ull.es/)
 
 - [David Orden](https://ordend.web.uah.es), Universidad de Alcalá, [NetIS - Networks and Intelligent Systems](directory-groups/netis/)
 
