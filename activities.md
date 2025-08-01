@@ -8,14 +8,18 @@ title: Activities
 **[Discrete Mathematics Days 2026](https://dam-network.github.io/dmd2026/)**, Granada, 29 June - 1 July 2026.
 The conference will take place at the Faculty of Sciences of the University of Granada.
 
+**[Congreso Biennal RSME 2026](https://2026.bienalrsme.com/)**, Alicante, January 19-23, 2026.\
+Special Session devoted to [Discrete and Algorithmic Mathematics](/activities-dm/rsme-2026/special-session-dm/index.html) within the Congreso Bienal de la Real Sociedad Matemática Española (RSME) 2026. The invited speakers of the session are: Aida Abiad (TU/Eindhoven), Mónica Blanco (U. Santander), Anna de Mier (U. Politècnica Catalunya), Alberto Díaz-Espuny (U. Heidelberg), Pedro Garcia (U. Granada), Irene Gil Fernández (CEU San Pablo), Philippe Giménez (U. Valladolid), Bernardo González Merino (U. Múrcia), Diego Gonzalez-Sánchez (Alfred Rényi Institute), Luis Pedro Montejano (U. Rovira Virgili), Daniel Palacín (U. Complutense Madrid) and Rodrigo Silveira (U. Politècnica Catalunya). The session is organised by Maria Bras-Amorós, Pablo Candela, Guillem Perarnau and Francisco Santos.
+
 
 ## 2025
+
 
 **Matemática Discreta en el [III Encuentro Conjunto
 RSME-UMA 2025]([https://www.ub.edu/comb/CGGC25/](https://www.union-matematica.org.ar/reunion2025/))**, Bariloche (Argentina).\
 Entre los días 1 y 5 de diciembre de 2025 se celebrará el tercer encuentro conjunto entre la Real Sociedad Matemática Española ([RSME](https://www.rsme.es/)) y la Unión Matemática Argentina ([UMA](http://www.union-matematica.org.ar/)) en la localidad de Bariloche. El Encuentro incluye varias [sesiones especiales](https://www.union-matematica.org.ar/reunion2025/sesiones/comunicaciones-cientificas), en particular una de **Matemática Discreta** organizada por Adrian Pastine, Mariana Escalante y Francisco Santos.
 
-El envío de comunicaciones a estas sesiones está abierto hasta el **31 de Agosto de 2025**. Los investigadores de un iversidades españolas que deseen participar pueden solicitar una ayuda de la Red de Matemática Discreta y Algorítmica para cofinanciar su viaje. Para ello, contactar con [Francisco Santos](mailto:francisco.santos@unican.es).
+El envío de comunicaciones a estas sesiones está abierto hasta el **31 de Agosto de 2025**. Los investigadores de universidades españolas que deseen participar pueden solicitar una ayuda de la Red de Matemática Discreta y Algorítmica para cofinanciar su viaje. Para ello, contactar con [Francisco Santos](mailto:francisco.santos@unican.es).
 
 **[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025.\
 We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28). Application are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
@@ -78,7 +82,7 @@ The Discrete Mathematics Days (DMD 2024) will be held on July 3-5, 2024, at the 
 **[VI Encuentro Conjunto RSME-SMM](https://rsme-smm-vi.webs.upv.es/)**, Valencia, July 1-5, 2024.\
 Two sessions on Discrete and Algorithmic Mathematics will be held within the event, sponsored by the network. The first one, "Gráficas y gráficos" is organised by K. Knauer, A. Montejano and G. Perarnau and the, second one "Geometría discreta y matroides", is organised by K. Knauer, L. Martinez and E. Roldan.
 
-**[Congreso Biennal RSME](https://2024.bienalrsme.com/sesiones-especiales)**, Pamplona, January 22-26, 2024.\
+**[Congreso Biennal RSME 2024](https://2024.bienalrsme.com/sesiones-especiales)**, Pamplona, January 22-26, 2024.\
 Special Session devoted to [Discrete and Algorithmic Mathematics](/activities-dm/rsme-2024/special-session-dm/index.html) within the Congreso Bienal de la Real Sociedad Matemática Española (RSME) 2024. The invited speakers of the session are: Maria Bras-Amorós (U. Rovira i Virgili), Simon Briend (U. Pompeu Fabra), Pablo Candela (U. Autònoma Madrid), Pedro A. García-Sánchez (U. Granada), Delia Garijo (U. Sevilla), María Ángeles Hernández Cifre (U. Murcia), Kolja Knauer (U. Barcelona), Julio J. Moyano-Fernández (U. Jaume I), Marc Noy (U. Politècnica Catalunya), Mariana Rosas-Ribeiro (U. Rovira i Virgili), Francisco Santos (U. Cantabria). The session is organised by Delia Garijo, Marc Noy and Francisco Santos.
 
 **[Santander Workshop on Geometric and Algebraic Combinatorics](https://gacsantander2024.unican.es/)**, Santander, January 15-19, 2024.\
