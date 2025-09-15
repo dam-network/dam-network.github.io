@@ -3,6 +3,45 @@ title: ""
 layout: page
 ---
 
+
+<style type="text/css">
+
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+body, td {
+   font-size: 0.9rem;
+}
+
+.container {
+    max-width: 56rem;
+    }
+    @media (min-width: 38em) {
+    .container {
+        max-width: 38rem;
+    }
+    }
+    @media (min-width: 56em) {
+    .container {
+        max-width: 56rem;
+    }
+}
+
+</style>
+
 # Sesión especial Matemática Discreta y Algorítmica (MDA), bienal RSME 2026
 
 **Equipo organizador**
