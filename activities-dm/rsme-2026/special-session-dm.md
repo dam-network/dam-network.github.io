@@ -1,6 +1,9 @@
 ---
-title: Sesión especial Matemática Discreta y Algorítmica (MDA), bienal RSME 2026
+title: "" 
+layout: page
 ---
+
+# Sesión especial Matemática Discreta y Algorítmica (MDA), bienal RSME 2026
 
 **Equipo organizador**
 
@@ -59,20 +62,22 @@ Códigos, Geometría Discreta.
   Department of Mathematics and Data Science, Vrije Universiteit Brussel<br>
   a.abiad.monge@tue.nl
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
   In this talk, several new eigenvalue bounds on the independence number
   of graph powers will be presented. We will then illustrate an
   application of such bounds in coding theory. In particular, we will use
   them to estimate the maximum size of a code in the sum-rank metric,
   demonstrating how the spectral method can often improve the state of the
   art coding bounds.
-  :::
+  </details>
 
 - Alberto Espuny Díaz, *Constructing structures in the budget-constrained random graph process*<br>
 Departament de Matemàtiques i Informàtica, Universitat de Barcelona<br>
 aespuny@ub.edu
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   In this talk, I will present results concerning the budget-constrained
   random graph process introduced by Frieze, Krivelevich and Michaeli.
@@ -94,7 +99,7 @@ aespuny@ub.edu
   Tássio Naia and Zak Smith, and with Sylwia Antoniuk, Kalina Petrova and
   Miloš Stojaković.
 
-  :::
+  </details>
 
 - Daniel Palacin, *Casi-periodicidad desde una perspectiva modelo-teórica* <br>
 Departamento de Álgebra, Geometría y Topología,
@@ -102,7 +107,8 @@ Facultad de Ciencias Matemáticas,
 Universidad Complutense de Madrid<br>
 dpalacin@ucm.es
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   Los ultraproductos constituyen una herramienta básica para analizar,
   desde un punto de vista modelo-teórico, el comportamiento asintótico de
@@ -121,13 +127,14 @@ dpalacin@ucm.es
   del teorema de Roth sobre progresiones aritméticas de longitud 3. No se
   presupondrá ningún conocimiento previo de teoría de modelos.
 
-  :::
+  </details>
 
 - Pedro A. García-Sánchez, Christopher O’Neill,  *Descomposición de semigrupos numéricos en semigrupos irreducibles*<br>
 Departamento de Álgebra e IMAG, Universidad de Granada<br>
 pedro@ugr.es
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   Un semigrupo numérico es irreducible si no puede expresarse como la
   intersección de dos semigrupos numéricos que lo contengan propiamente.
@@ -160,13 +167,14 @@ pedro@ugr.es
   MCIN/AEI/10.13039/501100011033 y fondos FEDER, además de por la
   RED2024-153572-T, financiada por la Agencia Estatal de Investigación.
 
-  :::
+  </details>
 
 - Mónica Blanco, Francisco Santos, *Lattice zonotopes and the lonely runner conjecture*<br>
 Departamento de Matemáticas, Estadística y Computación, Universidad de Cantabria<br>
 monica.blancogomez@unican.es
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   The lonely runner conjecture states that if $n$ people are running
   around the circle, having started at the same time at the origin and
@@ -194,14 +202,15 @@ monica.blancogomez@unican.es
   Supported by grants PID2022-137283NB-C21, funded by,
   MCIN/AEI/10.13039/501100011033
 
-  :::
+  </details>
 
 - Rodrigo I. Silveira, *When simple geometry gets hard: shortest paths with algebraic obstacles*<br>
 Departament de Matemàtiques, Universitat Politècnica de Cataluya<br>
 rodrigo.silveira@upc.edu
 
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   This talk explores two geometric shortest path problems that share a
   surprising trait: they are simple to state but deceptively difficult to
@@ -219,13 +228,14 @@ rodrigo.silveira@upc.edu
   summarize what is currently known about them, and highlight how
   algebraic obstacles may explain why they resist efficient algorithms.
 
-  :::
+  </details>
 
 - Anna de Mier, Joseph E. Bonin, Kerri Morgan and Lluís Vena, *Graphs with the same G-invariant but different configurations*<br>
 Departament de Matememàtiques, Universitat Politècnica de Catalunya<br>
 anna.de.mier@upc.edu
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   In 1974 W. Tutte introduced the rotor construction, that allowed him to
   construct "codichromatic" graphs (i.e., graphs with the same Tutte
@@ -248,13 +258,14 @@ anna.de.mier@upc.edu
   This work was partially supported by grant PID2023-147202NB-I00 funded
   by MICIU/AEI/10.13039/501100011033.
 
-  :::
+  </details>
 
 - Luis Pedro Montejano, *On Roudneff's conjecture: advances and an interesting $k$-variant*<br>
 Departament d'Enginyeria Informàtica i Matemàtiques, Universitat Rovira Virgili<br>
 luispedro.montejano@urv.cat
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   J. P. Roudneff conjectured in 1991 that every arrangement of $n \ge 
   2d+1\ge 5$ pseudohyperplanes in the real projective space
@@ -266,13 +277,14 @@ luispedro.montejano@urv.cat
   about a $k$-variant in which the cyclic polytopes once again play an
   important role.
 
-  :::
+  </details>
 
 - Ignacio García-Marco, Philippe Gimenez, Mario González-Sánchez, *Additive combinatorics and commutative algebra, a sumsets approach*<br>
 Instituto de Matemáticas de la Universidad de Valladolid (IMUVA)<br>
 pgimenez@uva.es
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   Given a finite nonempty subset $\mathcal{A}$ in $\mathbb{N}^d$, for
   all $s\geq 0$, the set
@@ -318,13 +330,14 @@ pgimenez@uva.es
   This work was partially supported by the grant PID2022-137283NB-C22
   funded by MICIU/AEI/10.13039/501100011033 and ERDF/EU.
 
-  :::
+  </details>
 
 - Diego Gonzalez-Sánchez, Pablo Candela, Balázs Szegedy, *Higher-order Fourier analysis via spectral algorithms*<br>
 Centre National de la Recherche Scientifique (CNRS), IMJ-PRG<br>
 gonzalez.sanchez.diego@renyi.hu
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   Fourier analysis is a powerful tool to analyze functions defined on
   compact abelian groups. During the past decades, advances in additive
@@ -345,13 +358,14 @@ gonzalez.sanchez.diego@renyi.hu
   Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship number 101202161
   funded by the European Union and by project PID2024-156180NB-I00 funded
   by the Ministry of Science, Innovation, and Universities of Spain.
-  :::
+  </details>
 
 - Irene Gil Fernández, Gaia Carenini, *An approach to Hoàng-Reed Conjecture*<br> 
 Universidad CEU San Pablo<br>
 irene.gilfernandez@ceu.es
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   Hoàng-Reed Conjecture states that every digraph in which each vertex has
   outdegree at least $k$ contains $k$ directed cycles
@@ -361,13 +375,14 @@ irene.gilfernandez@ceu.es
   not seem to work for higher $k$. In this talk we try to show some work
   on progress together with G. Carenini on the resolution of this problem.
 
-  :::
+  </details>
 
 - Bernardo González Merino, *Recent developments on large signed subset sums of vectors*<br>
 Departamento de Ingeniería y Tecnología de Computadores, Universidad de Murcia<br>
 bgmerino@um.es
 
-  ::: spoiler Resumen
+  <details>
+    <summary>Resumen</summary>
 
   The following question arises in some topics of Mathematics: for given
   $d\geq 2$, $n\geq d$ and $k\leq n$, what is the largest value
@@ -384,4 +399,4 @@ bgmerino@um.es
   developments on this topic, such as the solution by F. Grundbacher to
   the exact computation of $c(3,4,4)=\sqrt{5}$.
 
-  :::
+  </details>
