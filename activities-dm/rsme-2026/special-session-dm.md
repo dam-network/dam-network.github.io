@@ -51,7 +51,7 @@ body, td {
 - Pablo Candela, Instituto de Ciencias Matemáticas
 
 - Guillem Perarnau, Universitat Politècnica de Catalunya, Centre de
-  Recerca Matemática
+  Recerca Matemàtica
 
 - Francisco Santos, Universidad de Cantabria
 
@@ -91,7 +91,7 @@ Códigos, Geometría Discreta.
 | 15:30 – 16:00 | Anna de Mier (U. Politècnica Catalunya), *Graphs with the same G-invariant but different configurations* |
 | 16:00 – 16:30 | Luis Pedro Montejano (U. Rovira Virgili), *On Roudneff’s conjecture: advances and an interesting $k$-variant* |
 | 16:30 – 17:00 | Philippe Gimenez (U. Valladolid), *Additive combinatorics and commutative algebra, a sumsets approach* |
-| 17:00 – 17:30 | Diego Gonzalez-Sánchez (CNRS, IMJ-PRG), *Higher-order Fourier analysis via spectral algorithms* |
+| 17:00 – 17:30 | Diego González-Sánchez (CNRS, IMJ-PRG), *Higher-order Fourier analysis via spectral algorithms* |
 | 17:30 – 18:00 | Pausa café |
 | 18:00 – 18:30 | Irene Gil Fernández (CEU San Pablo), *An approach to Hoàng-Reed Conjecture* |
 | 18:30 – 19:00 | Bernardo González Merino (U. Murcia), *Recent developments on large signed subset sums of vectors* |
@@ -100,7 +100,6 @@ Códigos, Geometría Discreta.
   Department of Mathematics and Computer Science, Eindhoven University of Technology (TU/e),<br>
   Department of Mathematics and Data Science, Vrije Universiteit Brussel<br>
   a.abiad.monge@tue.nl
-
   <details>
     <summary>Resumen</summary>
   In this talk, several new eigenvalue bounds on the independence number
@@ -114,7 +113,6 @@ Códigos, Geometría Discreta.
 - Alberto Espuny Díaz, *Constructing structures in the budget-constrained random graph process*<br>
 Departament de Matemàtiques i Informàtica, Universitat de Barcelona<br>
 aespuny@ub.edu
-
   <details>
     <summary>Resumen</summary>
 
@@ -145,7 +143,6 @@ Departamento de Álgebra, Geometría y Topología,
 Facultad de Ciencias Matemáticas,
 Universidad Complutense de Madrid<br>
 dpalacin@ucm.es
-
   <details>
     <summary>Resumen</summary>
 
@@ -171,7 +168,6 @@ dpalacin@ucm.es
 - Pedro A. García-Sánchez, Christopher O’Neill,  *Descomposición de semigrupos numéricos en semigrupos irreducibles*<br>
 Departamento de Álgebra e IMAG, Universidad de Granada<br>
 pedro@ugr.es
-
   <details>
     <summary>Resumen</summary>
 
@@ -211,7 +207,6 @@ pedro@ugr.es
 - Mónica Blanco, Francisco Santos, *Lattice zonotopes and the lonely runner conjecture*<br>
 Departamento de Matemáticas, Estadística y Computación, Universidad de Cantabria<br>
 monica.blancogomez@unican.es
-
   <details>
     <summary>Resumen</summary>
 
@@ -246,8 +241,6 @@ monica.blancogomez@unican.es
 - Rodrigo I. Silveira, *When simple geometry gets hard: shortest paths with algebraic obstacles*<br>
 Departament de Matemàtiques, Universitat Politècnica de Cataluya<br>
 rodrigo.silveira@upc.edu
-
-
   <details>
     <summary>Resumen</summary>
 
@@ -272,7 +265,6 @@ rodrigo.silveira@upc.edu
 - Anna de Mier, Joseph E. Bonin, Kerri Morgan and Lluís Vena, *Graphs with the same G-invariant but different configurations*<br>
 Departament de Matememàtiques, Universitat Politècnica de Catalunya<br>
 anna.de.mier@upc.edu
-
   <details>
     <summary>Resumen</summary>
 
@@ -302,7 +294,6 @@ anna.de.mier@upc.edu
 - Luis Pedro Montejano, *On Roudneff's conjecture: advances and an interesting $k$-variant*<br>
 Departament d'Enginyeria Informàtica i Matemàtiques, Universitat Rovira Virgili<br>
 luispedro.montejano@urv.cat
-
   <details>
     <summary>Resumen</summary>
 
@@ -321,7 +312,6 @@ luispedro.montejano@urv.cat
 - Ignacio García-Marco, Philippe Gimenez, Mario González-Sánchez, *Additive combinatorics and commutative algebra, a sumsets approach*<br>
 Instituto de Matemáticas de la Universidad de Valladolid (IMUVA)<br>
 pgimenez@uva.es
-
   <details>
     <summary>Resumen</summary>
 
@@ -371,10 +361,9 @@ pgimenez@uva.es
 
   </details>
 
-- Diego Gonzalez-Sánchez, Pablo Candela, Balázs Szegedy, *Higher-order Fourier analysis via spectral algorithms*<br>
+- Diego Gánzalez-Sánchez, Pablo Candela, Balázs Szegedy, *Higher-order Fourier analysis via spectral algorithms*<br>
 Centre National de la Recherche Scientifique (CNRS), IMJ-PRG<br>
 gonzalez.sanchez.diego@renyi.hu
-
   <details>
     <summary>Resumen</summary>
 
@@ -402,7 +391,6 @@ gonzalez.sanchez.diego@renyi.hu
 - Irene Gil Fernández, Gaia Carenini, *An approach to Hoàng-Reed Conjecture*<br> 
 Universidad CEU San Pablo<br>
 irene.gilfernandez@ceu.es
-
   <details>
     <summary>Resumen</summary>
 
@@ -419,7 +407,6 @@ irene.gilfernandez@ceu.es
 - Bernardo González Merino, *Recent developments on large signed subset sums of vectors*<br>
 Departamento de Ingeniería y Tecnología de Computadores, Universidad de Murcia<br>
 bgmerino@um.es
-
   <details>
     <summary>Resumen</summary>
 
