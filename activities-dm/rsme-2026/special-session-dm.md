@@ -138,7 +138,7 @@ aespuny@ub.edu
 
   </details>
 
-- Daniel Palacin, *Casi-periodicidad desde una perspectiva modelo-teórica* <br>
+- Daniel Palacín, *Casi-periodicidad desde una perspectiva modelo-teórica* <br>
 Departamento de Álgebra, Geometría y Topología,
 Facultad de Ciencias Matemáticas,
 Universidad Complutense de Madrid<br>
@@ -361,7 +361,7 @@ pgimenez@uva.es
 
   </details>
 
-- Diego Gánzalez-Sánchez, Pablo Candela, Balázs Szegedy, *Higher-order Fourier analysis via spectral algorithms*<br>
+- Diego González-Sánchez, Pablo Candela, Balázs Szegedy, *Higher-order Fourier analysis via spectral algorithms*<br>
 Centre National de la Recherche Scientifique (CNRS), IMJ-PRG<br>
 gonzalez.sanchez.diego@renyi.hu
   <details>
