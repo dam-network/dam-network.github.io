@@ -24,6 +24,9 @@ title: Job opportunities
 
 **PhD Scholarships**
 
+- [Beca doctoral FPI en la UAM](/jobs/phd_UAM_25.md) (deadline TBD)
+
+
 - [PhD Position in Discrete Geometry](/jobs/phd_UB_25.md) (deadline 18/03/25)
 
 - [PhD position on Coding Theory in Universitat Autònoma de Barcelona](/jobs/phd_UAB_25.md)  (deadline 31/01/25, at 14:00)
