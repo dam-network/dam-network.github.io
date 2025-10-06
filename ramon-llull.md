@@ -28,7 +28,7 @@ Eligibility of the candidates:
     * Copy of the doctoral thesis and publications arising from it.
     * Two recommendation letters to be sent directly by the recommenders to the President of the Jury.
 
-The deadline for the first edition of the Prize is **31 of January, 2026**. 
+The deadline for the second edition of the Prize is **31 of January, 2026**. 
 <br />
 <br />
 
