@@ -15,11 +15,8 @@ Special Session devoted to [Discrete and Algorithmic Mathematics](/activities-dm
 ## 2025
 
 
-**Matemática Discreta en el [III Encuentro Conjunto
-RSME-UMA 2025]([https://www.ub.edu/comb/CGGC25/](https://www.union-matematica.org.ar/reunion2025/))**, Bariloche (Argentina).\
-Entre los días 1 y 5 de diciembre de 2025 se celebrará el tercer encuentro conjunto entre la Real Sociedad Matemática Española ([RSME](https://www.rsme.es/)) y la Unión Matemática Argentina ([UMA](http://www.union-matematica.org.ar/)) en la localidad de Bariloche. El Encuentro incluye varias [sesiones especiales](https://www.union-matematica.org.ar/reunion2025/sesiones/comunicaciones-cientificas), en particular una de **Matemática Discreta** organizada por Adrian Pastine, Mariana Escalante y Francisco Santos.
-
-El envío de comunicaciones a estas sesiones está abierto hasta el **31 de Agosto de 2025**. Los investigadores de universidades españolas que deseen participar pueden solicitar una ayuda de la Red de Matemática Discreta y Algorítmica para cofinanciar su viaje. Para ello, contactar con [Francisco Santos](mailto:francisco.santos@unican.es).
+**[III Encuentro Conjunto RSME-UMA 2025]([https://www.ub.edu/comb/CGGC25/](https://www.union-matematica.org.ar/reunion2025/))**, Bariloche (Argentina).\
+Entre los días 1 y 5 de diciembre de 2025 se celebrará el tercer encuentro conjunto entre la Real Sociedad Matemática Española ([RSME](https://www.rsme.es/)) y la Unión Matemática Argentina ([UMA](http://www.union-matematica.org.ar/)) en la localidad de Bariloche. El Encuentro incluye varias [sesiones especiales](https://www.union-matematica.org.ar/reunion2025/sesiones/comunicaciones-cientificas), en particular una de **Matemática Discreta** organizada por Adrian Pastine, Mariana Escalante y Francisco Santos. El envío de comunicaciones a estas sesiones está abierto hasta el **31 de Agosto de 2025**. Los investigadores de universidades españolas que deseen participar pueden solicitar una ayuda de la Red de Matemática Discreta y Algorítmica para cofinanciar su viaje. Para ello, contactar con [Francisco Santos](mailto:francisco.santos@unican.es).
 
 **[Combinatorial Geometries and Geometric Combinatorics 2025](https://www.ub.edu/comb/CGGC25/)**, Centre de Recerca Matemàtica (CRM), Barcelona, October–November 2025.\
 We are delighted to announce the upcoming Intensive Research Program on Combinatorial Geometries and Geometric Combinatorics. This program will bring together students and researchers in the fields of polyhedral geometry, matroids, oriented matroids, and geometric combinatorics. Participants will engage in a rich schedule of activities, including a research school (October 6–17), research projects, seminars, and a conference (November 24–28). Application are open for those wishing to participate in the entire program (October–November). Apply by February 14, 2025 with [this form](https://forms.gle/QGfi5XGR1592SMs2A).
@@ -94,7 +91,7 @@ The Santander Workshop on Geometric and Algebraic Combinatorics will have a hybr
 **[Barcelona Math Days](https://scm.iec.cat/congres/bmd-2023/)**, Barcelona, November 2-3,2023.
 Special Session devoted to [Discrete Mathematics](https://scm.iec.cat/sessions/s3-logica/) in the third edition of the trienal conference of the Societat Catalana de Matemàtiques. Kolja Knauer (UB) is organising the session, and the speakers are: Felipe Rincón (Queen Mary), Vincent Pilaud (UB), Fiona Skerman (Uppsala U.),  Amanda Montejano (U. Nacional Autónoma de México), Alexandra Wesolek (Technische U. BerlIn) and Ignacio García Marco (U. De la Laguna).
 
-**[Encuentro andaluz de Matemática Discreta 2024](https://xiiieamd.uca.es/)**, Cádiz, July 5-7, 2023.\
+**[Encuentro andaluz de Matemática Discreta 2023](https://xiiieamd.uca.es/)**, Cádiz, July 5-7, 2023.\
 The 13th edition of the Encuentro Andaluz de Matemática Discreta takes place in Cádiz, organized by the Departments of Mathemtaics and Statistics and OR. 
 
 **[XX Spanish Meeting on Computational Geometry](https://egc23.web.uah.es/)**, Santiago de Compostela,  July 3-5, 2023\
