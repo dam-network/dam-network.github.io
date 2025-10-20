@@ -15,6 +15,7 @@ Convex polytopes, triangulations, tropical geometry, lattice polytopes, symmetry
 
 ### Faculty
 [Francisco Santos](https://personales.unican.es/santosf) (Universidad de Cantabria, coordinator),
+[Daniel Sadornil](https://web.unican.es/departamentos/matesco/miembros-del-departamento/personal-docente-e-investigador/profesor?pi=4F19D5B67BE13BA8&a=2024) (U. de Cantabria),
 [Fernando Etayo Gordejuela](https://personales.unican.es/etayof) (U. de Cantabria),
 [Nuria Corral Pérez](https://personales.unican.es/corralp) (U. de Cantabria),
 [Mario Fioravanti](https://personales.unican.es/fioravam) (U. de Cantabria),
