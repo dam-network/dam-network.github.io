@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent Trends IX: Frederick Manners awarded EMS Prize 2024"
+title: "Recent Trends X: Frederick Manners awarded EMS Prize 2024"
 abstract: Frederick Manners has been awarded one of the European Mathematical Society prizes in recognition of his outstanding contributions in arithmetic combinatorics and related areas. Manners, who is currently an Associate Professor at the University of California, San Diego, has been particularly praised for his work in the area known as higher-order Fourier analysis. We will focus here on two of his main contributions.
 tag: 'Trend'
 ---
