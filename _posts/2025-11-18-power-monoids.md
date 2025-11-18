@@ -19,7 +19,7 @@ $$
 
 does not necessarily imply that $Y=Z$. At first blush, this loss of cancellativity seems to make it quite difficult to study various properties of power semigroups. However, as it turns out, more often than not, these objects behave surprisingly well. 
 
-The systematic study of power semigroups began in the 1960s and was initiated by Tamura and Shafer. A central question that arose from their work, called the \emph{isomorphism problem for power semigroups}, is whether, for semigroups $S$ and $T$ in a certain class ${\mathcal O}$, an isomorphism between ${\mathcal P}(S)$ and ${\mathcal P}(T)$ implies that $S$ and $T$ are isomorphic. Although this was answered in the negative by Mogiljanskaja [[5]](#Mo73) for the class of all semigroups, several other classes have been found for which the answer is positive, such as the class of groups [[7]](#Sh67) and Clifford semigroups [[4]](#Ga-Zh14).
+The systematic study of power semigroups began in the 1960s and was initiated by Tamura and Shafer. A central question that arose from their work, called the *isomorphism problem for power semigroups*, is whether, for semigroups $S$ and $T$ in a certain class ${\mathcal O}$, an isomorphism between ${\mathcal P}(S)$ and ${\mathcal P}(T)$ implies that $S$ and $T$ are isomorphic. Although this was answered in the negative by Mogiljanskaja [[5]](#Mo73) for the class of all semigroups, several other classes have been found for which the answer is positive, such as the class of groups [[7]](#Sh67) and Clifford semigroups [[4]](#Ga-Zh14).
 
 
 In recent years, the topic gained new attention, initially motivated by problems in factorization theory and additive combinatorics. In order to answer questions about how subsets of $\mathbb{N}\_0$, 
