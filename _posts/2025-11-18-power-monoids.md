@@ -8,10 +8,10 @@ tag: 'Trend'
 Let $(S,\cdot)$ be a semigroup. We denote by ${\mathcal P}(S)$ the *large power semigroup* of $S$, that is, the family of all non-empty subsets of $S$, endowed with the binary operation of setwise multiplication 
 
 $$
-  (X,Y)\mapsto \{xy:x\in X,y\in Y\}.
+  (X,Y)\mapsto \lbrace xy:x\in X,y\in Y\}.
 $$
 
-To consider an often studied example, let $S=(\mathbb{N}_0,+)$ be the additive monoid of non-negative integers. Although we easily see that ${\mathcal P}(S)$ retains the property of being a commutative monoid, with identity element being the singleton $\{0\}$, it fails to be cancellative. This means that for $X,Y,Z\in{\mathcal P}(S)$, the equation 
+To consider an often studied example, let $S=(\mathbb{N}_0,+)$ be the additive monoid of non-negative integers. Although we easily see that ${\mathcal P}(S)$ retains the property of being a commutative monoid, with identity element being the singleton $\lbrace  0\rbrace$, it fails to be cancellative. This means that for $X,Y,Z\in{\mathcal P}(S)$, the equation 
 
 $$
 X+Y=X+Z
@@ -32,10 +32,10 @@ Since every isomorphism between semigroups bijectively maps cancellative element
 
 **Open Question:** Does the isomorphism problem have a positive answer for the class of cancellative semigroups? 
 
-Naturally, we can also consider the isomorphism problem for reduced finitary power monoids. A first step in this direction was made by Tringali and Yan [[9]](#Tr-Ya25), who gave a positive answer for the class of rational Puiseux monoids, that is, submonoids of the additive group of rational numbers, using the following crucial observation. Let $H$ and $K$ be arbitrary monoids and let $f$ be an isomorphism between ${\mathcal P}\_{\operatorname{fin},1}(H)$ and ${\mathcal P}\_{\operatorname{fin},1}(K)$. Then $f$ bijectively maps 2-element sets to 2-element sets. This allows us to define an auxiliary bijection $g:H\to K$, defined in the following way. We set $g(1)=1$ and if $x\in H\setminus\{1\}$, then 
+Naturally, we can also consider the isomorphism problem for reduced finitary power monoids. A first step in this direction was made by Tringali and Yan [[9]](#Tr-Ya25), who gave a positive answer for the class of rational Puiseux monoids, that is, submonoids of the additive group of rational numbers, using the following crucial observation. Let $H$ and $K$ be arbitrary monoids and let $f$ be an isomorphism between ${\mathcal P}\_{\operatorname{fin},1}(H)$ and ${\mathcal P}\_{\operatorname{fin},1}(K)$. Then $f$ bijectively maps 2-element sets to 2-element sets. This allows us to define an auxiliary bijection $g:H\to K$, defined in the following way. We set $g(1)=1$ and if $x\in H\setminus\lbrace 1\rbrace $, then 
 
 $$
-f(\{1,x\})=\{1,g(x)\}.
+f(\lbrace 1,x\rbrace )=\lbrace 1,g(x)\}.
 $$ 
 
 The existence of this map, called the *pullback* of $f$, is quite similar to the correspondence that we have seen in the previous proof. 
