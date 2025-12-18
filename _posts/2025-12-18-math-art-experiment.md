@@ -81,7 +81,7 @@ Euler also studied *Mutually Orthogonal Latin Squares (MOLS)*, pairs of LSs whos
 
 <div align="center">
 <figure id="fig:MOLS">
-<img src="/public/img/MOLS.png" style="width:60.0%" alt="image" />
+<img src="/public/img/MOLS.png" style="width:80.0%" alt="image" />
 <span id="fig:MOLS" label="fig:MOLS"></span>
   <figcaption>Figure 4: A pair of MOLSs.</figcaption>
 </figure>
@@ -92,7 +92,7 @@ Euler also studied *Mutually Orthogonal Latin Squares (MOLS)*, pairs of LSs whos
 <div align="center">
 <figure id="fig:2">
 
-<img src="/public/img/triang.png" style="width:40.0%" alt="image" />
+<img src="/public/img/triang.png" style="width:80.0%" alt="image" />
 
 $$
 \begin{align*}
@@ -170,7 +170,7 @@ We have seen that randomness gives fair experiments, while designs give efficien
 
 <div align="center">
 <figure id="fig:random_LS">
-<img src="/public/img/random_LS.png" style="width:40.0%" alt="image" />
+<img src="/public/img/random_LS.png" style="width:80.0%" alt="image" />
 <span id="fig:random_LS" label="fig:random_LS"></span>
   <figcaption>Figure 6: A random LS.</figcaption>
 </figure>
@@ -194,7 +194,7 @@ Absorption fixes this. Before the random process begins, we reserve certain *abs
 
 These breakthroughs provided the first genuinely random-influenced constructions of designs, objects that, while not uniformly random, retain many of the desirable symmetry-breaking features of randomness. The primary motivation, however, was to prove *existence* results. Constructing designs had long been difficult, and classical algebraic or geometric methods applied only in special cases. Although Wilson proved in the 1970s that $(n,k,2)$-SSs exist whenever divisibility conditions permit [[7](#Wilson2)], general $(n,k,t)$-SSs remained out of reach, and Steiner had conjectured since 1853 that they should always exist for large enough $n$ under the same conditions. Keevash’s absorption method resolved this conjecture, giving constructions for all feasible parameters and, remarkably, the first examples of any $(n,k,t)$-SS with $t\ge 6$.
 
-These ideas opened completely new directions. Not only do they construct many designs with given parameters, yielding the best known lower bounds on their total number, but they also allow designs with additional properties. For example, Kwan, Sah, Sawhney and Simkin used iterative absorption to construct *high girth* STSs [[5](#KSSS2)], settling a long-standing conjecture of Erd\H{o}s from 1973.
+These ideas opened completely new directions. Not only do they construct many designs with given parameters, yielding the best known lower bounds on their total number, but they also allow designs with additional properties. For example, Kwan, Sah, Sawhney and Simkin used iterative absorption to construct *high girth* STSs [[5](#KSSS2)], settling a long-standing conjecture of Erdős from 1973.
 
 
  **Towards understanding Random Designs.**
