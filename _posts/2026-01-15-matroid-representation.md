@@ -1048,8 +1048,8 @@ linear and multilinear settings.
 <li id="KPY20">Kühne, L., Pendavingh, R. and Yashfe, G. Von Staudt constructions for skew-linear and multilinear matroids. Combinatorial Theory. (2023)</li>
 <li id="KY22">Kühne, L. and Yashfe, G. Representability of matroids by c-arrangements is undecidable. Israel Journal Of Mathematics. 252, 95-147 (2022)</li>
 <li id="KY22'">Kühne, L. and Yashfe, G. On entropic and almost multilinear representability of matroids. arxiv.org (2025), https://arxiv.org/abs/2206.03465</li>
-<li id="Mat99">Matúš, F. Matroid representations by partitions. Discrete Mathematics. \textbf{203} pp. 169-194 (1999)</li>
-<li id="Mat24">Matúš, F. Algebraic matroids are almost entropic. Proc. Amer. Math. Soc. \textbf{152} pp. 1-6 (2024)</li>
+<li id="Mat99">Matúš, F. Matroid representations by partitions. Discrete Mathematics. 203 pp. 169-194 (1999)</li>
+<li id="Mat24">Matúš, F. Algebraic matroids are almost entropic. Proc. Amer. Math. Soc. 152 pp. 1-6 (2024)</li>
 <li id="MR08">Mayhew, D. and Royle, G. Matroids with nine elements. Journal Of Combinatorial Theory, Series B. 98, 415-431 (2008)</li>
 <li id="PZ13">Pendavingh, R. and Zwam, S. Skew partial fields, multilinear representations of matroids, and a matrix tree theorem. Advances In Applied Mathematics. 50, 201-227 (2013)</li>
 <li id="RST19">Rosen, Z., Sidman, J. and Theran, L. Algebraic matroids in action. arxiv.org, (2019), https://arxiv.org/abs/1809.00865</li>
