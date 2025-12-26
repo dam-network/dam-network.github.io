@@ -152,7 +152,7 @@ dpalacin@ucm.es
   ultralímite de la medida de contar normalizada induce una medida de
   Keisler, invariante bajo automorfismos y traslaciones, que ha
   desempeñado un papel crucial en los últimos años en varias aplicaciones
-  de la teoría de modelos a la combinatoria aditiva.
+  de la teoría de modelos a la combinatoria aditiva.<br>
 
   En esta charla, presentaré un trabajo conjunto con Amador Martin-Pizarro
   en el que obtenemos un resultado de casi-periodicidad modelo-teórico,
@@ -175,26 +175,27 @@ pedro@ugr.es
   intersección de dos semigrupos numéricos que lo contengan propiamente.
   Cada semigrupo numérico puede expresarse como una intersección de
   (finitas) semigrupos numéricos irreducibles . A esas expresiones que no
-  sean “irredundantes” las llamaremos factorizaciones en irreducibles.
+  sean “irredundantes” las llamaremos factorizaciones en irreducibles.<br>
 
   Mostramos que las uniones de conjuntos de longitudes de factorizaciones
   de semigrupos numéricos en semigrupos numéricos irreducibles son todas
-  iguales a $\mathbb{N}_{\ge 2}$.
+  iguales a $\mathbb{N}_{\ge 2}$.<br>
 
   Además, daremos algunos ejemplos de familias de semigrupos numéricos
   para los que el conjunto de longitudes de factorizaciones en
-  irreducibles son intervalos (trabajo conjunto con C. O’Neill).
+  irreducibles son intervalos (trabajo conjunto con C. O’Neill). <br>
 
 
-  **Referencias**
+  <strong>Referencias</strong><br>
 
   [1] P. A. García-Sánchez, Factorizations into irreducible numerical
-  semigroups, Commun. Korean Math. Soc. 40 (2025) 587–592 J. C. Rosales
-  and M. B. Branco, Decomposition of a numerical semigroup as an
+  semigroups, Commun. Korean Math. Soc. 40 (2025) 587–592 <br>
+  
+  [2] J. C. Rosales and M. B. Branco, Decomposition of a numerical semigroup as an
   intersection of irreducible numerical semigroups, Bull. Belg. Math. Soc.
-  Simon Stevin 9 (2002), 373–381.
+  Simon Stevin 9 (2002), 373–381.<br>
 
-  **Agradecimientos**
+  <strong>Agradecimientos</strong><br>
 
   Esta investigación se ha llevado a cabo con la financiación del grupo
   FQM-343 y del Proyecto de Excelencia ProyExcel00868 de la Junta de
@@ -216,7 +217,7 @@ monica.blancogomez@unican.es
   of the runners, a moment in time in which they are "lonely", that is, at
   distance at least $\frac{1}{n}$ from the others. A stronger version of
   the conjecture, called "shifted", allows the runners to have different
-  starting points.
+  starting points.<br>
 
   It is known that there is no loss of generality in assuming the
   velocities to be integers, and that the conjecture can be interpreted
@@ -224,14 +225,14 @@ monica.blancogomez@unican.es
   and Malikiosis (2019) rephrased the conjecture (both the original and
   the shifted one) as a convex-geometric question on certain lattice
   zonotopes, which we will call LRZ (Lonely Runner Zonotopes) or sLRZ (for
-  the shifted version).
+  the shifted version).<br>
 
   In this talk I will discuss some recent work on the study of these
   zonotopes, and how we are hoping this will help towards proving the
-  conjecture, at least in some cases.
+  conjecture, at least in some cases.<br>
 
 
-  **Agradecimientos**
+  <strong>Agradecimientos</strong><br>
 
   Supported by grants PID2022-137283NB-C21, funded by,
   MCIN/AEI/10.13039/501100011033
@@ -282,9 +283,9 @@ anna.de.mier@upc.edu
   one does not need the full cycle structure to compute the G-invariant,
   it is enough to know the "configuration" of the corresponding matroid.
   We show that the graphs we obtain not only have different associated
-  matroids but also have different configurations.
+  matroids but also have different configurations.<br>
 
-  **Agradecimientos**
+  <strong>Agradecimientos</strong><br>
 
   This work was partially supported by grant PID2023-147202NB-I00 funded
   by MICIU/AEI/10.13039/501100011033.
@@ -334,27 +335,27 @@ pgimenez@uva.es
   particular, to the Castelnuovo-Mumford regularity, of the toric ideal
   $I_\mathcal{A}$. This illustrates the interplay between additive
   combinatorics and commutative algebra, exhibiting how each area can help
-  to solve problems in the other one.
+  to solve problems in the other one.<br>
 
-  **Referencias**
+  <strong>Referencias</strong><br>
 
   [1] L. Colarte-Gómez, J. Elias and R.M. Miró-Roig (2023). Sumsets and
-  Veronese varieties. *Collect. Math.*, 74, 353–374.
+  Veronese varieties. *Collect. Math.*, 74, 353–374.<br>
 
   [2] S. Eliahou, E. Mazumdar (2022). Iterated sumsets and Hilbert functions.
-  *J. Algebra*, 593, 274–294.
+  *J. Algebra*, 593, 274–294.<br>
 
   [3] J. Elias (2022). Sumsets and Projective Curves. *Mediterr. J. Math.*,
-  19:177, 11 pp.
+  19:177, 11 pp.<br>
 
   [4] P. Gimenez and M. González Sánchez (2023). Castelnuovo-Mumford
   regularity of projective monomial curves via sumsets, *Mediterr. J.
-  Math.*, 20:287, 24 pp.
+  Math.*, 20:287, 24 pp.<br>
 
   [5] M. González-Sánchez (2025). *Syzygies, regularity, and their interplay
-  with additive combinatorics*. PhD Thesis, University of Valladolid.
+  with additive combinatorics*. PhD Thesis, University of Valladolid.<br>
 
-  **Agradecimientos**
+  <strong>Agradecimientos</strong><br>
 
   This work was partially supported by the grant PID2022-137283NB-C22
   funded by MICIU/AEI/10.13039/501100011033 and ERDF/EU.
@@ -378,9 +379,9 @@ gonzalez.sanchez.diego@renyi.hu
   terms of higher order harmonics such as $\exp(2\pi i\xi x^2)$. In this
   talk, we will introduce such a theory and a recent joint work with
   Candela and Szegedy which aims at bridging the gap between higher-order
-  Fourier analysis and possible applications.
+  Fourier analysis and possible applications.<br>
 
-  **Agradecimientos**
+  <strong>Agradecimientos</strong><br>
 
   This work is supported by Horizon Europe (HORIZON) via the Marie
   Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship number 101202161
@@ -416,7 +417,7 @@ bgmerino@um.es
   $\mathbb R^d$, we may select $k$ vectors with corresponding signs
   $\pm 1$ so that their signed sum has norm at least $c(d,n,k)$? The
   problem in dual to classical vector sum minimization and balancing
-  questions, which have been studied for over a century.
+  questions, which have been studied for over a century.<br>
 
   On the one hand, we will explain most of the known results regarding
   both exact values of $c(d,n,k)$ for small values of the parameters as
