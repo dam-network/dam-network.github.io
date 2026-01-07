@@ -9,7 +9,7 @@ title: Nodes of the network
 
 ### Node coordinators, with affiliations and research group
 
-- [Maria Bras-Amorós](https://web.mat.upc.edu/maria.bras/), Universitat Rovira i Virgili, [COPRICA: Codis, Privadesa i Combinatòria Algebraica]()
+- [Oriol Farràs](https://sites.google.com/site/oriolfv/), Universitat Rovira i Virgili, [COPRICA: Codis, Privadesa i Combinatòria Algebraica]()
 
 - [Pablo Candela](https://verso.mat.uam.es/~pablo.candela/), Universidad Autónoma de Madrid, [Harmonic Analysis, Combinatorics and Arithmetics](https://matematicas.uam.es/~fernando.chamizo/grant/overview.html)
 
