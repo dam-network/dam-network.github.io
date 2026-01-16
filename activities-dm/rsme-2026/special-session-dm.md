@@ -72,6 +72,9 @@ Códigos, Geometría Discreta.
 
 **Programa**
 
+El aula de celebración es el **Aula E01**, situada en la planta baja del Aulario II de la Universidad de
+Alicante.
+
 *Lunes, 19 de enero*
 
 | Hora | Autor, Título  |
