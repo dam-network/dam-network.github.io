@@ -18,6 +18,8 @@ This webpage contains a non-exhaustive a list of research groups in Discrete Mat
 
 - [ARCOMAR: Análisis armónico, combinatoria y aritmética](/directory-groups/arcomar) (Universidad Autónoma de Madrid)
 
+- [BIOCOM: Grup de Biologia Computacional i Bioinformàtica](/directory-groups/biocom)  (Universitat de les Illes Balears)
+
 - [Combinatoria y optimización: aplicación de modelos matemáticos discretos](/directory-groups/fqm-371)  (Universidad de Cadiz)
 
 - [CCSG: Combinatorics, Coding and Security Group](/directory-groups/ccsg) (Universitat Autònoma de Barcelona)

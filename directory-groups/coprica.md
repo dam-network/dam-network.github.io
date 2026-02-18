@@ -26,4 +26,4 @@ Alonso S. Castellanos (Universidade Federal de Uberlândia), Kwankyu Lee (Chosun
 
 ## Links of interest
 
-[COPRICA: Codis, Privadesa i Combinatòria Algebraica](https://crises-deim.urv.cat/~mbras/coprica), webpage of the GAPCOMB research group.
+[COPRICA: Codis, Privadesa i Combinatòria Algebraica](https://crises-deim.urv.cat/~mbras/coprica), webpage of the COPRICA research group.
