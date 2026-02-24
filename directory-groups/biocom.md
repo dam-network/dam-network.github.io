@@ -7,7 +7,7 @@ title: ""
 
 # Universitat de les Illes Balears
 
-![image](/directory-groups/biocom.pdf)
+![image](/directory-groups/biocom.jpeg)
 
 ## Research Interests
 
