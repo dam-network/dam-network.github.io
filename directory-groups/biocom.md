@@ -7,6 +7,7 @@ title: ""
 
 # Universitat de les Illes Balears
 
+![image](/directory-groups/biocom.pdf)
 
 ## Research Interests
 
@@ -42,4 +43,4 @@ Francesc Andreu Rosselló Llompart, Krzysztof Bartoszek, Marta Simeoni, Mariana 
 
 ## Links of interest
 
-[BIOCOM Weboage](https://www.uib.cat/recerca/estructures/estructura/BIOCOM/), webpage of the BIOCOM research group.
+[BIOCOM Webpage](https://www.uib.cat/recerca/estructures/estructura/BIOCOM/), webpage of the BIOCOM research group.
