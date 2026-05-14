@@ -4,9 +4,15 @@ title: Activities
 ---
 ## 2026
 
+**[Barcelona Mathematical Days 2026](https://scm.iec.cat/agenda/barcelona-mathematical-days-2026/)**, Barcelona, 7-9 October 2026. Special Session devoted to Discrete and Algorithmic Mathematics within the conference organised by the Societat Catalana de Matemàtiques. The session is organised by Anna de Mier, Alberto Espuny-Díaz and Arnau Padrol. Invited speakers TBA.
+
+
+**[Primera Jornada de la Red MDA](https://dam-network.github.io/dmd2026/)**, Granada, 1-2 July 2026.
+After DMD2026, we will celebrate the inaugural meeting of this network. The two-day event will feature a series of presentations highlighting the different research groups within the network.
+
 
 **[Discrete Mathematics Days 2026](https://dam-network.github.io/dmd2026/)**, Granada, 29 June - 1 July 2026.
-The conference will take place at the Faculty of Sciences of the University of Granada.
+The conference will take place at the Faculty of Sciences of the University of Granada. The main focus of this international conference is on current topics in Discrete Mathematics, including Coding Theory and Cryptography, Combinatorial Number Theory, Combinatorics, Discrete and Computational Geometry, Discrete Optimization, Graph Theory, and Theoretical Computer Science. Plenary speakers include Martina Juhnke (Universität Osnabrück), Kolja Knauer (Universitat de Barcelona), Lisa Sauermann (Universität Bonn) and Dimitrios Thilikos (LIRMM, Montpellier). The winner of the second edition of the Ramon Llull prize will be announced during the conference, where the awardee will give a prize talk. 
 
 **[Congreso Biennal RSME 2026](https://2026.bienalrsme.com/)**, Alicante, January 19-23, 2026.\
 Special Session devoted to [Discrete and Algorithmic Mathematics](/activities-dm/rsme-2026/special-session-dm/index.html) within the Congreso Bienal de la Real Sociedad Matemática Española (RSME) 2026. The invited speakers of the session are: Aida Abiad (TU/Eindhoven), Mónica Blanco (U. Santander), Anna de Mier (U. Politècnica Catalunya), Alberto Díaz-Espuny (U. Heidelberg), Pedro Garcia (U. Granada), Irene Gil Fernández (CEU San Pablo), Philippe Giménez (U. Valladolid), Bernardo González Merino (U. Múrcia), Diego Gonzalez-Sánchez (Alfred Rényi Institute), Luis Pedro Montejano (U. Rovira Virgili), Daniel Palacín (U. Complutense Madrid) and Rodrigo Silveira (U. Politècnica Catalunya). The session is organised by Maria Bras-Amorós, Pablo Candela, Guillem Perarnau and Francisco Santos.
