@@ -2,6 +2,12 @@
 layout: page
 title: Activities
 ---
+
+## 2027
+
+**[XV Encuentro Andaluz de Matemática Discreta](https://www.uco.es/congresos/xveamd/)** Córdoba, 27-29 January 2027. The XV Andalusian Meeting on Discrete Mathematics (XV EAMD) will take place in the city of Córdoba from January 27 to 29, 2027. The event, organized by the GRAPHORY Research Group FQM-423 of the Department of Mathematics at the University of Córdoba. The Organizing Committee hopes to count on the participation of the researchers who are already part of this great community, as well as all new participants interested in the topics covered by the event. All researchers wishing to participate actively in the meeting are invited to register and submit their contributions starting *May 25, 2026*. The topics for submitted works, although not necessarily limited to these areas, include: Algorithms and data structures, Discrete and combinatorial geometry, Graph Theory, Applications of Discrete Mathematics and Combinatorics. 
+
+
 ## 2026
 
 **[Barcelona Mathematical Days 2026](https://scm.iec.cat/agenda/barcelona-mathematical-days-2026/)**, Barcelona, 7-9 October 2026. Special Session devoted to Discrete and Algorithmic Mathematics within the conference organised by the Societat Catalana de Matemàtiques. The session is organised by Anna de Mier, Alberto Espuny-Díaz and Arnau Padrol. Invited speakers TBA.
