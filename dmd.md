@@ -13,9 +13,13 @@ The main focus of this international conference is on current topics in Discrete
 - Graph Theory.
 - Theoretical Computer Science.
 
-**Previous editions of the Discrete Mathematics Days**
+**Next edition of the Discrete Mathematics Days:**
 
 - [Granada, 29 June - 1 July 2026](https://dam-network.github.io/dmd2026/), 
+
+
+**Previous editions of the Discrete Mathematics Days:**
+
 - [Alcalá de Henares, July 3 - 5, 2024](https://dmd2024.web.uah.es/editions.html).
 - [Santander, July 4 - 6, 2022](https://dmd2022.unican.es/) (postponed from 2020).
 - [Seville, June 27 - 29, 2018](https://web.archive.org/web/20190417002813/http://congreso.us.es/dmd2018/).
