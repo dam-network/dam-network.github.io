@@ -58,6 +58,8 @@ title: Related networks
 
 **[MATSI: Matemáticas en la Sociedad de la Información](https://cryptull.webs.ull.es/MATSI.html)**
 
-**[Red de Análisis Funcional y Aplicaciones](https://www.uv.es/functanalys/index.html)**
+**[Red de Análisis Matemático y Aplicaciones](https://www.analisismatematico.org/)**
 
 **[Red Española de Topología](https://www.red-topologia.es)**
+
+**[Red de Análisis Geométrico](https://www.ugr.es/~reag/)**
