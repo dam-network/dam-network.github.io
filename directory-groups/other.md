@@ -15,7 +15,7 @@ Research Interests: Extremal and probabilistic combinatorics and Graph Theory.
 ### [Bernardo González Merino](https://sites.google.com/site/homepagebernardogonzalezmerino/home), Universidad de Murcia
 Research Interests: Convex Geometry, Asymptotic Geometric Analysis, Discrete Geometry, Geometry of Numbers, Polynomial Optimization.
 
-PhD Students: Mia Runge (Technische Universität München).
+PhD Students: Mia Runge and Florian Grundbacher (Technische Universität München), Beatriz Marín Gimeno (Universidad de Murcia).
 
 ### [Maria Angeles Hernández Cifre](https://webs.um.es/mhcifre/), Universidad de Murcia
 Research Interests: (Classical and dual) Brunn-Minkowski Theory, Convexity, Discrete Geometry, Geometry of Numbers, Lattice Theory, Inequalities and Geometric Optimization.
