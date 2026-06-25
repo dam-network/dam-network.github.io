@@ -9,9 +9,11 @@ title: Nodes of the network
 
 ### Node coordinators, with affiliations and research group
 
-- [Oriol Farràs](https://sites.google.com/site/oriolfv/), Universitat Rovira i Virgili, [COPRICA: Codis, Privadesa i Combinatòria Algebraica]()
-
 - [Pablo Candela](https://verso.mat.uam.es/~pablo.candela/), Universidad Autónoma de Madrid, [Harmonic Analysis, Combinatorics and Arithmetics](https://matematicas.uam.es/~fernando.chamizo/grant/overview.html)
+
+- [Paco Criado](https://www.cunef.edu/claustro-e-investigacion/criado-gallart-francisco/), CUNEF, Geometría discreta, álgebra y combinatoria
+
+- [Oriol Farràs](https://sites.google.com/site/oriolfv/), Universitat Rovira i Virgili, [COPRICA: Codis, Privadesa i Combinatòria Algebraica]()
 
 - [Pedro García](https://www.ugr.es/local/pedro), Universidad de Granada, [Semigrupos conmutativos](https://semigrupos.ugr.es)
 
