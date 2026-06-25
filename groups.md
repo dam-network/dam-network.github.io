@@ -21,7 +21,7 @@ title: Nodes of the network
 
 - [Bernardo González Merino](https://sites.google.com/site/homepagebernardogonzalezmerino/home), Universidad de Murcia, Convex and Discrete Geometry
 
-- [Gábor Lugosi](https://www.econ.upf.edu/~lugosi/), Universitat Pompeu Fabra, [Statistics@UPF](https://sites.google.com/view/stats-upf/)
+- [Eulàlia Nualart](https://www.upf.edu/web/eulalia-nualart), Universitat Pompeu Fabra, [Statistics@UPF](https://sites.google.com/view/stats-upf/)
 
 - [Irene Márquez Corbella](http://www.singacom.uva.es/~iremarquez/), Universidad de la Laguna, [GASIULL](https://gasiull.webs.ull.es/)
 
