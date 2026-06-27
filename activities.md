@@ -13,8 +13,8 @@ title: Activities
 **[Barcelona Mathematical Days 2026](https://scm.iec.cat/agenda/barcelona-mathematical-days-2026/)**, Barcelona, 7-9 October 2026. Special Session devoted to Discrete and Algorithmic Mathematics within the conference organised by the Societat Catalana de Matemàtiques. The session is organised by Anna de Mier, Alberto Espuny-Díaz and Arnau Padrol. Invited speakers TBA.
 
 
-**[Primera Jornada de la Red MDA](https://dam-network.github.io/dmd2026/)**, Granada, 1-2 July 2026.
-After DMD2026, we will celebrate the inaugural meeting of this network. The two-day event will feature a series of presentations highlighting the different research groups within the network.
+**[Primera Jornada de la Red MDA](/activities-dm/jornada-mad-2026/jornada-dma-2026)**, Granada, 1-2 July 2026.
+After [DMD2026](https://dam-network.github.io/dmd2026/), we will celebrate the inaugural meeting of this network. The two-day event will feature a series of presentations highlighting the different research groups within the network.
 
 
 **[Discrete Mathematics Days 2026](https://dam-network.github.io/dmd2026/)**, Granada, 29 June - 1 July 2026.
