@@ -48,8 +48,9 @@ Del 1 al 2 de julio de 2026
 Seminario 2, Instituto de Matemáticas, Universidad de Granada
 
 
-
 ## Programa
+
+El encuentro constará de presentaciones de los nodos de la red, un par de charlas científicas y una sesión de discusión abierta sobre el estado actual y planificación del futuro de la Red.
 
 ### Miércoles 1 de julio
 
