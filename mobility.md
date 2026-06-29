@@ -8,12 +8,13 @@ If you are an early-career researcher in Spain and working on a topics related t
 
 *Funded research stays*
 
-- **Guillermo Esteban**, PhD researcher at the University of Alcalá, on a research stay at the Universitat Politècnica de Catalunya for 2 weeks.
+- **Guillermo Esteban**, PhD researcher at the University of Alcalá, on a research stay (January 2025) at the Universitat Politècnica de Catalunya for 2 weeks. 
 
-- **Sara Asensio**, PhD researcher at the Universidad de Valladolid, on a research stay at the Universidad de La Laguna for 1 week.
+- **Sara Asensio**, PhD researcher at the Universidad de Valladolid, on a research stay (August 2025) at the Universidad de La Laguna for 1 week.
 
 - **Lluís Vena**, lecturer at the Universitat Politècnica de Catalunya, on a research stay at the University of Seville for 1 week.
 
-- **Mario González**, PhD researcher at the Universidad de Valladolid, on a research stay at the Universidad de La Laguna for 1 week.
+- **Mario González**, PhD researcher at the Universidad de Valladolid, on a research stay (August 2025) at the Universidad de La Laguna for 1 week.
 
 
+- **Xuening Gao**, PhD researcher at Universitat Politècnica de Catalunya, on a research stay (November 2026) at the Universidad de Sevilla for 2 weeks.
