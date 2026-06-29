@@ -72,9 +72,18 @@ El encuentro constará de presentaciones de los nodos de la red, un par de charl
 
 | Hora | |
 | -- | --- |
-|10:00-10:15 | José Ignacio Farrán - UVA |
-|10:15-10:30 | Delia Garijo - US |
-|10:30-10:45 | Bernardo González - UMU |
-|10:45-11:45 | Estado actual y planificación del futuro de la Red, y discusión abierta. |
-|11:45-12:15 | Coffee break |
-|12:15-13:00 | Charla científica (TBC) |
+|10:00-11:00| Patrick Morris, Some personal reflections on the use of AI in mathematics research |
+|11:00-11:30 | Pausa café |
+|11:30-11:45|José Ignacio Farrán - UVA |
+|11:45-12:00 | Delia Garijo - US |
+|12:00-12:15 | Bernardo González - UMU |
+|12:15-13:00 | Estado actual y planificación del futuro de la Red, y discusión abierta. |
+
+
+## Abstracts
+
+### Patrick Morris
+
+**Title:** Some personal reflections on the use of AI in mathematics research
+
+**Abstract:** There has been a dramatic increase in the use of AI within mathematical research recently and it seems very likely that this trend will continue. In this talk, I will share some personal reflections on what we have seen so far and the changes that this will bring to our community and culture moving forward.
