@@ -65,14 +65,14 @@ El encuentro constará de presentaciones de los nodos de la red, un par de charl
 |17:15-17:45 | Coffee break |
 |17:45-18:00 | Pedro Garcia - UGR |
 |18:00-18:15 | David Orden - UAH |
-|18:15-19:00 | Charla científica (Ignacio García Marco) |
+|18:15-19:00 | Ignacio García Marco, *Coloreando grupos* |
 | 21:00 | Cena de grupo (Antonio Pérez) |
 
 ### Jueves 2 de julio
 
 | Hora | |
 | -- | --- |
-|10:00-11:00| Patrick Morris, Some personal reflections on the use of AI in mathematics research |
+|10:00-11:00| Patrick Morris, *Some personal reflections on the use of AI in mathematics research* |
 |11:00-11:30 | Pausa café |
 |11:30-11:45|José Ignacio Farrán - UVA |
 |11:45-12:00 | Delia Garijo - US |
