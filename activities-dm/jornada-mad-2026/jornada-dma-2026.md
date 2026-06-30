@@ -82,8 +82,16 @@ El encuentro constará de presentaciones de los nodos de la red, un par de charl
 
 ## Abstracts
 
+### Ignacio García-Marco
+
+**Title:** Coloreando grupos
+
+**Abstract:**  En 1978, Babai preguntó si todos los grafos de Cayley minimales de grupos finitos tienen número cromático acotado. En esta charla mostraremos que todo grafo de Cayley minimal de un grupo diedral o nilpotente es 3-coloreable, mientras que a veces son necesarios cuatro colores para grupos resolubles. También discutiremos problemas relacionados y preguntas abiertas. 
+Esta charla está basada en un trabajo conjunto con Kolja Knauer.
+
 ### Patrick Morris
 
 **Title:** Some personal reflections on the use of AI in mathematics research
 
 **Abstract:** There has been a dramatic increase in the use of AI within mathematical research recently and it seems very likely that this trend will continue. In this talk, I will share some personal reflections on what we have seen so far and the changes that this will bring to our community and culture moving forward.
+
