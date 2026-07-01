@@ -74,8 +74,8 @@ El encuentro constará de presentaciones de los nodos de la red, un par de charl
 | -- | --- |
 |10:00-11:00| Patrick Morris, *Some personal reflections on the use of AI in mathematics research* |
 |11:00-11:30 | Pausa café |
-|11:30-11:45|José Ignacio Farrán - UVA |
-|11:45-12:00 | Delia Garijo - US |
+|11:30-11:45| Delia Garijo - US  |
+|11:45-12:00 | José Ignacio Farrán - UVA |
 |12:00-12:15 | Bernardo González - UMU |
 |12:15-13:00 | Estado actual y planificación del futuro de la Red, y discusión abierta. |
 
