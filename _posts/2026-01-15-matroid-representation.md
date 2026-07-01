@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent Trends XIII: Classification of matroid representations"
+title: "Recent Trends XI: Classification of matroid representations"
 abstract: "Matroids are a combinatorial object that capture the essence of linear dependence beyond the setting of vector spaces. They generalize notions
 of independence in linear algebra and graph theory."
 tag: 'Trend'
