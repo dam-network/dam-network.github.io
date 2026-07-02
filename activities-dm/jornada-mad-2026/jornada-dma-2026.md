@@ -95,3 +95,4 @@ Esta charla está basada en un trabajo conjunto con Kolja Knauer.
 
 **Abstract:** There has been a dramatic increase in the use of AI within mathematical research recently and it seems very likely that this trend will continue. In this talk, I will share some personal reflections on what we have seen so far and the changes that this will bring to our community and culture moving forward.
 
+![foto de grupo](/public/img/foto-primera-jornada.jpg)
