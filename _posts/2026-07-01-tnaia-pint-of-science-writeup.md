@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent Trends XIII: Colourful questions and seating plans"
+title: "Recent Trends XIV: Colourful questions and seating plans"
 abstract: "What a wonderful thing it is to be able to learn from other people. It is especially enriching when we step outside our usual circles, because then we get to hear about things that are very different from our day-to-day lives. These interactions are often transformative, not only in how we understand the world beyond our bubble, but also in how they can change the way we do the things we are used to doing."
 tag: 'Trend'
 ---
