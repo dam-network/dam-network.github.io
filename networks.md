@@ -28,6 +28,11 @@ title: Related networks
 
 **[Fachgruppe Diskrete Mathematik](https://www.fg-diskrete.mathematik.de/)**
 
+
+### Hungary
+
+**[Geometry: Convexity and Combinatorics](https://www.renyi.hu/gecco/)**
+
 ### Netherlands
 
 **[DIAMANT](https://diamantcluster.nl/)**\
