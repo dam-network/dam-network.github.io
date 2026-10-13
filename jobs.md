@@ -5,6 +5,9 @@ title: Job opportunities
 
 **Faculty**
 
+- [Full-time
+tenure-eligible lecturer position under the Serra Húnter Programme in Cryptography](/jobs/faculty_URV_26) (deadline 26/10/26)
+
 - [Three Lector positions in Math at the Universitat Politècnica de Catalunya](https://treballa.upc.edu/ca/convocatories-de-concursos/Concursos-pdi-laboral-temporal/resolucio-103_saip_pdi-2025-8267-304-lectors/resolucio-103_saip_pdi-2025-8267-304-lectors) (deadline 10/02/26)
 
 - [Ayudante Doctor position in Algebra at the University of La Laguna](/jobs/faculty_ULL_25) (deadline 07/04/25)
