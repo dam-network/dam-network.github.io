@@ -3,7 +3,26 @@ layout: page
 title: Activities
 ---
 
-## 2027
+**[Hypatia Graduate Summer School 2027 in Extremal and probabilistic combinatorics](https://www.crm.cat/hypatia-2027/)** Barcelona, 21 June-2 July 2027. Extremal and probabilistic combinatorics studies how dense or sparse a combinatorial structure can be before a particular pattern emerges. It lies at the intersection of graph theory, probability, geometry, number theory, and theoretical computer science, and is one of the most active and rapidly developing areas in discrete mathematics. Over the past decade, the field has witnessed a remarkable series of breakthroughs on longstanding open problems, together with the development of powerful new techniques that continue to shape research across mathematics. This summer school will provide an introduction to several central themes in extremal and probabilistic combinatorics through courses delivered by leading researchers in the field. The programme is aimed primarily at PhD students and early-career researchers, and will combine lectures with exercise sessions, student talks, and opportunities for informal discussion and collaboration. The topics covered will reflect both the classical foundations of the subject and some of its most exciting recent developments. Lectures:
+
+- Thresholds by Jinyoung Park (Courant Institute, New York University, USA).
+
+- Six ways to look at a sum (of independent random variables), by Matthew Jenssen (King’s College London, UK) and Julian Sahasrabudhe (University of Cambridge, UK).
+
+
+The school will take place at the Centre de Recerca Matemàtica (CRM), Bellaterra (Barcelona). One of the sessions will be held at the Institut d’Estudis Catalans.
+
+
+**[XXII Spanish Meeting on Computational Geometry](https://imus.us.es/congresos/egc2027sevilla/)** Sevilla, 7-9 July 2027. The XXII Spanish Meeting on Computational Geometry (EGC2027) will be held from July 7 to July 9, 2027 at Instituto de Matemáticas de la Universidad de Sevilla (IMUS). The topics of this international conference include the current issues in the field of Discrete and Computational Geometry, both in its theoretical and applied aspects.
+The expected participation includes undergraduates, master's students, doctoral students, researchers from the area or closer disciplines, and other professionals whose work involves the use of geometric algorithms.
+The format of the conference consists of three invited lectures plus a number of contributed talks. The invited speakers for this edition are:
+- Anne Driemel (Universität Bonn, Germany)
+- Vida Dujmovic (University of Ottawa, Canada)
+- David Orden (Universidad de Valladolid, Spain)
+
+
+**[]()**
+
 
 **[XV Encuentro Andaluz de Matemática Discreta](https://www.uco.es/congresos/xveamd/)** Córdoba, 27-29 January 2027. The XV Andalusian Meeting on Discrete Mathematics (XV EAMD) will take place in the city of Córdoba from January 27 to 29, 2027. The event, organized by the GRAPHORY Research Group FQM-423 of the Department of Mathematics at the University of Córdoba. The Organizing Committee hopes to count on the participation of the researchers who are already part of this great community, as well as all new participants interested in the topics covered by the event. All researchers wishing to participate actively in the meeting are invited to register and submit their contributions starting *May 25, 2026*. The topics for submitted works, although not necessarily limited to these areas, include: Algorithms and data structures, Discrete and combinatorial geometry, Graph Theory, Applications of Discrete Mathematics and Combinatorics. 
 
