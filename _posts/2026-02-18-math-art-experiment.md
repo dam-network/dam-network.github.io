@@ -4,6 +4,7 @@ title: "Recent Trends XII: The mathematical art of experiment design"
 abstract: "Experiments are crucial across the sciences, but how do you design them well? Mathematics, particularly Combinatorics, offers answers through concepts like randomness and combinatorial designs. Recent breakthroughs in generating random designs open new vistas for efficient and fair experimental setups."
 tag: 'Trend'
 author: "Patrick Morris and Guillem Perarnau"
+affiliation: "Universitat Politècnica de Catalunya"
 ---
 
 <!-- LTeX: language=en-GB -->

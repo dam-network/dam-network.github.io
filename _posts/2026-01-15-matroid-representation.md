@@ -5,6 +5,7 @@ abstract: "Matroids are a combinatorial object that capture the essence of linea
 of independence in linear algebra and graph theory."
 tag: 'Trend'
 author: "Adriana Moya Viñas"
+affiliation: "Universitat Rovira i Virgili"
 ---
 
 Matroids are a combinatorial object that capture the essence of linear

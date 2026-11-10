@@ -4,6 +4,7 @@ title: "Recent Trends IX: Finding signed subset sums of unit vectors of large no
 abstract: "Amongst every signed sum of a subset of k elements of a given set of n unit vectors in the d-dimensional space, select the one of maximum Euclidean norm, and find how small can this value be. This problem belongs to a very important family of problems in discrete and convex geometry, in particular, to that of 'unit vector balancing problems'. This problem is connected to geometric optimization, geometric discrepancy theory, lp-polarization problem, or p-frame energies, amongst others."
 tag: 'Trend'
 author: "Bernardo González Merino"
+affiliation: "Universidad de Murcia"
 ---
 
 **Open question 1**. *Given $2 \leq d\leq n$, $1\leq k\leq n$, what is

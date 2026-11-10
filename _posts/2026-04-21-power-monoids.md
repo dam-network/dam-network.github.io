@@ -4,6 +4,7 @@ title: "Recent Trends XIII: The isomorphism problem for power semigroups"
 abstract: "The systematic study of power semigroups began in the 1960s and was initiated by Tamura and Shafer. A central question that arose from their work was the so called isomorphism problem for power semigroups"
 tag: 'Trend'
 author: Balint Rago
+affiliation: "University of Graz"
 ---
 
 Let $(S,\cdot)$ be a semigroup. We denote by ${\mathcal P}(S)$ the *large power semigroup* of $S$, that is, the family of all non-empty subsets of $S$, endowed with the binary operation of setwise multiplication 
