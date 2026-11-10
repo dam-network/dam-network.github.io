@@ -3,6 +3,7 @@ layout: post
 title: "Recent trends VIII. Tom Hutchcroft: an EMS prize for important progress on percolation theory"
 abstract: 'As it is stated in Hutchcroft’s laudatio, this EMS Prize has been awarded *"for his revolutionary contributions to probability theory and geometric group theory, in particular to percolation theory on general graphs, using tools from geometry, operator theory, group theory and functional analysis."*.'
 tag: 'Trend'
+author: "Juan José Rué Perna"
 ---
 
 As it is stated in Hutchcroft’s laudatio, this EMS Prize has been

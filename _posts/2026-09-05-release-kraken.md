@@ -3,6 +3,7 @@ layout: post
 title: "Recent Trends XV: Release the Kraken and Other Graph-Embedding Adventures"
 abstract: "A classic example used to introduce graph theory starts as follows. Imagine a room full of guests. Some of them know each other (we can draw a line, or an *edge*, between them), and some do not."
 tag: 'Trend'
+author: Irene Gil Fernández
 ---
 
 ## Introduction: Friendship Networks, Seating Plans, and the Art of Finding Order in Chaos

@@ -5,6 +5,7 @@ abstract: "In this essay, I put forward some ideas on what the future of
 mathematical culture could look like as well as thoughts and concrete
 suggestions for how we get there."
 tag: 'Trend'
+author: Patrick Morris
 ---
 
 **This is a repost of the author's article in [Proofs&Prompts](https://proofsandprompts.com/2026/10/30/lets-stop-writing-papers/).**

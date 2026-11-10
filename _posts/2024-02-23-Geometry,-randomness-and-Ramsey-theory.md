@@ -3,6 +3,7 @@ layout: post
 title: 'Recent trends I: Geometry, randomness and Ramsey theory'
 abstract: Since its inception in  the early 1900s, Ramsey theory has flourished and become a cornerstone of modern discrete mathematics (and beyond). The central question asks to determine $r(s,t)$; the minimum integer $n\in \mathbb{N}$ such that any red/blue-colouring of the edges of the complete graph $K_n$ results in either a red $K_s$ or a blue $K_t$
 tag: 'Trend'
+author: "Patrick Morris"
 ---
 
 

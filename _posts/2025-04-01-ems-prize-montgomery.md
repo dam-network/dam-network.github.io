@@ -3,6 +3,7 @@ layout: post
 title: "Recent trends VII: Richard Montgomery receives the ECM Prize 2024"
 abstract: Richard Montgomery was one of the ten recipients of the prestigious European Mathematical Society (EMS) prize, given in during the ninth European Congress of Mathematics, in Sevilla.
 tag: 'Trend'
+author: "Tássio Naia"
 ---
 
 Richard Montgomery was one of the ten recipients of the prestigious
