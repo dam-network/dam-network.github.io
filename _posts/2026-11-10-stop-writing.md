@@ -7,6 +7,8 @@ suggestions for how we get there."
 tag: 'Trend'
 ---
 
+**This is a repost of the author's article in [Proofs&Prompts](https://proofsandprompts.com/2026/10/30/lets-stop-writing-papers/).**
+
 
 **AI Disclosure:** All sentiments and words are my own. I used Chat GPT
 6 medium to suggest other essays discussing changes in mathematical
@@ -16,7 +18,6 @@ term that is \`like mapping out but starting with an a' (which
 admittedly I probably could have got to myself if I had thought for a
 moment).
 
-**This is a repost of the author's article in [Proofs&Prompts](https://proofsandprompts.com/2026/10/30/lets-stop-writing-papers/).**
 
 In this essay, I put forward some ideas on what the future of
 mathematical culture could look like as well as thoughts and concrete
